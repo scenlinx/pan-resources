@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">190</td><td align="center">2026-09-08</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">36</td><td align="center">2026-09-08</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">83</td><td align="center">2026-09-08</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">5</td><td align="center">2026-09-07</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">5</td><td align="center">2026-09-08</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">17</td><td align="center">2026-09-08</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">7</td><td align="center">2026-09-07</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">94</td><td align="center">2026-09-08</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">23</td><td align="center">2026-09-08</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">253</td><td align="center">2026-09-08</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">51</td><td align="center">2026-09-08</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">99</td><td align="center">2026-09-08</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">8</td><td align="center">2026-09-08</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">6</td><td align="center">2026-09-08</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">18</td><td align="center">2026-09-08</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">13</td><td align="center">2026-09-08</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">123</td><td align="center">2026-09-08</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">29</td><td align="center">2026-09-08</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,208 +24,164 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 济公之降龙除妖
-[2026-09-08 12:15] 来自：最新电影|最新电视剧|最新动漫|夸克网盘资源
-
-名称：济公之降龙除妖(2026) 4K HDR 高码率 FLAC+DDP2.0+HiFi 中字【2.2GB/集】更08集，陈浩民/陈紫函/林子聪
-
-描述：济公游走凡尘渡化众生，却身陷宿命情劫。与旧识女子因缘重逢，二人在爱恨纠葛中直面妖邪祸乱。一边是灵隐寺嬉笑日常，一边是神魔殊死博弈。勘破贪嗔痴妄，于悲欢离合间，降妖除魔，守护世间安宁。
-
-夸克网盘：https://pan.quark.cn/s/e84b0dca501b
-
-📁 大小：2.2GB/集
-
-🏷 标签：#济公之降龙除妖 #奇幻 #古装
-
-<img src="tg_media/4323669403/济公之降龙除妖_2026.jpg" width="600" />
-
-
 ## 交锋
-[2026-09-08 12:10] 来自：肯德基の4K影视综合电影云盘站
+[2026-09-08 18:57] 来自：综合网盘资源频道
 
-名称：交锋 (2026) 6集 4K SDR 高码
+名称：交锋 (2026) [WEB-4K] [国语中字] [更至7集]
 
-描述：故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闵中市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里 不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……
+描述：一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着。
 
-链接：
+夸克网盘：https://pan.quark.cn/s/f94e5045eb87
 
-夸克网盘：https://pan.quark.cn/s/d077ad29a188
+百度网盘：https://pan.baidu.com/s/1BZBkjeFArYJ1SCBfqDan5w?pwd=1111
 
-📁 大小：NG
+迅雷网盘：https://pan.xunlei.com/s/VP0qSLd5_JmqTbfWHiWp8tkhA1?pwd=rnif
 
-🏷 标签：#交锋 #剧情
+📁 大小：N/A
 
-🎉 来自：热心用户
+🏷 标签：#剧情 #交锋 #4K #国语中字 #quark #baidu #xunlei
 
-📢 频道：[资源频道](https://t.me/joinchat/Djia5z2lVsI5ODRl)
-
-👥 群组：[@Quark_Share_Group](https://telegram.me/Quark_Share_Group)
-
-🤖 投稿：[@QuarkRobot](https://telegram.me/QuarkRobot)
-
-<img src="tg_media/2710552707/交锋_2026.jpg" width="600" />
-
-
-## 狐步
-[2026-09-08 12:10] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
-
-名称：狐步 (2025)
-
-#电影 #剧情 #夸克 #迅雷 #百度
-
-主演: 塞缪尔·基尔舍 约安·布兰克 让-巴普蒂斯特·杜朗 
-
-豆瓣: [7.0](https://movie.douban.com/subject/36430909/)
-
-拳击新秀卡密与伙伴在体育寄宿学校的生活是永无止尽的练习，在挥汗交锋中把青春正盛的身体锻造成武器，去森林喂食野狐是压力下的唯一喘息。一次坠崖意外中，卡密被好友从鬼门关..
-
-夸克网盘：https://pan.quark.cn/s/6f9b77293028
-
-迅雷网盘：https://pan.xunlei.com/s/VOwrP-0myVHqGR3Vwk-STnPlA1?pwd=46xr
-
-百度网盘：https://pan.baidu.com/s/18Hy0OzrpTVCYFDHChIBIBw?pwd=av4g
-
-<img src="tg_media/2455883223/狐步_2025.jpg" width="600" />
-
-
-## 灵猪降妖
-[2026-09-08 12:10] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
-
-名称：灵猪降妖 (2026)
-
-#电影 #剧情 #奇幻 #冒险 #夸克 #迅雷 #百度
-
-主演: 潘星 裘逑 马德华 
-
-豆瓣: [0](https://movie.douban.com/subject/38574208/)
-
-一个被灭族的小猪妖临危受命，勇敢挑起拯救部落的重担。在寻找净坛使者的道路上，他历经磨难，克服了一道又一道的难关，战胜了无数艰险，同时也找到了自信。最后在净坛使者的帮..
-
-夸克网盘：https://pan.quark.cn/s/1999731f7dd9
-
-迅雷网盘：https://pan.xunlei.com/s/VOz6rSb5fD-YhZve-cZxMqt2A1?pwd=grkr
-
-百度网盘：https://pan.baidu.com/s/1fTUWHxaZHEQrE69a5ho32A?pwd=yyds
-
-<img src="tg_media/2455883223/灵猪降妖_2026.jpg" width="600" />
-
-
-## 青丘药郎
-[2026-09-08 12:10] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
-
-名称：青丘药郎 (2026)
-
-#电视剧 #短片 #古装 #奇幻 #悬疑 #夸克 #迅雷 #百度
-
-主演: 蒙恩 赵慕颜 何德瑞 
-
-豆瓣: [0](https://movie.douban.com/subject/37456075/)
-
-天仙青玄下凡，化身青丘狐妖修炼。他携带神秘法宝“虹”，游历人间，以“化身”之法降伏妖魔。在这段人间旅程中，他与同伴们洞察人性的种种面貌，历经无数磨难险阻，最终领悟了..
-
-夸克网盘：https://pan.quark.cn/s/3e4cf2296ed5
-
-迅雷网盘：https://pan.xunlei.com/s/VOuuz0dt-rc2jL9BgIMJGCa7A1?pwd=bi69
-
-百度网盘：https://pan.baidu.com/s/199a5s_PW_4pKTb4K8GSY9Q?pwd=yyds
-
-<img src="tg_media/2455883223/青丘药郎_2026.jpg" width="600" />
+<img src="tg_media/2605109003/交锋_2026.jpg" width="600" />
 
 
 ## 囧徒之预演告别
-[2026-09-08 12:09] 来自：综合网盘资源频道
+[2026-09-08 18:56] 来自：综合网盘资源频道
 
-名称：囧徒之预演告别 (2026) 4K 全15集超前点播
+名称：囧徒之预演告别 (2026)web-4k DoVi杜比视界 简体字幕 完结15集
 
-描述：方浩文(贾冰 饰)的笔是欢喜市最廉价的武器，写不出最畅销的书，却能刺穿最荒诞的现实。女企业家金芙蓉(孔令美 饰)的赏识让他一朝成名，又在拒绝求爱后跌落云端。一场醉酒坠楼，一场“自杀”闹剧，将他推上流量时代的风口浪尖——前经纪人(闫佩伦 饰)怂恿他“用死亡换销量”翻红网络。
+描述：方浩文(贾冰 饰)的笔是欢喜市最廉价的武器，写不出最畅销的书，却能刺穿最荒诞的现实。女企业家金芙蓉(孔令美 饰)的赏识让他一朝成名，又在拒绝求爱后跌落云端。
 
-夸克网盘：https://pan.quark.cn/s/751a87819859
+夸克网盘：https://pan.quark.cn/s/907b91d191b7
 
-百度网盘：https://pan.baidu.com/s/1_SGJCqLnR_nt5NBBsEvqIg?pwd=kUj3
+百度网盘：https://pan.baidu.com/s/1A0JRJPjzOs-uNSQpsWq56g?pwd=Qiye
 
-迅雷网盘：https://pan.xunlei.com/s/VP0zBwFUL3z4PiIUbLyWwh-bA1?pwd=s7km
+📁 大小：14GB
 
-📁 大小：11.6GB
-
-🏷 标签：#囧徒之预演告别 #剧情 #喜剧 #国剧 #4K #超前点播 #ali #quark #baidu #xunlei
+🏷 标签：#囧徒之预演告别 #4k #DoVi杜比视界 #简体字幕 #quark #baidu
 
 <img src="tg_media/2605109003/囧徒之预演告别_2026.jpg" width="600" />
 
 
-## 欢迎来龙餐馆
-[2026-09-08 12:09] 来自：最新电影|最新电视剧|最新动漫|夸克网盘资源
+## 远程控制工具
+[2026-09-08 18:55] 来自：Fang的资源分享群
 
-名称：欢迎来龙餐馆‎ (2026) 1080P WEB-DL AAC2.0 内嵌中英双字【3.7GB】沈腾/蒋奇明
+名称：远程控制工具
 
-描述： 徐福（沈腾 饰）为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生（蒋奇明 饰）。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？ 又名： Once Upon a Time in the Middle East
+一款免费的远程控制软件，非向日葵与TS平台，提供远程桌面连接，适用于办公协助、设备维护等场景，可帮助用户远程操控另一台电脑。
 
-夸克网盘：https://pan.quark.cn/s/cd0d4a864077
+夸克网盘：https://pan.quark.cn/s/14e044160e7a
 
-📁 大小：3.7GB
+#远程控制 #免费软件 #虚拟产品 #办公协助 #设备维护
 
-🏷 标签：#欢迎来龙餐馆‎  #剧情 #战争
-
-<img src="tg_media/4323669403/欢迎来龙餐馆_2026.jpg" width="600" />
+<img src="tg_media/2365950566/远程控制工具.jpg" width="600" />
 
 
-## 星球大战曼达洛人与古古
-[2026-09-08 12:07] 来自：4K影视屋(分屋）-蓝光无损电影
+## 罗曼蒂克消亡史
+[2026-09-08 18:54] 来自：Fang的资源分享群
 
-名称：星球大战：曼达洛人与古古(2026)【1080p 原盘REMUX】【国英双语】【内封简繁英双语特效字幕】
+名称：罗曼蒂克消亡史
 
-描述：“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。
+该资源包含程耳导演作品《罗曼蒂克消亡史》的国内公映版与网飞国际版，两版时长不同，可自行对比内容差异，适合影迷观看与讨论。
 
-夸克网盘：https://pan.quark.cn/s/c97cf3eee675
+夸克网盘：https://pan.quark.cn/s/2747d68266e7
 
-百度网盘：https://pan.baidu.com/s/1Td7mCJJgZRXyS7Atw3F5PA?pwd=Yu66
+#电影资源 #导演剪辑版 #版本对比 #程耳作品
 
-迅雷网盘：https://pan.xunlei.com/s/VP0ypmgRrBM_ww05MAqh5K0WA1?pwd=kuw5
-
-115：https://115cdn.com/s/swsdnb136o9?password=AQAQ
-
-📁 大小：36.3GB
-
-🏷 标签：#星球大战 #曼达洛人与古古 #1080p #蓝光原盘 #科幻
-
-<img src="tg_media/1579771600/星球大战_曼达洛人与古古_2026.jpg" width="600" />
+<img src="tg_media/2365950566/罗曼蒂克消亡史.jpg" width="600" />
 
 
-## 飞到我心上
-[2026-09-08 12:06] 来自：肯德基の4K影视综合电影云盘站
+## 当贝市场
+[2026-09-08 18:54] 来自：Fang的资源分享群
 
-名称：飞到我心上 (2026) [1080P] [国语中字] [更至16集]
+名称：当贝市场 电视盒子应用市场 软件下载管理一体化工具
 
-名称：飞到我心上 (2026) [1080P] [国语中字] [更至16集]
+当贝市场是专为电视盒子设计的应用市场提供软件下载与管理一体化功能方便用户安装更新和卸载应用适用于智能电视及电视盒子设备
 
-描述：阮思娴因航空公司取消飞行员培训计划而辞职学飞，三年后以优异成绩毕业并踏上机长之路。与此同时，傅明予面临公司改革的重重阻碍，两人在梦想与现实的碰撞中经历误会与挑战，逐渐走向彼此理解。
+夸克网盘：https://pan.quark.cn/s/51cd3cf788c9
 
-夸克网盘：https://pan.quark.cn/s/93b15e88ce0b
+#当贝市场 #电视盒子 #应用商店 #软件管理 #智能电视
 
-百度网盘：https://pan.baidu.com/s/1cn_lbcSHhB_SGQ9agSxDgw?pwd=1111
-
-迅雷网盘：https://pan.xunlei.com/s/VP0oqsZ_jEPnodhEJ9WpKE1QA1?pwd=4ju9
-
-📁 大小：N/A
-
-🏷 标签：#剧情 #爱情 #飞到我心上
-
-<img src="tg_media/2710552707/飞到我心上_2026.jpg" width="600" />
+<img src="tg_media/2365950566/当贝市场_电视盒子应用市场_软件下载管理一体化工具.jpg" width="600" />
 
 
-## 早春晴朗
-[2026-09-08 12:06] 来自：肯德基の4K影视综合电影云盘站
+## 刷鸭v100
+[2026-09-08 18:54] 来自：Fang的资源分享群
 
-名称：早春晴朗‎ (2026) 4K SDR HDR DV杜比视界 高码率 DTS5.1+DDP5.1 中字【8.4GB/集】更20集，井柏然/孙千
+名称：刷鸭v1.0.0 高质量随机小姐姐视频 内置20+接口
 
-描述： 这是一段敬于才华，合于性格、久于平等的禁忌之恋。极具天盛的“鬼才”栾念与北漂伊始的尚之桃狭路相逢。热烈勇敢的尚之桃亦步亦趋地蜕变成长，撬碎了栾念世故坚硬的心防，互相吸引的二人在都市丛林中极限拉扯、分分合合。爱情，就是用光所有勇气，再无遗憾。爱，则是互相修复，共同成长。在情和爱之间，他逐渐收敛锋芒，她开始独当一面，势均力敌的他们将会为彼此写下新的结局…… 该剧根据姑娘别哭同名小说改编。 又名： The Early Spring
+提供随机小姐姐视频浏览工具，内置20多个视频接口，可切换不同源。适合休闲娱乐时快速发现新鲜短视频，操作简单，满足观看随机视频的需求。
 
-夸克网盘：https://pan.quark.cn/s/81c18f596da0
+夸克网盘：https://pan.quark.cn/s/7b110f5bfb01
 
-📁 大小：8.4GB/集
+#短视频 #随机视频 #视频接口 #休闲娱乐
 
-🏷 标签：#早春晴朗‎  #剧情 #爱情
+<img src="tg_media/2365950566/刷鸭v1_0_0_高质量随机小姐姐视频_内置20_接口.jpg" width="600" />
 
-<img src="tg_media/2710552707/早春晴朗_2026.jpg" width="600" />
+
+## 家庭关系证明书
+[2026-09-08 18:52] 来自：综合网盘资源频道
+
+名称：家庭关系证明书 가족관계증명서 (2026) 【更新至46集】【1080p】【韩语中字】【韩剧】
+
+描述：　本剧讲述的是从出生瞬间开始就被打上家庭崩溃烙印的一个孩子和面对冷酷的偏见和命运，重新找回自己人生的女性故事。
+
+夸克网盘：https://pan.quark.cn/s/4ec4efff4e7d
+
+📁 大小：NA
+
+🏷 标签：#家庭关系证明书 #1080p #韩语中字 #韩剧 #quark
+
+<img src="tg_media/2605109003/家庭关系证明书_2026.jpg" width="600" />
+
+
+## 一念永恒
+[2026-09-08 18:34] 来自：综合网盘资源频道
+
+名称：一念永恒 完结季(2026) WEB-4K H265.AAC 第10集
+
+描述：为苍生大义，白小纯不得不与通天道人展开决战。随着旧世界破碎，众人流落天外的永恒大陆....
+
+夸克网盘：https://pan.quark.cn/s/ddb3001b9f47
+
+百度网盘：https://pan.baidu.com/s/1Y4B-gBjzvjtfnPq6g0R8xg?pwd=Qiye
+
+📁 大小：1.5GB
+
+🏷 标签：#一念永恒 #完结季 #4K #AAC #quark #123pan #baidu
+
+<img src="tg_media/2605109003/一念永恒_完结季_2026.jpg" width="600" />
+
+
+## 遮天
+[2026-09-08 18:34] 来自：肯德基の4K影视综合电影云盘站
+
+名称：遮天 年番4‎ (2026)WEB-4k 第180集
+
+描述：冰冷与黑暗并存的宇宙深处，九具庞大的龙尸拉着一口青铜古棺，亘古长存。这是太空探测器在枯寂的宇宙中捕捉到的一幅极其震撼的画面……
+
+夸克网盘：https://pan.quark.cn/s/53f0d8b00f87
+
+百度网盘：https://pan.baidu.com/s/1U_HFAyGF6P2GBP6nf_MuEw?pwd=j69e
+
+📁 大小：1GB /集
+
+🏷 标签：#遮天 #奇幻 #冒险
+
+<img src="tg_media/2710552707/遮天_年番4_2026.jpg" width="600" />
+
+
+## 100COZE扣子工作流合集
+[2026-09-08 18:33] 来自：Fang的资源分享群
+
+名称：100+COZE扣子工作流合集
+
+提供Coze扣子平台现成工作流合集，涵盖多种自动化与AI应用场景，可直接参考复用，帮助用户快速搭建流程、减少配置时间，适用于开发者和爱好者。
+
+夸克网盘：https://pan.quark.cn/s/b36d26ba7a07
+
+#扣子工作流 #自动化流程 #智能应用 #流程模板 #资源合集
+
+<img src="tg_media/2365950566/100_COZE扣子工作流合集.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
