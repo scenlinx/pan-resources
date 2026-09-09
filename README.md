@@ -8,13 +8,13 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">105</td><td align="center">2026-09-10</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">107</td><td align="center">2026-09-10</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
 <tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">19</td><td align="center">2026-09-09</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
 <tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">42</td><td align="center">2026-09-10</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">4</td><td align="center">2026-09-09</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">5</td><td align="center">2026-09-10</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">2</td><td align="center">2026-09-09</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">8</td><td align="center">2026-09-10</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">13</td><td align="center">2026-09-10</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">9</td><td align="center">2026-09-10</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">15</td><td align="center">2026-09-10</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
 <tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">38</td><td align="center">2026-09-09</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">15</td><td align="center">2026-09-09</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
@@ -22,6 +22,34 @@
 ## 综合分类最新收录（前 10 个 · 完整信息）
 
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
+
+
+## A4纸打印模板合集满足全场景书写需求
+[2026-09-10 06:22] 来自：精选网盘资源
+
+名称：A4纸打印模板合集，满足全场景书写需求
+
+一套全面覆盖日常书写与计划需求的A4打印模板合集，共60款高清PDF，包含网格本、横线信纸、五线谱、拼音练习纸、田字格、作文纸、周计划月计划、待办清单、会议记录、草图网格等丰富类型。
+
+夸克网盘：https://pan.quark.cn/s/5b58edcac6be
+
+#A4纸打印模板 #网格横线 #办公必备 #实用打印模板
+
+<img src="tg_media/2184113908/A4纸打印模板合集_满足全场景书写需求.jpg" width="600" />
+
+
+## 智慧攻心术聪明人都在用的心理博弈实操手册
+[2026-09-10 06:20] 来自：精选网盘资源
+
+名称：《智慧攻心术》：聪明人都在用的心理博弈实操手册
+
+为什么你磨破嘴皮也说服不了对方，别人三句话就能让人点头？差别在于——你不会“攻心”。这本书给你190个拿来就能用的心理博弈招数，它不教空理论，全是直取目标的实操方法。
+
+夸克网盘：https://pan.quark.cn/s/64512ba225cc
+
+#智慧攻心术 #心理博弈 #精准说服 #看透人心 #解决问题
+
+<img src="tg_media/2184113908/智慧攻心术_聪明人都在用的心理博弈实操手册.jpg" width="600" />
 
 
 ## 欲望的陷阱
@@ -174,98 +202,6 @@ UC网盘：https://drive.uc.cn/s/22026053db534
 🏷 标签：#欢迎来龙餐馆 #剧情 #战争
 
 <img src="tg_media/1959723113/欢迎来龙餐馆_2026.jpg" width="600" />
-
-
-## 深渊无间
-[2026-09-10 00:29] 来自：肯德基の4K影视综合电影云盘站
-
-名称：深渊无间 (2026)【更05集】【4K.HDR】【高码率】【内封简中】【任嘉伦/秦俊杰】【犯罪/悬疑】
-
-描述：根据深蓝的同名小说改编。 一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静，文中诸多情节与警方未曾公布的多年前悬案案情有着惊人的相似。热血正义的新警李成，与多方嫌疑人，一次次上演高智对弈。最终李成拨开迷雾，侦查出掩藏在令人扼腕的亲情和友情之下的真相……一念之差，有的人走向了绿洲，有的人永远被困在了深渊。
-
-夸克网盘：https://pan.quark.cn/s/60d7d05bffd6
-
-百度网盘：https://pan.baidu.com/s/1IbnZXC-mZLvwDTfDzdebxQ?pwd=7kt0
-
-迅雷网盘：https://pan.xunlei.com/s/VP15U_7Gl7y8JwxooxqTSpbPA1?pwd=b9pn
-
-📁 大小：N
-
-🏷 标签：#深渊无间
-
-<img src="tg_media/2710552707/深渊无间_2026.jpg" width="600" />
-
-
-## 生逢其时
-[2026-09-10 00:06] 来自：肯德基の4K影视综合电影云盘站
-
-名称：生逢其时(2026)【更11集】【4K.HDR/4K】【高码率】【内嵌简中】【关晓彤/王子奇】
-
-描述：八十年代初，青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下曹信、齐时。曹信，一路走来都是家长口中"别人家的孩子"，然而光环之下却始终伴随着父亲的严苛要求。而身患白化病的齐时，自小就意识到了自己的"与众不同"，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样的存在。当乖巧听话、优秀自律的少年曹信，遇上特立独行、勇敢倔强的少女齐时，两个家庭也在邻里间日积月累的相处中越发像一家人。孩子们经历着关于亲情、友情、爱情的考验，大人们也在面对关于事业、婚姻、家庭的难题。在时代洪流中，纵使生活跌跌撞撞，他们亦携手修炼人生，共同找寻属于自己的人生和幸福。
-
-夸克网盘：https://pan.quark.cn/s/22188ce52e12
-
-百度网盘：https://pan.baidu.com/s/1dMQWw8S-dxJUp0ItEM-gBw?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP0fWeY8-lBfEwFOmSS7LRXYA1?pwd=2tfh
-
-百度网盘：https://pan.baidu.com/s/15z5Dl7nBHopzMr-FcghN7Q?pwd=6666 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 23:38] 名称：生逢其时 更新11集 国语中字 2026 4K【国剧】
-
-迅雷网盘：https://pan.xunlei.com/s/VP15fw_rxApPzUOYO6eViBxWA1?pwd=q9da 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 23:38] 名称：生逢其时 更新11集 国语中字 2026 4K【国剧】
-
-UC网盘：https://drive.uc.cn/s/a3898984073f4 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 23:29] 名称：生逢其时 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP11】【关晓彤/王子奇】
-
-百度网盘：https://pan.baidu.com/s/17g_7BbUjWbD0buw5Dfu1OQ?pwd=8888 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 23:29] 名称：生逢其时 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP11】【关晓彤/王子奇】
-
-夸克网盘：https://pan.quark.cn/s/2dbef14a70a4 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 23:29] 名称：生逢其时 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP11】【关晓彤/王子奇】
-
-UC网盘：https://drive.uc.cn/s/acd42ad0cd284 来自：综合网盘资源频道 [2026-09-09 22:51] 名称：生逢其时 (2026) 更至11集 [4K][剧情/家庭][王子奇/关晓彤/郭涛/刘琳/郭晓东]
-
-百度网盘：https://pan.baidu.com/s/1UzLytlXSwvJaHZdMFM244Q?pwd=0909 来自：综合网盘资源频道 [2026-09-09 22:51] 名称：生逢其时 (2026) 更至11集 [4K][剧情/家庭][王子奇/关晓彤/郭涛/刘琳/郭晓东]
-
-夸克网盘：https://pan.quark.cn/s/e11db58b0d70 来自：综合网盘资源频道 [2026-09-09 22:51] 名称：生逢其时 (2026) 更至11集 [4K][剧情/家庭][王子奇/关晓彤/郭涛/刘琳/郭晓东]
-
-迅雷网盘：https://pan.xunlei.com/s/VP0b1rGkUJz60D-44J81vBSfA1?pwd=672m 来自：综合网盘资源频道 [2026-09-09 22:51] 名称：生逢其时 (2026) 更至11集 [4K][剧情/家庭][王子奇/关晓彤/郭涛/刘琳/郭晓东]
-
-百度网盘：https://pan.baidu.com/s/1_Tq_8-4TKxnlIdCCDAsv4g?pwd=97bq 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 22:27] 名称：生逢其时 更11 [2026]
-
-夸克网盘：https://pan.quark.cn/s/1791bdae4260?pwd=weEj 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 22:27] 名称：生逢其时 更11 [2026]
-
-百度网盘：https://pan.baidu.com/s/12_RjzerLmKQ-1KHqUvd5KQ?pwd=yptv 来自：综合网盘资源频道 [2026-09-09 20:38] 名称：生逢其时(2026)【4K.HDR.60fps】【内封简中】【更11集】【剧情】【关晓彤/王子奇】
-
-夸克网盘：https://pan.quark.cn/s/6596dd1de0a6 来自：综合网盘资源频道 [2026-09-09 20:38] 名称：生逢其时(2026)【4K.HDR.60fps】【内封简中】【更11集】【剧情】【关晓彤/王子奇】
-
-迅雷网盘：https://pan.xunlei.com/s/VP0geOpkd9Yolezsja7TZfzuA1?pwd=yn54 来自：综合网盘资源频道 [2026-09-09 20:38] 名称：生逢其时(2026)【4K.HDR.60fps】【内封简中】【更11集】【剧情】【关晓彤/王子奇】
-
-夸克网盘：https://pan.quark.cn/s/4f70e28bb6f8 来自：夸克云盘影视资源频道 [2026-09-09 20:38] 名称：生逢其时 (2026) 关晓彤 / 王子奇 / 刘琳 / 郭涛   更新至11集
-
-百度网盘：https://pan.baidu.com/s/1hjprvDs0w7pIiW34-gDFng?pwd=zt8a 来自：阿里、夸克、百度网盘4K影视资源 [2026-09-09 20:38] 名称：生逢其时 (2026) 关晓彤 / 王子奇 / 刘琳 / 郭涛   更新至11集
-
-百度网盘：https://pan.baidu.com/s/12sWPCbG0V6jMXRXgY4wXYw?pwd=i596 来自：百度网盘综合频道 [2026-09-09 20:37] 名称：生逢其时（2026）4K 10bit 60FPS S01E01 - E11 杜比音效
-
-UC网盘：https://drive.uc.cn/s/21a830cafabb4 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 20:37] 名称：生逢其时 (2026) 关晓彤 / 王子奇 / 刘琳 / 郭涛   更新至11集
-
-迅雷网盘：https://pan.xunlei.com/s/VP0c4lE6eyQRKzxIZqRD4WAxA1?pwd=938u 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 20:37] 名称：生逢其时 (2026) 关晓彤 / 王子奇 / 刘琳 / 郭涛   更新至11集
-
-夸克网盘：https://pan.quark.cn/s/316201654473 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 20:36] 名称：生逢其时（2026）4K 10bit 60FPS S01E01 - E11 杜比音效
-
-百度网盘：https://pan.baidu.com/s/1UkDpgFmlJ3dXA0AbyxYuoQ?pwd=6666 来自：综合网盘资源频道 [2026-09-09 20:08] 名称：生逢其时 (2026)剧情 4KHDR60FPS 更新11集
-
-夸克网盘：https://pan.quark.cn/s/3bec3a918b6f 来自：综合网盘资源频道 [2026-09-09 20:08] 名称：生逢其时 (2026)剧情 4KHDR60FPS 更新11集
-
-百度网盘：https://pan.baidu.com/s/19fCS_vn7i1mrDvtAGMwyug?pwd=1111 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 20:07] 名称：生逢其时 (2026) [WEB-4K] [国语中字] [更至11集]
-
-夸克网盘：https://pan.quark.cn/s/e40deee738ca 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 20:07] 名称：生逢其时 (2026) [WEB-4K] [国语中字] [更至11集]
-
-迅雷网盘：https://pan.xunlei.com/s/VP0bZmtFw1jBO_PbwJ25BakoA1?pwd=f4ec 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 20:07] 名称：生逢其时 (2026) [WEB-4K] [国语中字] [更至11集]
-
-夸克网盘：https://pan.quark.cn/s/5e1a0448a2dc 来自：肯德基の4K影视综合电影云盘站 [2026-09-09 19:54] 名称：生逢其时 (2026) 4K HDR 60帧 高码率 DDP5.1+AAC2.0 中字【4.8GB/集】更11集，关晓彤/王子奇
-
-📁 大小：4.7GB/集
-
-🏷 标签：#剧情 #生逢其时 #4K #HDR #高码率
-
-<img src="tg_media/2710552707/生逢其时_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
