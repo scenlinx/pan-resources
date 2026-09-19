@@ -8,13 +8,13 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">52</td><td align="center">2026-09-20</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">53</td><td align="center">2026-09-20</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
 <tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">12</td><td align="center">2026-09-20</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
 <tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">21</td><td align="center">2026-09-20</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">6</td><td align="center">2026-09-19</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">7</td><td align="center">2026-09-20</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">2</td><td align="center">2026-09-19</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
 <tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">4</td><td align="center">2026-09-20</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">13</td><td align="center">2026-09-19</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">18</td><td align="center">2026-09-20</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
 <tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">29</td><td align="center">2026-09-19</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">8</td><td align="center">2026-09-19</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
@@ -22,6 +22,24 @@
 ## 综合分类最新收录（前 10 个 · 完整信息）
 
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
+
+
+## 爱情来了
+[2026-09-20 04:06] 来自：综合网盘资源频道
+
+名称：爱情来了(2026)1080P 简中字幕 更新17集
+
+描述：该剧讲述收集破碎的家庭碎片，准备世界上最温暖的人生一桌的两位男女的家庭剧。
+
+夸克网盘：https://pan.quark.cn/s/5888b5d316a3
+
+UC网盘：https://drive.uc.cn/s/04e8f5774a9a4
+
+📁 大小：1.6GB
+
+🏷 标签：#韩剧 #爱情来了 #1080P #简中字幕 #quark #uc
+
+<img src="tg_media/2605109003/爱情来了_2026.jpg" width="600" />
 
 
 ## 假面美颜
@@ -202,24 +220,6 @@ UC网盘：https://drive.uc.cn/s/07c5c51695424
 🏷 标签： #冬城猎凶 #王阳 #万茜 #余文乐 #剧情 #犯罪
 
 <img src="tg_media/2710552707/冬城猎凶_更18.jpg" width="600" />
-
-
-## 交锋
-[2026-09-19 23:56] 来自：肯德基の4K影视综合电影云盘站
-
-名称：交锋 更30 [2026]
-
-描述：故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。
-
-夸克网盘：https://pan.quark.cn/s/ef13aa90355a
-
-百度网盘：https://pan.baidu.com/s/1PYb1odRoGYVmh84HeiZgJw?pwd=yt25
-
-📁 大小：N
-
-🏷 标签： #交锋  #王凯 #周依然 #欧豪 #彭昱畅
-
-<img src="tg_media/2710552707/交锋_更30.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
