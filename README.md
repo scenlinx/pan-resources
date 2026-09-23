@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">239</td><td align="center">2026-09-23</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">67</td><td align="center">2026-09-23</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">119</td><td align="center">2026-09-23</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">24</td><td align="center">2026-09-23</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">4</td><td align="center">2026-09-22</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">12</td><td align="center">2026-09-23</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">55</td><td align="center">2026-09-23</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">100</td><td align="center">2026-09-23</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">15</td><td align="center">2026-09-23</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">277</td><td align="center">2026-09-23</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">80</td><td align="center">2026-09-23</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">141</td><td align="center">2026-09-23</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">26</td><td align="center">2026-09-23</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">6</td><td align="center">2026-09-23</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">13</td><td align="center">2026-09-23</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">67</td><td align="center">2026-09-23</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">134</td><td align="center">2026-09-23</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">21</td><td align="center">2026-09-23</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,208 +24,202 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 爱情假说
-[2026-09-23 16:59] 来自：综合网盘资源频道
+## 独剑九天
+[2026-09-23 23:56] 来自：综合网盘资源频道
 
-名称：爱情假说 The Love Hypothesis (2026)  【1080p】【内嵌中英字幕】【电影】
+名称：独剑九天 4K [全27集]
 
-描述：博士候选人Olive与年轻教授Adam开始假装情侣，因为Olive想向好朋友证明自己可以拥有一段长期恋情。但问题在于：Olive和Adam完全无法忍受对方，一段爱情喜剧中常见的“从互相看不惯变热恋”因此展开。
+描述：天剑宗首席赵飞扬身负《九天法典》，遭幽冥殿灭门，经脉尽断，未婚妻更抽骨退婚。绝境下他救下上古妖圣白矖，获赠圣品道骨重修。他极速崛起，清算仇敌，自创宗门，魔剑认主、地仙臣服。当量劫降临，赵飞扬逆势而立，放声宣告：若天道要我应劫，那便以血染苍天！
 
-夸克网盘：https://pan.quark.cn/s/d5d5ed4d8b7c
+夸克网盘：https://pan.quark.cn/s/b8c592bdc45c
 
-📁 大小：NA
+迅雷网盘：https://pan.xunlei.com/s/VP1Lv_vy9L-WLRNB7qMNDY4sA1?pwd=qk7a
 
-🏷 标签：#爱情假说 #1080p #内嵌中英字幕 #电影 #quark
+📁 大小：N G
 
-<img src="tg_media/2605109003/爱情假说_The_Love_Hypothesis_2026.jpg" width="600" />
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #独剑九天 #4K #quark #xunlei
 
-
-## 冬城猎凶
-[2026-09-23 16:53] 来自：综合网盘资源频道
-
-名称：冬城猎凶(2026)web-4k DoVi杜比视界 简体字幕 第16集
-
-描述：银行大劫案，搅动大城风云；儿童拐卖案，重起罪恶迷雾。双时空、案中案，极致追凶。
-
-夸克网盘：https://pan.quark.cn/s/1cd9c2d2cdb2
-
-百度网盘：https://pan.baidu.com/s/1rdc60QEt0try4au1_Tyc-w?pwd=Qiye
-
-百度网盘：https://pan.baidu.com/s/1tBvaf3bS4LEWxbkp4l7_RQ?pwd=Yu88 来自：肯德基の4K影视综合电影云盘站 [2026-09-23 16:50] 名称：冬城猎凶(2026)【更16集】【4K.HQ.HDR】【高码率】【内嵌简中】【悬疑/犯罪】【王阳/万茜】
-
-夸克网盘：https://pan.quark.cn/s/d0769071593a 来自：肯德基の4K影视综合电影云盘站 [2026-09-23 16:50] 名称：冬城猎凶(2026)【更16集】【4K.HQ.HDR】【高码率】【内嵌简中】【悬疑/犯罪】【王阳/万茜】
-
-迅雷网盘：https://pan.xunlei.com/s/VP18xQIFWGsNp4XSc5HfA732A1?pwd=zpq6 来自：肯德基の4K影视综合电影云盘站 [2026-09-23 16:50] 名称：冬城猎凶(2026)【更16集】【4K.HQ.HDR】【高码率】【内嵌简中】【悬疑/犯罪】【王阳/万茜】
-
-📁 大小：7GB
-
-🏷 标签：#冬城猎凶 #4k #DoVi杜比视界 #简体字幕 #quark #baidu
-
-<img src="tg_media/2605109003/冬城猎凶_2026.jpg" width="600" />
-
-
-## 黑帮领地
-[2026-09-23 16:37] 来自：肯德基の4K影视综合电影云盘站
-
-名称：黑帮领地 1-2季(2026)【更01集】【4K.DV】【高码率】【内封简繁英双语字幕】【剧情/犯罪】
-
-描述：北伦敦最大的黑帮家族——哈里根家族正处于内战边缘，而他们的对手也察觉到了。随着哈里根家族内部的紧张局势不断升级，他们的“斡旋者”哈里·达·索萨(汤姆·哈迪 饰)成了唯一能阻止家族分崩离析的人。
-
-夸克网盘：https://pan.quark.cn/s/f581ce091b1e
-
-百度网盘：https://pan.baidu.com/s/16CiS5B1n_IOWcxMRxg9f1A?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP280yYv89887huirWCgrE5kA1?pwd=ii52
-
-📁 大小：4.9GB/集
-
-🏷 标签：#犯罪 #黑帮领地 #4K #DV #高码率 #内封简繁英双语字幕
-
-<img src="tg_media/2710552707/黑帮领地_1_2季_2026.jpg" width="600" />
-
-
-## 绿灯军团
-[2026-09-23 16:24] 来自：综合网盘资源频道
-
-名称：绿灯军团(2026)【更06集】【4K.DV.HDR】【高码率】【内封简繁英】【杜比全景声】
-
-描述：星际和平守护者绿灯侠所戴的戒指赋予他们非凡的力量。传奇绿灯侠哈尔·乔丹(凯尔·钱德勒 饰)和新人绿灯侠约翰·斯图尔特(亚伦·皮埃尔 饰)调查内布拉斯加州一桩谋杀案时，被卷入一个以地球为中心的黑暗谜团之中。
-
-夸克网盘：https://pan.quark.cn/s/c4b970b6636e
-
-百度网盘：https://pan.baidu.com/s/1vZLEMiSViclXuURFYMM5sw?pwd=Yu66
-
-迅雷网盘：https://pan.xunlei.com/s/VP-JjwqYb8z7tideTMh2za2EA1?pwd=tdfk
-
-📁 大小：6GB/集
-
-🏷 标签：#绿灯军团 #4K #DV #HDR #高码率 #杜比全景声 #内封简繁英 #quark #baidu #xunlei
-
-<img src="tg_media/2605109003/绿灯军团_2026.jpg" width="600" />
-
-
-## 无人区
-[2026-09-23 16:07] 来自：肯德基の4K影视综合电影云盘站
-
-名称：无人区（2026）1080p S01全
-
-描述：多布杰为夺回父亲陪葬的金佛，打伤胡半城后逃入无人区。警方追捕、沙暴将至，他接连遭遇戴昆三兄弟和盗猎贼疤老三。途中，大学生凯乐与杨卓两次好心搭救他。当疤老三欲杀凯乐、杨卓时，多布杰明知会暴露仍驾车折返，以命相救。最终他被捕入狱，却换来凯乐与杨卓的探监与一句，以后还会载人。
-
-夸克网盘：https://pan.quark.cn/s/0b77c476ac40
-
-📁 大小：700MB
-
-🏷 标签：#剧情 #无人区
-
-<img src="tg_media/2710552707/无人区_2026.jpg" width="600" />
-
-
-## 挑情丑闻
-[2026-09-23 15:29] 来自：百度网盘综合频道
-
-名称：挑情丑闻（2026）1080p NF S01全 杜比全景声 内封简繁
-
-描述：改编自由李在容执导、2003年上映的同名电影，讲述了一位天赋异禀却被囿于时代局限的女性赵夫人（孙艺珍 饰），以及朝鲜最具魅力的情场高手赵元（池昌旭 饰）之间大胆而危险的爱情赌局。而在这场赌局中，另一名女子熙妍（林珍娜 饰）也被卷入其中，展开了一段复杂的故事。
-
-百度网盘：https://pan.baidu.com/s/1aYWg8WYJpHBRZ_s6T9NANg?pwd=r3w7
-
-📁 大小：18GB
-
-🏷 标签：#剧情 #挑情丑闻
-
-<img src="tg_media/2110524172/挑情丑闻_2026.jpg" width="600" />
+<img src="tg_media/2605109003/独剑九天_4K.jpg" width="600" />
 
 
 ## 交锋
-[2026-09-23 15:12] 来自：综合网盘资源频道
+[2026-09-23 23:53] 来自：综合网盘资源频道
 
-名称：交锋(2026)web-4k DoVi杜比视界 简体字幕 完结40集
+名称：交锋 4K臻彩MAX [HDR60fps][内封简繁字幕][全40集]
 
-描述：一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世...
+描述：故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……
 
-夸克网盘：https://pan.quark.cn/s/bcfb92895579
+夸克网盘：https://pan.quark.cn/s/8f08bcf8b905
 
-百度网盘：https://pan.baidu.com/s/10ikVnAfqK0Yc-M2ldsq11Q?pwd=Qiye
+迅雷网盘：https://pan.xunlei.com/s/VP2DxoHbqCB_eto9LVBkXbZMA1?pwd=dspp
 
-夸克网盘：https://pan.quark.cn/s/36eaf542c283 来自：综合网盘资源频道 [2026-09-23 12:26] 名称：交锋 (2026) 4K HDR SDR DV杜比视界 高码率 DDP2.0+HiFi 中字 全40集 完结，王凯/周依然
+📁 大小：N G
 
-📁 大小：3GB
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #交锋 #4K臻彩MAX #内封简繁字幕 #quark #xunlei
 
-🏷 标签：#交锋 #4k #DoVi杜比视界 #简体字幕 #quark #baidu
-
-<img src="tg_media/2605109003/交锋_2026.jpg" width="600" />
+<img src="tg_media/2605109003/交锋_4K臻彩MAX.jpg" width="600" />
 
 
-## 一个部门的诞生
-[2026-09-23 15:10] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
+## 法医秦明之龙番往事
+[2026-09-23 23:46] 来自：综合网盘资源频道
 
-名称：一个部门的诞生 (2026)
+名称：法医秦明之龙番往事 (2026)【更06集】【4K.SDR】【内嵌简中】【悬疑/犯罪】
 
-#电影 #犯罪 #剧情 #喜剧 #夸克 #迅雷 #百度
+描述：故事发生在九十年代的北方石油小城龙番市。六十年代这里发现了石油，大量石油工人从全国各地汇聚而来。原本贫困的村庄逐渐变成了一座新兴的资源型城市，高楼大厦拔地而起。表面的繁华背后，油田和当地的关系却矛盾不断。石油带来了富足的生活，也让人心变得欲壑难填…… 作品改编自秦明小说《天谴者》。
 
-主演: 白只 麦沛东 梁雍婷 
+夸克网盘：https://pan.quark.cn/s/eafcb5b21b24
 
-豆瓣: [7.4](https://movie.douban.com/subject/36937765/)
+百度网盘：https://pan.baidu.com/s/1MnOQaHIU5EGgoG-R7cVYuw?pwd=Yu88
 
-青年德仔（戴玉麒饰）因电视台会员套餐问题多次拨打客服电话却始终无法退订，前往营业厅线下办理退订业务时遇到重重阻碍，阴差阳错之下变成“持枪劫匪”。客服人员（白只饰）、..
+迅雷网盘：https://pan.xunlei.com/s/VP28p8EH2kg7ChLOpMlgCdj6A1?pwd=jwda
 
-夸克网盘：https://pan.quark.cn/s/8657846227cd
+百度网盘：https://pan.baidu.com/s/1QFVlfNS57cKlXr3XQLhoYg?pwd=Qiye 来自：综合网盘资源频道 [2026-09-23 23:29] 名称：法医秦明之龙番往事 (2026)web-4k 简体字幕 第6集
 
-迅雷网盘：https://pan.xunlei.com/s/VP28tsk0KXS6dqyMLmdAFN9CA1?pwd=bfqg
+夸克网盘：https://pan.quark.cn/s/59083bfc0da3 来自：综合网盘资源频道 [2026-09-23 23:29] 名称：法医秦明之龙番往事 (2026)web-4k 简体字幕 第6集
 
-百度网盘：https://pan.baidu.com/s/1Wz93BlVR7UdqFSMAeGF2Gw?pwd=avwo
+迅雷网盘：https://pan.xunlei.com/s/VP2DjpiVmF_leaEvihhZ0f0kA1?pwd=p9x8 来自：综合网盘资源频道 [2026-09-23 22:55] 名称：法医秦明之龙番往事 4K [更新至06集]
 
-百度网盘：https://pan.baidu.com/s/1sq5OaHxaLqOwE0rWwMxjIg?pwd=64rh 来自：综合网盘资源频道 [2026-09-23 12:13] 名称：一个部门的诞生 (2026) 4K 高码
+UC网盘：https://drive.uc.cn/s/a2d2d18c3a354 来自：综合网盘资源频道 [2026-09-23 22:39] 名称：法医秦明之龙番往事(2026) 更至06集 [4K][H265][悬疑][俞灏明/史策/王晓晨/刘天佐][法医秦明 系列]
 
-夸克网盘：https://pan.quark.cn/s/23acebb07a8b 来自：综合网盘资源频道 [2026-09-23 12:13] 名称：一个部门的诞生 (2026) 4K 高码
+UC网盘：https://drive.uc.cn/s/b1ef4e9827c84 来自：肯德基の4K影视综合电影云盘站 [2026-09-23 18:31] 名称：法医秦明之龙番往事 (2026) 俞灏明 / 史策 / 王晓晨 /更新至6集
 
-迅雷网盘：https://pan.xunlei.com/s/VP2BMyuZ5ewWKGFS7d5AlzhtA1?pwd=hsj4 来自：综合网盘资源频道 [2026-09-23 12:13] 名称：一个部门的诞生 (2026) 4K 高码
+📁 大小：1GB/集
 
-<img src="tg_media/2455883223/一个部门的诞生_2026.jpg" width="600" />
+🏷 标签：#法医秦明之龙番往事 #4K #悬疑 #犯罪 #SDR #内嵌简中 #quark #baidu #xunlei
 
-
-## 云雀叫天录
-[2026-09-23 14:58] 来自：综合网盘资源频道
-
-名称：云雀叫天录 (2026) 4K 至22
-
-描述：故事讲述了 18 岁出科的孟金福，从武丑到武生再到老生，从前途渺茫的菊坛新人到蜚声京城的梨园名角。
-
-百度网盘：https://pan.baidu.com/s/1lEREVBGjwN_f91EOkH3jCQ?pwd=nrf9
-
-夸克网盘：https://pan.quark.cn/s/4beb4ace8dd3
-
-百度网盘：https://pan.baidu.com/s/1kyDt8JmoZmr8RJS7WLFWFA?pwd=qpiz 来自：百度网盘综合频道 [2026-09-23 13:36] 名称：云雀叫天录（2026）4K 芒臻 S01E01 - E22
-
-夸克网盘：https://pan.quark.cn/s/dfeb09a86db1 来自：肯德基の4K影视综合电影云盘站 [2026-09-23 13:35] 名称：云雀叫天录（2026）4K 芒臻 S01E01 - E22
-
-迅雷网盘：https://pan.xunlei.com/s/VP1envwvo0N8fs1qbHyb2xfUA1?pwd=ez88 来自：综合网盘资源频道 [2026-09-23 13:17] 名称：云雀叫天录(2026)【4K.高码率】【更22集】【剧情/古装】【张一山/谭卓】
-
-UC网盘：https://drive.uc.cn/s/8b642f260a044 来自：肯德基の4K影视综合电影云盘站 [2026-09-23 12:06] 名称：云雀叫天录 (2026)张一山 / 谭卓 / 曹磊 / 杨立新 更新至22集
-
-迅雷网盘：https://pan.xunlei.com/s/VP1T62QjagTs9BbKnCe6q-f6A1?pwd=vknp 来自：肯德基の4K影视综合电影云盘站 [2026-09-23 12:06] 名称：云雀叫天录 (2026)张一山 / 谭卓 / 曹磊 / 杨立新 更新至22集
-
-📁 大小：3G＼集
-
-🏷 标签：#剧情 #云雀叫天录 #4K #至22 #baidu #quark
-
-<img src="tg_media/2605109003/云雀叫天录_2026.jpg" width="600" />
+<img src="tg_media/2605109003/法医秦明之龙番往事_2026.jpg" width="600" />
 
 
-## 毒潮白粉飞纪事
-[2026-09-23 14:36] 来自：肯德基の4K影视综合电影云盘站
+## 妾本草芥
+[2026-09-23 23:32] 来自：综合网盘资源频道
 
-名称：毒潮：白粉飞纪事（2026）4K DV&HDR10+ S01E01 - E03 杜比音效 内封简繁
+名称：妾本草芥 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至20集]
 
-描述：20世纪90年代，洛杉矶从“快克”可卡因时代转向说唱热潮，血帮和瘸帮控制的帮派地盘，成为南中部新兴音乐场景的发源地。
+描述：草编匠陈守禾因触怒宸妃遭到杀害，妻子苏晚娘悲痛之下化身医女苏草潜入皇城。她以草药摊为掩护搜集情报，接近宫廷权贵，调查丈夫遇害的真相并寻求复仇。
 
-夸克网盘：https://pan.quark.cn/s/9e440bc95175
+夸克网盘：https://pan.quark.cn/s/289e67f50c9a
 
-📁 大小：13GB
+迅雷网盘：https://pan.xunlei.com/s/VP1mGYHMwyqxVy-ZuU5hUSLhA1?pwd=nyd9
 
-🏷 标签：#剧情 #毒潮：白粉飞纪事 #迪士尼
+📁 大小：N G
 
-<img src="tg_media/2710552707/毒潮_白粉飞纪事_2026.jpg" width="600" />
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #妾本草芥 #4K臻彩MAX #内封简繁字幕 #quark #xunlei
+
+<img src="tg_media/2605109003/妾本草芥_4K臻彩MAX.jpg" width="600" />
+
+
+## 行镖
+[2026-09-23 23:30] 来自：肯德基の4K影视综合电影云盘站
+
+名称：行镖 更07 [2026]
+
+描述：妖怪横行的元央大陆，少年陆远清因妹妹被选作圣女、化为瓷像，觉醒浊龙之力。为救妹妹，他将自己作为一趟镖，携手赤尾镖局穿越妖荒，揭开天佑背后的奴役真相，对抗修天者与护天神，踏上弑神改命、重铸人间秩序之路。
+
+夸克网盘：https://pan.quark.cn/s/72bb396f418d
+
+百度网盘：https://pan.baidu.com/s/1cFnB9t_y9DszXLAGAD3iAQ?pwd=ilbh
+
+夸克网盘：https://pan.quark.cn/s/1d1c6c9f44ff 来自：综合网盘资源频道 [2026-09-23 23:23] 名称：行镖 4K [FLAC无损音轨][更新至07集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP1yTIThZNM38t-JWFRsAlZDA1?pwd=zte9 来自：综合网盘资源频道 [2026-09-23 23:23] 名称：行镖 4K [FLAC无损音轨][更新至07集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP23NVVEBr_kaUuytKz7Jb-AA1?pwd=6r2n 来自：综合网盘资源频道 [2026-09-23 22:20] 名称：行镖(2026) 4K 更新至07集
+
+📁 大小：N
+
+🏷 标签： #行镖 #奇幻 #古装 #丁笑滢 #古子成
+
+<img src="tg_media/2710552707/行镖_更07.jpg" width="600" />
+
+
+## 为爱正名
+[2026-09-23 23:22] 来自：综合网盘资源频道
+
+名称：为爱正名 4K [更新至17集]
+
+描述：姜莱为爱献肾后遭到爱人背叛，并被设计成“精神失常”险遭灭口。死里逃生后，她换脸化身赵可，与神秘女子赵麦联手展开调查，逐步揭开背后的真相。
+
+夸克网盘：https://pan.quark.cn/s/c7b4a8c18d70
+
+迅雷网盘：https://pan.xunlei.com/s/VP1Z3_pRWSfLA-GzQ2SwGqk9A1?pwd=2p7j
+
+📁 大小：N G
+
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #为爱正名 #4K #quark #xunlei
+
+<img src="tg_media/2605109003/为爱正名_4K.jpg" width="600" />
+
+
+## 感谢对战
+[2026-09-23 23:21] 来自：肯德基の4K影视综合电影云盘站
+
+名称：感谢对战。 ～大小姐才不玩格斗游戏～(2026)1080p CR S01E01 - E12 内封简繁 HiveWeb
+
+描述：深月绫进入了以淑女教育著称的黑美女子学院，意外发现校内备受瞩目的“白百合大人”——夜绘美绪，在无人的教室里沉迷于格斗游戏。由于校规禁止游戏，美绪要求绫严格保密。然而，再次相遇时，美绪识破了绫同为游戏玩家的身份，并恳求与她一较高下。面对美绪对游戏纯粹的热情，绫虽心生抵触，却未表现出理解她为何放弃游戏的态度，最终接受了挑战。在较量中，两人作为稀有的女性格斗游戏玩家，逐渐理解彼此，建立了深厚的友谊。随后，她们冒着被退学的风险，与同为隐藏游戏爱好者的前辈一之濑珠树和犬井夕一起，更加投入地沉浸在格斗游戏的世界中。
+
+夸克网盘：https://pan.quark.cn/s/b5fb497c5255
+
+📁 大小：1.4GB
+
+🏷 标签：#剧情 #感谢对战。 ～大小姐才不玩格斗游戏～
+
+<img src="tg_media/2710552707/感谢对战_大小姐才不玩格斗游戏_2026.jpg" width="600" />
+
+
+## 如期
+[2026-09-23 23:20] 来自：综合网盘资源频道
+
+名称：如期 4K [更新至10集]
+
+描述：宫女何小圆经历三十三次重生，每一世都试图赢得太子赵君尧的心，却始终以失败告终。第三十四世，她与七皇子赵柏卿结成同盟，共同寻找打破轮回的方法，并在过程中逐渐卷入宫廷阴谋。
+
+夸克网盘：https://pan.quark.cn/s/52027ab6d239
+
+迅雷网盘：https://pan.xunlei.com/s/VP21Mab_JAn3VapU1JYHvz1nA1?pwd=askz
+
+📁 大小：N G
+
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #如期 #4K #quark #xunlei
+
+<img src="tg_media/2605109003/如期_4K.jpg" width="600" />
+
+
+## 熔城
+[2026-09-23 23:18] 来自：综合网盘资源频道
+
+名称：熔城 4K [全24集]
+
+描述：三山帮堂主连烨遭遇灭门惨案后，与榕城警局副局长李明远、歌舞厅老板陈蝶衣联手查案复仇，逐步揭开日本特务头子松井次一郎为渗透榕城制造的一系列案件，并与日本侵略者展开斗争。
+
+夸克网盘：https://pan.quark.cn/s/be8f78dca3b5
+
+迅雷网盘：https://pan.xunlei.com/s/VP1TDmBwwQE70JtWjZ8ppphFA1?pwd=c8fx
+
+📁 大小：N G
+
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #熔城 #4K #quark #xunlei
+
+<img src="tg_media/2605109003/熔城_4K.jpg" width="600" />
+
+
+## 最后的日出
+[2026-09-23 23:11] 来自：肯德基の4K影视综合电影云盘站
+
+名称：最后的日出 / 最后的曙光(2026) 4K HDR10+ 内封简繁字幕
+
+描述：身患慢性疾病的大学生小莱与母亲一同前往马略卡岛度过夏天的故事。她在那里意外邂逅了胡利安，并开始学会活在当下。然而，随着病情不断恶化，尘封多年的家族秘密也逐渐浮出水面，一切美好都可能在夏天结束前分崩离析。
+
+夸克网盘：https://pan.quark.cn/s/e615d8f8d1ba
+
+百度网盘：https://pan.baidu.com/s/1Tpp7TdoTfLlSi4HCZYxGzw?pwd=6E4P
+
+迅雷网盘：https://pan.xunlei.com/s/VP2Do1i3yI6FLUGXOZ5gBkIMA1?pwd=x7xn
+
+📁 大小：15.1GB
+
+🏷 标签：#最后的日出 #最后的曙光 #剧情 #爱情 #AMZN
+
+<img src="tg_media/2710552707/最后的日出_最后的曙光_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
