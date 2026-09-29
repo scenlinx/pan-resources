@@ -8,20 +8,80 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">855</td><td align="center">2026-09-29</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">209</td><td align="center">2026-09-29</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">490</td><td align="center">2026-09-29</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">858</td><td align="center">2026-09-29</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">212</td><td align="center">2026-09-29</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">491</td><td align="center">2026-09-29</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">55</td><td align="center">2026-09-28</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">23</td><td align="center">2026-09-29</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">54</td><td align="center">2026-09-28</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">180</td><td align="center">2026-09-28</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">297</td><td align="center">2026-09-29</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">57</td><td align="center">2026-09-29</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">186</td><td align="center">2026-09-29</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">299</td><td align="center">2026-09-29</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">78</td><td align="center">2026-09-29</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
 
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
+
+
+## 早春晴朗
+[2026-09-29 07:52] 来自：综合网盘资源频道
+
+名称：早春晴朗 (2026) 4K全24完结
+
+描述：这是一段敬于才华，合于性格、久于平等的禁忌之恋。极具天盛的“鬼才”栾念与北漂伊始的尚之桃狭路相逢。
+
+百度网盘：https://pan.baidu.com/s/1mAzmMjeslr-gKVP-ya3AQw?pwd=3xu9
+
+夸克网盘：https://pan.quark.cn/s/cac7439c1e20
+
+迅雷网盘：https://pan.xunlei.com/s/VP2eMPFNlRKP3JmuClm_n4HcA1?pwd=zr7a
+
+📁 大小：2.G＼集
+
+🏷 标签：#爱情 #早春晴朗 #4K #全24完结 #baidu #quark #xunlei
+
+<img src="tg_media/2605109003/早春晴朗_2026.jpg" width="600" />
+
+
+## 4K画质航拍风景空镜头素材世界各地自然风光城市航拍
+[2026-09-29 07:14] 来自：综合网盘资源频道
+
+名称：4K画质航拍风景空镜头素材，世界各地自然风光城市航拍
+
+描述：直接拖进剪映，加字幕配音乐10分钟成片，包含空灵感画面、城市风光、森林、风景、云海、山川等高质量素材
+
+夸克网盘：https://pan.quark.cn/s/bbe7dd04b8db
+
+📁 大小：20GB
+
+🏷 标签：#素材 #自媒体 #4K #航拍 #风景 #空镜头 #自然风光 #城市航拍 #4K画质航拍风景空镜头素材 #世界各地自然风光城市航拍 #quark
+
+<img src="tg_media/2605109003/4K画质航拍风景空镜头素材_世界各地自然风光城市航拍.jpg" width="600" />
+
+
+## 最后一案
+[2026-09-29 03:34] 来自：肯德基の4K影视综合电影云盘站
+
+名称：最后一案(2026)【4集全】【4K.DV.HDR】【高码率】【内封简繁英】【杜比全景声】【悬疑/惊悚】
+
+描述：1959年春天，马略卡岛附近的一个小岛上，有13人被一场猛烈的风暴困住。他们中的任何一个人都可以预测到他们住的小酒店即将发生的事情：谨慎的英国游客Elisa Mander被发现死亡。最初看起来像是自杀，但很快就引起了令人不安的迹象，实际上可能是谋杀。Basil是一位退休演员，曾经因在大银幕上扮演福尔摩斯而闻名，他意外地发现自己的任务是解开此案。在一个没有人可以离开的地方，没有人能够接触到每个客人和工作人员成为犯罪的嫌疑人，犯罪每分钟都变得更加复杂和扭曲。
+
+：
+
+夸克网盘：https://pan.quark.cn/s/a49559629d82
+
+百度网盘：https://pan.baidu.com/s/1bOn6pf_tFjBd6-k8MmIKog?pwd=Yu88
+
+迅雷网盘：https://pan.xunlei.com/s/VP2ZInqVyI6FLUGXOZ5x07ndA1?pwd=kcad
+
+：
+
+📁 大小：25.12GB
+
+🏷 标签：#悬疑 #杜比全景声 #最后一案 #4K #DV #HDR #高码率
+
+<img src="tg_media/2710552707/最后一案_2026.jpg" width="600" />
 
 
 ## 行镖
@@ -182,90 +242,6 @@ UC网盘：https://drive.uc.cn/s/81de0d3f59c44 来自：肯德基の4K影视综�
 🏷 标签：#法医秦明之龙番往事 #4K #芒臻 #剧情 #犯罪 #悬疑 #俞灏明 #史策 #国语中字 #惩戒者 #天谴者 #quark #baidu #uc
 
 <img src="tg_media/2605109003/法医秦明之龙番往事_2026.jpg" width="600" />
-
-
-## 找春天
-[2026-09-29 01:56] 来自：肯德基の4K影视综合电影云盘站
-
-名称：找春天 Youth(2026)【更03集】【4K.高码率】【内封简繁英】【杜比全景声】
-
-描述：故事讲述一位50岁的离异女性，一边周旋于照顾病弱的父母和关心本该成年懂事的儿子，一边追寻着性与爱。
-
-夸克网盘：https://pan.quark.cn/s/53b88d8e0b5e
-
-百度网盘：https://pan.baidu.com/s/1HF_oNojScIIzx5AWxRU7YA?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP2b8JJjoFBWxhmNfU8193YYA1?pwd=b7kv
-
-📁 大小：2.8GB/集
-
-🏷 标签：#喜剧 #找春天 #4K #高码率 #内封简繁英 #杜比全景声
-
-<img src="tg_media/2710552707/找春天_Youth_2026.jpg" width="600" />
-
-
-## 一瓯春
-[2026-09-29 01:53] 来自：综合网盘资源频道
-
-名称：一瓯春 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP24】【许凯/周也】
-
-描述：“杀伐千面腹黑男”沈润与“人间清醒黑莲花”谢清圆互为刀刃交错，在理智与情感中携手复仇，于朝堂官场上搅弄风云，于高门大户里明争暗斗。最终他们走出暗流深渊，奔赴璀璨新生。
-
-该剧改编自尤四姐的同名小说。
-
-夸克网盘：https://pan.quark.cn/s/0896fbc0fd7c
-
-百度网盘：https://pan.baidu.com/s/1LxCwzED0_SPwggNDegwTgw?pwd=8888
-
-UC网盘：https://drive.uc.cn/s/42c6453da3b74
-
-UC网盘：https://drive.uc.cn/s/03f887cc2cd44 来自：肯德基の4K影视综合电影云盘站 [2026-09-29 00:38] 名称：一瓯春 (2026) 【许凯/周也  爱情/古装】【4K/1080p】【更新EP21】
-
-百度网盘：https://pan.baidu.com/s/1nQExRIxH-rVsI5z7-volUg?pwd=f60g 来自：肯德基の4K影视综合电影云盘站 [2026-09-29 00:38] 名称：一瓯春 (2026) 【许凯/周也  爱情/古装】【4K/1080p】【更新EP21】
-
-夸克网盘：https://pan.quark.cn/s/f53fa43712d1 来自：综合网盘资源频道 [2026-09-28 23:17] 名称：一瓯春 (2026) 更至24集 [4K][古装爱情][许凯/周也]
-
-迅雷网盘：https://pan.xunlei.com/s/VP2J0Es8CbscUHKAM_h7DSzAA1?pwd=6hy9 来自：综合网盘资源频道 [2026-09-28 23:17] 名称：一瓯春 (2026) 更至24集 [4K][古装爱情][许凯/周也]
-
-迅雷网盘：https://pan.xunlei.com/s/VP2GtRPSsO8T6ywR4QAw1Z_TA1?pwd=j3ev 来自：综合网盘资源频道 [2026-09-28 19:25] 名称：一瓯春(2026)【4K.60fps】【内封简中】【更24集】【爱情/古装】【许凯/周也】
-
-📁 大小：3G/集
-
-🏷 标签：#一瓯春 #爱情 #古装 #许凯 #周也 #4K #HDR #高码率 #60帧率 #国语中字 #quark #baidu #uc
-
-<img src="tg_media/2605109003/一瓯春_2026.jpg" width="600" />
-
-
-## 我不是大师
-[2026-09-29 01:52] 来自：综合网盘资源频道
-
-名称：我不是大师 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP12】【李现/李一桐】又名：长风起 / 将相 / 江相 / 我是个算命先生
-
-描述：上官诚明全家惨遭天相派设局灭门，他化名潜伏，以牙还牙，以眼还眼，联手身陷泥淖却势要逆天改命的江飞燕，用连环骗局反噬仇敌，一路揭露骗术黑幕，最终瓦解天相派，解救受控者，惩恶扬善终彰善念。
-
-改编自易之小说《我是个算命先生》。
-
-夸克网盘：https://pan.quark.cn/s/8931aa6d0064
-
-百度网盘：https://pan.baidu.com/s/1XtXe4dh5pBHBWAbdZwAD6Q?pwd=8888
-
-UC网盘：https://drive.uc.cn/s/836aad4a139e4
-
-百度网盘：https://pan.baidu.com/s/1diliYn2kqhPJlh5P2HPLAQ?pwd=Yu88 来自：肯德基の4K影视综合电影云盘站 [2026-09-29 01:29] 名称：我不是大师(2026)【更12集】【4K.SDR】【内嵌简中】【剧情/悬疑】【李现/李一桐】
-
-夸克网盘：https://pan.quark.cn/s/89719c7884c9 来自：肯德基の4K影视综合电影云盘站 [2026-09-29 01:29] 名称：我不是大师(2026)【更12集】【4K.SDR】【内嵌简中】【剧情/悬疑】【李现/李一桐】
-
-迅雷网盘：https://pan.xunlei.com/s/VP2WIpDtq0m83i6uBmntR6JuA1?pwd=vh7f 来自：肯德基の4K影视综合电影云盘站 [2026-09-29 01:29] 名称：我不是大师(2026)【更12集】【4K.SDR】【内嵌简中】【剧情/悬疑】【李现/李一桐】
-
-UC网盘：https://drive.uc.cn/s/ed44712cf9ef4 来自：肯德基の4K影视综合电影云盘站 [2026-09-29 00:38] 名称：我不是大师 (2026) 【李现/李一桐  /剧情 /悬疑】【4k/1080P】【更新EP08】
-
-迅雷网盘：https://pan.xunlei.com/s/VP2IwO8V5q9Db88hOf7DfGnqA1?pwd=sr7q 来自：综合网盘资源频道 [2026-09-28 22:56] 名称：我不是大师 (2026) 更至12集 [4K][悬疑][李现/李一桐/吴刚]
-
-📁 大小：5G/集
-
-🏷 标签：#我不是大师 #剧情 #悬疑 #李现 #李一桐 #4K #HDR #60帧率 #高码率 #国语中字 #长风起 #quark #baidu #uc
-
-<img src="tg_media/2605109003/我不是大师_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
