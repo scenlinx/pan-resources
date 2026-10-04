@@ -8,20 +8,80 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">185</td><td align="center">2026-10-05</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">188</td><td align="center">2026-10-05</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
 <tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">56</td><td align="center">2026-10-05</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">113</td><td align="center">2026-10-05</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">30</td><td align="center">2026-10-05</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">114</td><td align="center">2026-10-05</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">35</td><td align="center">2026-10-05</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">6</td><td align="center">2026-10-04</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">12</td><td align="center">2026-10-04</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">9</td><td align="center">2026-10-04</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">77</td><td align="center">2026-10-05</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">14</td><td align="center">2026-10-05</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">10</td><td align="center">2026-10-05</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">78</td><td align="center">2026-10-05</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">18</td><td align="center">2026-10-05</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
 
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
+
+
+## 余红旧事
+[2026-10-05 05:00] 来自：综合网盘资源频道
+
+名称：余红旧事 4K [内封多国语字幕][更新至27集]
+
+描述：当代东北文学代表人物、《漫长的季节》文学策划班宇原著，携手白玉兰最佳编剧李潇、于淼，将生活悬疑类型叙事推至高潮，兼具东北式的幽默与苍凉，着眼时代洪流中与命运较劲的普通小人物，和他们华彩的生命瞬息。 故事讲述20世纪90年代东北一座没落的工业小城，一连串荒诞离奇的命案——冻成冰雕的酒鬼，惨被断肢的壮汉，人间蒸发的地头蛇……看似毫无关联，实则命运环环相扣，情感彼此纠葛，连锁“意外死亡”背后，抽丝剥茧出复杂人性中的温暖，残酷生存法则下的希望。
+
+夸克网盘：https://pan.quark.cn/s/3e19abb2cd33
+
+迅雷网盘：https://pan.xunlei.com/s/VP37gie8PkB_C3_S5-OrNBHzA1?pwd=3hzx
+
+百度网盘：https://pan.baidu.com/s/15OelNNYCbvPdT9uzlPYocw?pwd=yu88 来自：肯德基の4K影视综合电影云盘站 [2026-10-05 04:17] 名称：余红旧事 (2026)【更27集】【4K.HDR】【内嵌简中】【高码率】【马伊琍/王佳佳】
+
+夸克网盘：https://pan.quark.cn/s/bd58e3f5e796 来自：肯德基の4K影视综合电影云盘站 [2026-10-05 04:17] 名称：余红旧事 (2026)【更27集】【4K.HDR】【内嵌简中】【高码率】【马伊琍/王佳佳】
+
+迅雷网盘：https://pan.xunlei.com/s/VP31rzOONN-84tAemkjhaSWYA1?pwd=r4pu 来自：肯德基の4K影视综合电影云盘站 [2026-10-05 04:17] 名称：余红旧事 (2026)【更27集】【4K.HDR】【内嵌简中】【高码率】【马伊琍/王佳佳】
+
+📁 大小：N G
+
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #余红旧事 #4K #内封多国语字幕 #quark #xunlei
+
+<img src="tg_media/2605109003/余红旧事_4K.jpg" width="600" />
+
+
+## 魅影神捕
+[2026-10-05 04:26] 来自：肯德基の4K影视综合电影云盘站
+
+名称：魅影神捕(2026)【更10集】【4K.DV】【高码率】【内嵌简中】【罗云熙/沈羽洁】
+
+描述：鸿运三十七年的大世王朝，即将迎来一场蓄谋已久的血雨腥风，亡国离罗携“五绝诡术”死灰复燃，制造出一桩桩惊骇迷案。幸皇权直属神捕司内以黎斯为首的一众英豪，为保山河无恙，民生安康，毅然拉开了与离罗余孽殊死斗争的大幕。神捕司威名盖世，苌弘碧血，逆风执炬，拨开重重迷雾，逼近真相。九具棺椁内九具少女干尸，放血而亡，死状极惨，这些无辜女子因何香消玉殒？黑风林秘境深处，巨大的天魔罗食人株以三十六名至阳孩童为阴食，人体包裹成茧的花丛中，竟然弥漫着由少女血炼制的枯骨香，东南船王府内大湖中随波荡...
+
+夸克网盘：https://pan.quark.cn/s/5596cc39ea81
+
+百度网盘：https://pan.baidu.com/s/1zCzxeazGhFCO_gFO14bw_A?pwd=Yu88
+
+迅雷网盘：https://pan.xunlei.com/s/VP37ZtKBkGop0HEIuPGXq3mkA1?pwd=627w
+
+📁 大小：3.5GB/集
+
+🏷 标签：#魅影神捕
+
+<img src="tg_media/2710552707/魅影神捕_2026.jpg" width="600" />
+
+
+## 爱情来了
+[2026-10-05 03:58] 来自：综合网盘资源频道
+
+名称：爱情来了(2026)1080P 简中字幕 更新19集
+
+描述：该剧讲述收集破碎的家庭碎片，准备世界上最温暖的人生一桌的两位男女的家庭剧。
+
+夸克网盘：https://pan.quark.cn/s/5888b5d316a3
+
+📁 大小：1.6GB
+
+🏷 标签：#韩剧 #爱情来了 #1080P #简中字幕 #quark #uc
+
+<img src="tg_media/2605109003/爱情来了_2026.jpg" width="600" />
 
 
 ## 功夫女足
@@ -156,66 +216,6 @@
 🏷 标签：#韩综 #rm #Running #Man #韩国跑男 #1080P高码 #简中字幕 #quark #uc
 
 <img src="tg_media/2605109003/Running_Man_2026.jpg" width="600" />
-
-
-## 魅影神捕
-[2026-10-05 00:49] 来自：肯德基の4K影视综合电影云盘站
-
-名称：魅影神捕  更10 [2026][4K]
-
-描述：鸿运三十七年的大世王朝，即将迎来一场蓄谋已久的血雨腥风，傀儡秘术、长生魔罗、翅莹毒虫、镜花水月、形人之师相继现世，亡国离罗携此“五绝诡术”死灰复燃，制造出一桩桩惊骇迷案。幸皇权直属神捕司内以黎斯为首的一众神捕，为保山河无恙，民生安康，毅然拉开了与离罗余孽殊死斗争的大幕。
-
-夸克网盘：https://pan.quark.cn/s/5f61942fe744
-
-百度网盘：https://pan.baidu.com/s/1IKum5Bv5nlUcXU6EeKkFdg?pwd=6666
-
-迅雷网盘：https://pan.xunlei.com/s/VP2z-iP9yf6QZShuI_C54u6GA1?pwd=k27b 来自：综合网盘资源频道 [2026-10-04 22:40] 名称：魅影神捕(2026) 4K 更新至10集
-
-📁 大小：N
-
-🏷 标签： #魅影神捕 #罗云熙 #方逸伦 #沈羽洁 #古装悬疑
-
-<img src="tg_media/2710552707/魅影神捕_更10.jpg" width="600" />
-
-
-## 美国人质
-[2026-10-05 00:38] 来自：肯德基の4K影视综合电影云盘站
-
-名称：美国人质 更04 [2026][中英双字]
-
-描述：1970年代的印第安纳波利斯，电台新闻主管弗雷德·赫克曼被卷入一场人质危机。绑匪托尼·基里蒂斯劫持抵押贷款经纪人迪克·霍尔，并要求通过弗雷德的电台直播发声，一场人质事件随即演变成全国瞩目的媒体事件。
-
-夸克网盘：https://pan.quark.cn/s/e4ed51fc102c
-
-百度网盘：https://pan.baidu.com/s/1X5VxFu08V-5nO6QXA3cdLw?pwd=6666
-
-📁 大小：N
-
-🏷 标签： #美国人质 #American Hostage #剧情 #犯罪
-
-<img src="tg_media/2710552707/美国人质_更04.jpg" width="600" />
-
-
-## 法医秦明之龙番往事
-[2026-10-05 00:30] 来自：肯德基の4K影视综合电影云盘站
-
-名称：法医秦明之龙番往事  更20 [2026][4K]
-
-描述：故事发生在九十年代的北方石油小城龙番市。六十年代这里发现了石油，大量石油工人从全国各地汇聚而来。原本贫困的村庄逐渐变成了一座新兴的资源型城市，高楼大厦拔地而起。表面的繁华背后，油田和当地的关系却矛盾不断。石油带来了富足的生活，也让人心变得欲壑难填…… 作品改编自秦明小说《天谴者》。
-
-夸克网盘：https://pan.quark.cn/s/882e942d1ea8
-
-百度网盘：https://pan.baidu.com/s/1GqfOncdZYZBIPfkR6s3MSA?pwd=6666
-
-百度网盘：https://pan.baidu.com/s/1QFVlfNS57cKlXr3XQLhoYg?pwd=Qiye 来自：综合网盘资源频道 [2026-10-04 22:40] 名称：法医秦明之龙番往事 (2026)web-4k 简体字幕 第20集
-
-夸克网盘：https://pan.quark.cn/s/59083bfc0da3 来自：综合网盘资源频道 [2026-10-04 22:40] 名称：法医秦明之龙番往事 (2026)web-4k 简体字幕 第20集
-
-📁 大小：N
-
-🏷 标签： #法医秦明之龙番往事 #俞灏明 #史策 #王晓晨
-
-<img src="tg_media/2710552707/法医秦明之龙番往事_更20.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
