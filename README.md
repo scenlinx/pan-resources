@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">235</td><td align="center">2026-10-10</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">44</td><td align="center">2026-10-10</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">99</td><td align="center">2026-10-10</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">25</td><td align="center">2026-10-10</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">7</td><td align="center">2026-10-10</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">21</td><td align="center">2026-10-10</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">264</td><td align="center">2026-10-11</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">53</td><td align="center">2026-10-11</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">106</td><td align="center">2026-10-11</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">28</td><td align="center">2026-10-11</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">8</td><td align="center">2026-10-10</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">25</td><td align="center">2026-10-11</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
 <tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">37</td><td align="center">2026-10-10</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">82</td><td align="center">2026-10-10</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">23</td><td align="center">2026-10-10</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">84</td><td align="center">2026-10-11</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">25</td><td align="center">2026-10-10</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,250 +24,214 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 蒸蒸日上
-[2026-10-10 22:11] 来自：综合网盘资源频道
+## 此处通往繁星
+[2026-10-11 03:11] 来自：肯德基の4K影视综合电影云盘站
 
-名称：蒸蒸日上(2026)【4K.HDR.60fps】【更04集】【剧情】【高叶/韩东君】
+名称：此处通往繁星 (2026)【更04集】【4K.SDR】【内嵌简中】【剧情/喜剧】【张雪迎/郭麒麟】
 
-描述：烟火气十足的东北某城律师街上，为人侠气、幽默的女律师萧龙女在大众浴池楼上开了一家律师事务所。她曾在当地最高端的泓湖律所里工作，却因一起案件中的正义之举而离职，更与同事兼竹马的李信律师决裂。有着不同法律观的两人，一个扶摇直上成为泓湖最年轻的高伙，另一个则失去所有案源、沦落为律师街上的“笑话”。萧龙女身处低谷却坚韧乐观，与自愿跟随她的行政古苗苗、不打不相识的董北虎和法考钉子户罗智组成了一伙蒸蒸日上的“草台班子”，在大大小小的案件中与精英律师代表李信狭路相逢、展开较量，在法律和生活中都不断碰撞出激烈火花，各自的人生也因此迎来了新的成长和变化……
+描述：王灿在北京创业失败，回到家乡寻求父母支持，被父母推荐到清凉山殡仪馆装殓班工作。本来只打算在此过渡的王灿，意外与三位发小陈和煦、宋天爽、毛尔哲重逢，并跟他们成为了同事。在与伙伴们的朝夕相处中，王灿了解了殡葬工作的价值和意义。在跟伙伴们一起经历了一场场告别、送别一个个逝者后，王灿逐渐成长为一名优秀的入殓师。在面临回到城市还是留在清凉山的抉择时，王灿选择了留下，和伙伴们一起坚守这份职业。
 
-夸克网盘：https://pan.quark.cn/s/b42d6c0582e4
+夸克网盘：https://pan.quark.cn/s/8ef7fe2e63a9
 
-百度网盘：https://pan.baidu.com/s/1ewPPNEfbC3G1vD2bL9vobw?pwd=yptv
+百度网盘：https://pan.baidu.com/s/1RdDeQ6BDtvPZheQ1e97adQ?pwd=Yu88
 
-迅雷网盘：https://pan.xunlei.com/s/VP3a5GJ9XusFqN8H2sZjIYRYA1?pwd=3hp2
+迅雷网盘：https://pan.xunlei.com/s/VP3bCVGZGZuQGIyUgS6IatyVA1?pwd=a44x
 
-百度网盘：https://pan.baidu.com/s/1gRlwkqmBocwRpnut0Nn-Hw?pwd=1010 来自：综合网盘资源频道 [2026-10-10 21:52] 名称：蒸蒸日上 (2026) 更至04集 [4K][剧情/律政][韩东君/高叶]
+百度网盘：https://pan.baidu.com/s/1siXMouBd-cvgSm2lsuOGzA?pwd=Qiye 来自：综合网盘资源频道 [2026-10-11 00:18] 名称：此处通往繁星(2026)web-4k DoVi 杜比视界 第4集
 
-夸克网盘：https://pan.quark.cn/s/2322d75ef57e 来自：综合网盘资源频道 [2026-10-10 21:52] 名称：蒸蒸日上 (2026) 更至04集 [4K][剧情/律政][韩东君/高叶]
-
-迅雷网盘：https://pan.xunlei.com/s/VP3_cSwVAt_ZQPZXiSlZIdaBA1?pwd=7jaq 来自：综合网盘资源频道 [2026-10-10 21:52] 名称：蒸蒸日上 (2026) 更至04集 [4K][剧情/律政][韩东君/高叶]
-
-📁 大小：NG
-
-🏷 标签：#国剧 #剧情 #蒸蒸日上 #4K #HDR #60fps #高叶 #韩东君 #quark #baidu #xunlei
-
-<img src="tg_media/2605109003/蒸蒸日上_2026.jpg" width="600" />
-
-
-## 无可替代
-[2026-10-10 22:11] 来自：肯德基の4K影视综合电影云盘站
-
-名称：无可替代 全20集 [2026][4K]
-
-描述：讲述禀承“这一生绝对不能被别人替代”理念的女白领徐迟，在职场上过关斩将，与公司合伙人叶信之一路携手厮杀，最终成为无可替代之人的故事。 “黑莲花”徐迟与“精狐狸”叶信之互相扶持又相爱相杀！金牌编剧张巍全新都市力作，快节奏爽情节短剧模式，直击当下年轻人痛点，带你职场打怪升级通关！
-
-夸克网盘：https://pan.quark.cn/s/96cceab494c8?pwd=d41p
-
-百度网盘：https://pan.baidu.com/s/166klupha6rrzEJ14hH04eQ?pwd=6666
-
-夸克网盘：https://pan.quark.cn/s/5f0b02a1b745 来自：综合网盘资源频道 [2026-10-10 22:07] 名称：无可替代 (2026) 20集全 [4K 60帧][主演: 赵今麦/魏大勋/周奇/白冰]
-
-百度网盘：https://pan.baidu.com/s/1sIya9lVdMhkcyVMmM-vRRQ?pwd=yptv 来自：综合网盘资源频道 [2026-10-10 21:49] 名称：无可替代(2026)【4K.HDR.60fps】【DTS环绕声】【内封简中】【20集全】【剧情】【赵今麦/魏大勋】
-
-迅雷网盘：https://pan.xunlei.com/s/VP2c1QepxYdp0aMN5VCrK0KgA1?pwd=b5q4 来自：综合网盘资源频道 [2026-10-10 21:49] 名称：无可替代(2026)【4K.HDR.60fps】【DTS环绕声】【内封简中】【20集全】【剧情】【赵今麦/魏大勋】
-
-迅雷网盘：https://pan.xunlei.com/s/VP2cTUB0zAmrTkXUoSsMKUiaA1?pwd=zpz7 来自：综合网盘资源频道 [2026-10-10 21:25] 名称：无可替代 (2026) 更至20集完结 [4K][都市职场][魏大勋/赵今麦]
-
-📁 大小：N
-
-🏷 标签： #无可替代 #赵今麦 #魏大勋 #国产剧
-
-<img src="tg_media/2710552707/无可替代_全20集.jpg" width="600" />
-
-
-## 喜剧之王
-[2026-10-10 22:08] 来自：综合网盘资源频道
-
-名称：喜剧之王 (2026) 更至14集 [4K 60帧][主演: 杨超越/蒋龙/张弛/蒋诗萌/李川]
-
-描述：该剧根据1999年周星驰同名电影《喜剧之王》改编。喜人团建，开启新生代喜剧与经典的碰撞。“冷饭热炒“，上演笑中有泪的“乡村商战”。
-
-夸克网盘：https://pan.quark.cn/s/ff492f1e1fd7
-
-百度网盘：https://pan.baidu.com/s/13G2er5Eep9-rIqP7yq1BOQ?pwd=yptv 来自：综合网盘资源频道 [2026-10-10 21:48] 名称：喜剧之王 喜剧之王(剧版)(2026)【4K.HDR.60fps】【内封简中】【更14集】【剧情】【杨超越/蒋龙】
-
-夸克网盘：https://pan.quark.cn/s/95211c1f4768 来自：综合网盘资源频道 [2026-10-10 21:48] 名称：喜剧之王 喜剧之王(剧版)(2026)【4K.HDR.60fps】【内封简中】【更14集】【剧情】【杨超越/蒋龙】
-
-迅雷网盘：https://pan.xunlei.com/s/VP3F0sscszMSKWFd_UQ87SW2A1?pwd=vzzt 来自：综合网盘资源频道 [2026-10-10 21:48] 名称：喜剧之王 喜剧之王(剧版)(2026)【4K.HDR.60fps】【内封简中】【更14集】【剧情】【杨超越/蒋龙】
-
-百度网盘：https://pan.baidu.com/s/1VnJwm_Bv_7Mb6WRD2lgjmA?pwd=1006 来自：综合网盘资源频道 [2026-10-10 21:47] 名称：喜剧之王 (2026) 更至14集 [4K][剧情][蒋龙/杨超越]
-
-迅雷网盘：https://pan.xunlei.com/s/VP3FQCJua4jdXVxawB1doW2ZA1?pwd=jacw 来自：综合网盘资源频道 [2026-10-10 21:47] 名称：喜剧之王 (2026) 更至14集 [4K][剧情][蒋龙/杨超越]
-
-📁 大小：1.5GB/集
-
-🏷 标签：#喜剧之王 #4K #60帧 #杨超越 #蒋龙 #张弛 #quark #蒋诗萌 #李川
-
-<img src="tg_media/2605109003/喜剧之王_2026.jpg" width="600" />
-
-
-## 百日谎言
-[2026-10-10 22:07] 来自：肯德基の4K影视综合电影云盘站
-
-名称：百日谎言 100일의 거짓말 (2026) 【更新至01集】【1080p】【韩语中字】【韩剧】
-
-描述：为窃取日本殖民政府的机密而成为密探，却偏偏爱上敌人的养子（朴珍荣 饰）
-
-夸克网盘：https://pan.quark.cn/s/bd0304eb1a04
-
-📁 大小：NA
-
-🏷 标签：#百日谎言
-
-<img src="tg_media/2710552707/百日谎言_100_2026.jpg" width="600" />
-
-
-## 伟大的长征
-[2026-10-10 22:06] 来自：综合网盘资源频道
-
-名称：伟大的长征 (2026) 更至06集 [4K][类型: 剧情/历史/战争][主演: 于和伟/曹磊/何政军/王劲松]
-
-描述：1934年，日本帝国主义加紧了对中国的侵略，而蒋介石不顾民族危亡，坚持“攘外必先安内”的政策，发动了规模最大的第五次“围剿”。生死存亡之际，中国工农红军主力被迫实行战略性转移，撤离长江南北各苏区。平均年龄不到30岁的红军队伍犹如一条条红色铁流，经过11个省，翻越18座大 山，跨过24条大河，走过荒草地，翻过雪山，行程二万五千里。直到1936年10月红军三大主力会师，红军长征胜利结束。
-
-夸克网盘：https://pan.quark.cn/s/5dbcf22bb8b1
-
-百度网盘：https://pan.baidu.com/s/1p-h4ycsaAty9M_9zKtQzgw?pwd=1009 来自：综合网盘资源频道 [2026-10-10 21:56] 名称：伟大的长征 (2026) 更至06集 [4K][剧情][于和伟/曹磊/何政军/王劲松]
-
-夸克网盘：https://pan.quark.cn/s/8d8c5280307b 来自：综合网盘资源频道 [2026-10-10 21:56] 名称：伟大的长征 (2026) 更至06集 [4K][剧情][于和伟/曹磊/何政军/王劲松]
-
-迅雷网盘：https://pan.xunlei.com/s/VP3VlFJaZOwcinCjk6hMTHXTA1?pwd=6apw 来自：综合网盘资源频道 [2026-10-10 21:56] 名称：伟大的长征 (2026) 更至06集 [4K][剧情][于和伟/曹磊/何政军/王劲松]
-
-百度网盘：https://pan.baidu.com/s/1n8KABewAbAr8yjKc4nmpkg?pwd=yptv 来自：综合网盘资源频道 [2026-10-10 21:23] 名称：伟大的长征(2026)【4K.HDR.60fps】【内封简中】【更06集】【历史/战争】【于和伟/曹磊】
-
-迅雷网盘：https://pan.xunlei.com/s/VP3WBpJv8_AxJDl0_75a-8-dA1?pwd=uaiw 来自：综合网盘资源频道 [2026-10-10 21:23] 名称：伟大的长征(2026)【4K.HDR.60fps】【内封简中】【更06集】【历史/战争】【于和伟/曹磊】
+夸克网盘：https://pan.quark.cn/s/ccff3164e714 来自：综合网盘资源频道 [2026-10-11 00:18] 名称：此处通往繁星(2026)web-4k DoVi 杜比视界 第4集
 
 📁 大小：1GB/集
 
-🏷 标签：#伟大的长征 #4K #类型 #剧情 #历史 #战争 #quark #于和伟 #曹磊 #何政军 #王劲松
+🏷 标签：#此处通往繁星
 
-<img src="tg_media/2605109003/伟大的长征_2026.jpg" width="600" />
+<img src="tg_media/2710552707/此处通往繁星_2026.jpg" width="600" />
 
 
-## 魅影神捕
-[2026-10-10 22:06] 来自：肯德基の4K影视综合电影云盘站
+## 喜剧之王
+[2026-10-11 03:03] 来自：肯德基の4K影视综合电影云盘站
 
-名称：魅影神捕  更19 [2026][4K]
+名称：喜剧之王(2026)【更14集】【4K.SDR】【内嵌简中】【剧情/喜剧】【杨超越/蒋龙】
 
-描述：鸿运三十七年的大世王朝，即将迎来一场蓄谋已久的血雨腥风，傀儡秘术、长生魔罗、翅莹毒虫、镜花水月、形人之师相继现世，亡国离罗携此“五绝诡术”死灰复燃，制造出一桩桩惊骇迷案。幸皇权直属神捕司内以黎斯为首的一众神捕，为保山河无恙，民生安康，毅然拉开了与离罗余孽殊死斗争的大幕。
+描述：该剧根据1999年周星驰同名电影《喜剧之王》改编。喜人团建，开启新生代喜剧与经典的碰撞。“冷饭热炒“，上演笑中有泪的“乡村商战”。
 
-夸克网盘：https://pan.quark.cn/s/dd8a07cbb1b6?pwd=NRLH
+夸克网盘：https://pan.quark.cn/s/e5cc2c914579
 
-百度网盘：https://pan.baidu.com/s/1IKum5Bv5nlUcXU6EeKkFdg?pwd=6666
+百度网盘：https://pan.baidu.com/s/179IBFxu-cfow47A_UW4K6w?pwd=Yu88
 
-夸克网盘：https://pan.quark.cn/s/a205f05185dc 来自：综合网盘资源频道 [2026-10-10 22:03] 名称：魅影神捕 (2026) 更至19集 [4K 60帧][类型: 悬疑][主演: 罗云熙/方逸伦/沈羽洁/何泓姗]
+迅雷网盘：https://pan.xunlei.com/s/VP3N0QCSXoC-KIE_Mpqi3yUDA1?pwd=25b9
 
-百度网盘：https://pan.baidu.com/s/1j4zjXqJ0Fa4j9tdQvPe00g?pwd=1002 来自：综合网盘资源频道 [2026-10-10 21:33] 名称：魅影神捕 (2026) 更至19集 [4K][古装悬疑][罗云熙/方逸伦]
+迅雷网盘：https://pan.xunlei.com/s/VP3GFo0wUZsabsXVxmM0hShuA1?pwd=9gnn 来自：综合网盘资源频道 [2026-10-10 22:55] 名称：喜剧之王(2026) 4K 更新至12集
 
-迅雷网盘：https://pan.xunlei.com/s/VP2vRhMLvka7-8jWT0Q-_cAuA1?pwd=suf5 来自：综合网盘资源频道 [2026-10-10 21:33] 名称：魅影神捕 (2026) 更至19集 [4K][古装悬疑][罗云熙/方逸伦]
+百度网盘：https://pan.baidu.com/s/1bYHih-mVDUG1U3Rzuc9Elw?pwd=Qiye 来自：综合网盘资源频道 [2026-10-10 22:53] 名称：喜剧之王(2026)web-4k DoVi 杜比视界 简体字幕 第14集
 
-迅雷网盘：https://pan.xunlei.com/s/VP3Ho32ZuQjNbyD58A0k3LqrA1?pwd=3uzd 来自：肯德基の4K影视综合电影云盘站 [2026-10-10 20:14] 名称：魅影神捕 (2026)【更19集】【4K.SDR】【内嵌简中】【剧情/悬疑】【罗云熙/沈羽洁】
+夸克网盘：https://pan.quark.cn/s/b28e081cbe00 来自：综合网盘资源频道 [2026-10-10 22:53] 名称：喜剧之王(2026)web-4k DoVi 杜比视界 简体字幕 第14集
 
-📁 大小：N
+📁 大小：1.5GB/集
 
-🏷 标签： #魅影神捕 #罗云熙 #方逸伦 #沈羽洁 #古装悬疑
+🏷 标签：#喜剧之王
 
-<img src="tg_media/2710552707/魅影神捕_更19.jpg" width="600" />
+<img src="tg_media/2710552707/喜剧之王_2026.jpg" width="600" />
 
 
-## 雷霆令
-[2026-10-10 21:48] 来自：综合网盘资源频道
+## 火柴盒大电影
+[2026-10-11 02:56] 来自：肯德基の4K影视综合电影云盘站
 
-名称：雷霆令(2026)【4K.HDR.60fps】【34集全】【剧情/犯罪】【金瀚/秦海璐】
+名称：火柴盒大电影 (2026)【4K.HDR10】【高码率】【内封简繁英】【杜比全景声】【动作/冒险】
 
-描述：西北某省卫城市，西部五省的交通要道，同时也成为了西部毒品交易的最大集散地。毒品自金三角入境后，从云南出发，运抵卫城，再由卫城运往各处。在这过程中，一些唯利是图的黑势力，铤而走险，令无数人深陷毒品的迫害，更令无数家庭家破人亡。缉毒大队女队长白桦整日疲于应对各种案件，期待着上级早日能为自己增加新鲜的血液和干将。正在此时，庄严、李潇、魏凯等三名年轻帅气的警察，通过层层严格筛选，最终进入缉毒大队。在女队长白桦及副队长陆伟等人的领导之下，通过不懈的努力和净化丝绸之路的坚定信念，一路出生入死、涉险擒敌。最终终于将大毒枭龙致远和皮牙子等人绳之以法，并铲除了其幕后的黑保护伞，为一带一路作出巨大贡献。
+描述：影片讲述了一群从小一起长大的朋友，在他们多年未见的昔日领袖——中情局卧底特工肖恩（约翰·塞纳 饰）回到他们的小镇后，他们的生活发生了翻天覆地的变化，肖恩无意中将他们卷入了一场拯救世界的疯狂国际追逐之中。
 
-夸克网盘：https://pan.quark.cn/s/c96e6a5c40c6
+夸克网盘：https://pan.quark.cn/s/392619a45976
 
-百度网盘：https://pan.baidu.com/s/1B-FWMUt3DmqYaxBbuVcQdQ?pwd=yptv
+百度网盘：https://pan.baidu.com/s/1CC7XG7TzVOwIeftfsjwIpQ?pwd=Yu88
 
-迅雷网盘：https://pan.xunlei.com/s/VP2gBmAFoFBWxhmNfU84ujVLA1?pwd=2ase
+迅雷网盘：https://pan.xunlei.com/s/VP3b9Fmo_Pxo2vA-__bA4MdgA1?pwd=ud62
 
-百度网盘：https://pan.baidu.com/s/1RfUntJK29q6pUKAsWWnw7A?pwd=0930 来自：综合网盘资源频道 [2026-10-10 21:20] 名称：雷霆令 (2026) 更至34集完结 [4K][刑侦/缉毒][金瀚/秦海璐/刘端端]
+📁 大小：22.3GB
 
-夸克网盘：https://pan.quark.cn/s/cca35bfd50ab 来自：综合网盘资源频道 [2026-10-10 21:20] 名称：雷霆令 (2026) 更至34集完结 [4K][刑侦/缉毒][金瀚/秦海璐/刘端端]
+🏷 标签：#火柴盒大电影
 
-迅雷网盘：https://pan.xunlei.com/s/VP2i43gcU4vNsFyGwaZJMjV6A1?pwd=tcpx 来自：综合网盘资源频道 [2026-10-10 21:20] 名称：雷霆令 (2026) 更至34集完结 [4K][刑侦/缉毒][金瀚/秦海璐/刘端端]
+<img src="tg_media/2710552707/火柴盒大电影_2026.jpg" width="600" />
 
-📁 大小：NG
 
-🏷 标签：#国剧 #剧情 #犯罪 #雷霆令 #4K #HDR #60fps #金瀚 #秦海璐 #quark #baidu #xunlei
+## 绑架游戏
+[2026-10-11 02:48] 来自：肯德基の4K影视综合电影云盘站
 
-<img src="tg_media/2605109003/雷霆令_2026.jpg" width="600" />
+名称：绑架游戏 (2026)【更01集】【4K.高码率】【内嵌繁中】【悬疑/惊悚】【坂口健太郎/李准基】
 
+描述：本剧是一部惊悚剧，讲述了一起史无前例的绑架案同时发生在包括首尔、东京、台北、新加坡、曼谷、马尼拉和那霸在内的七个亚洲城市。
 
-## 美人余
-[2026-10-10 21:47] 来自：综合网盘资源频道
+夸克网盘：https://pan.quark.cn/s/0c5c0dc6a56f
 
-名称：美人余(2026)【4K.HDR.60fps】【内封简中】【更06集】【剧情】【李一桐/王佳佳】
+百度网盘：https://pan.baidu.com/s/1ohiqTkc5QhpnQNzfn1ctLQ?pwd=Yu88
 
-描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无爱，有爱无性”等真实情感和婚姻现状。
+迅雷网盘：https://pan.xunlei.com/s/VP3b7I4QGZ58XNod40psd3J1A1?pwd=4dk9
 
-夸克网盘：https://pan.quark.cn/s/208bd09d602a
+📁 大小：9GB/集
 
-百度网盘：https://pan.baidu.com/s/1Usb1qjvcSiePuDE7QdSLjw?pwd=yptv
+🏷 标签：#绑架游戏
 
-迅雷网盘：https://pan.xunlei.com/s/VP3UDnd0lLNA_4rKqfE3GVrhA1?pwd=fzrh
+<img src="tg_media/2710552707/绑架游戏_2026.jpg" width="600" />
 
-百度网盘：https://pan.baidu.com/s/1HJDien6rRAcHHkEaqHyskg?pwd=1009 来自：综合网盘资源频道 [2026-10-10 21:42] 名称：美人余 (2026) 更至06集 [4K][剧情][李一桐/王佳佳]
 
-夸克网盘：https://pan.quark.cn/s/e02087197d0f 来自：综合网盘资源频道 [2026-10-10 21:42] 名称：美人余 (2026) 更至06集 [4K][剧情][李一桐/王佳佳]
+## 律界战争
+[2026-10-11 02:32] 来自：肯德基の4K影视综合电影云盘站
 
-迅雷网盘：https://pan.xunlei.com/s/VP3UzC6pJH0K_wJhzow2ch15A1?pwd=m9eq 来自：综合网盘资源频道 [2026-10-10 21:42] 名称：美人余 (2026) 更至06集 [4K][剧情][李一桐/王佳佳]
+名称：律界战争 第一季(2026)【更02集】【4K.DV.HDR】【高码率】【内封简繁英】【杜比全景声】
 
-📁 大小：NG
+描述：本剧每季聚焦一场不同的法律对决。 当Cathcarts & Sons律所与Taylor & Byrne律所因一场备受瞩目的法律诉讼而激烈交锋时，雄心勃勃的年轻律师Jonathan “Johnny” Warren被卷入了一个残酷的世界——在那里，野心是货币，背叛是策略，而胜利就是一切。 第一季聚焦英国科技企业家Morgan Henderson与国际影星Carla Duval的轰动离婚案，代表双方的律所不择手段，誓要为客户赢得胜利。
 
-🏷 标签：#国剧 #剧情 #美人余 #4K #HDR #60fps #内封简中 #李一桐 #王佳佳 #quark #baidu #xunlei
+夸克网盘：https://pan.quark.cn/s/04d04a354c9e
 
-<img src="tg_media/2605109003/美人余_2026.jpg" width="600" />
+百度网盘：https://pan.baidu.com/s/16rG-AA_m4MleZIcFezrYWQ?pwd=Yu88
 
+迅雷网盘：https://pan.xunlei.com/s/VP3R_o8lUZsabsXVxmM9o7OIA1?pwd=f3v4
 
-## 猛攻
-[2026-10-10 21:40] 来自：肯德基の4K影视综合电影云盘站
+📁 大小：6.6GB/集
 
-名称：猛攻 (2026)【4K.DV】【高码率】【外挂简英双语字幕】【惊悚/恐怖】
+🏷 标签：#律界战争
 
-描述：一群失控暴走的基因改造超级士兵，在荒漠地带展开无差别屠戮。前陆军王牌狙击手塞莱斯特，带着年幼女儿被困死地、孤立无援。面对战力远超常人的杀戮机器，她拿出全部作战本领，依托地形与狙击特长拼死周旋。没有援军，退路全无，为守护女儿，只能以最凶狠的手段浴血死战，在黄沙绝境之中搏出一线生机。
+<img src="tg_media/2710552707/律界战争_第一季_2026.jpg" width="600" />
 
-夸克网盘：https://pan.quark.cn/s/16058ff90b75
 
-百度网盘：https://pan.baidu.com/s/1ajciCrEvHJIzDTW4Wxhweg?pwd=Yu88
+## 黑白清道夫
+[2026-10-11 02:26] 来自：肯德基の4K影视综合电影云盘站
 
-迅雷网盘：https://pan.xunlei.com/s/VP3a-LLo31f4Uoe-M9WMNS2tA1?pwd=pdt8
+名称：黑白清道夫(2026)【10集全】【NF.1080p】【内封简繁英】【剧情/动作】
 
-百度网盘：https://pan.baidu.com/s/1cPgbHjYa3i3D2DEp5HEDCg?pwd=65sg 来自：肯德基の4K影视综合电影云盘站 [2026-10-10 21:13] 名称：猛攻 Onslaught (2026)
+描述：落魄中年人江福生(李铭顺 饰)身负债务，人生陷入低谷，意外卷入一场由神秘“清道夫”组织所引发的暴力冲突之中。“清道夫”成员隐身于民间，以香火鼎盛的百年庙宇“青和宫”为据点，专为黑白两道、政商权贵解决他们不方便出面处理的棘手麻烦事。青和宫将江福生纳入麾下，并安排他与自负、难搞的政二代薛秋楠(娄峻硕 饰)搭档。这对性格南辕北辙的组合冲突不断，神秘的女清道夫沈美娜(雷嘉汭 饰)总在任务中百般阻挠，更为两人增添考验。同时，青和宫的宿敌组织“夜月堂”正联合其他势力发动全面攻击，试图摧毁青和宫百年来维系的地下秩序。
 
-📁 大小：16.4GB
+夸克网盘：https://pan.quark.cn/s/a67bcc8c1ecd
 
-🏷 标签：#猛攻
+百度网盘：https://pan.baidu.com/s/1hhav_Kxfv_KFl6WaNGLAgw?pwd=Yu88
 
-<img src="tg_media/2710552707/猛攻_2026.jpg" width="600" />
+迅雷网盘：https://pan.xunlei.com/s/VP21LlRtROPXVpzttbTrPEeTA1?pwd=szpe
 
+📁 大小：23GB
 
-## 此处通往繁星
-[2026-10-10 21:36] 来自：综合网盘资源频道
+🏷 标签：#黑白清道夫
 
-名称：此处通往繁星 (2026) 更至04集 [4K][剧情][郭麒麟/张雪迎]
+<img src="tg_media/2710552707/黑白清道夫_2026.jpg" width="600" />
 
-描述：讲述了“殡二代”王灿大学毕业后在北京的“繁星”酒馆工作，在突逢朋友变故后，下定决心重回清凉山殡仪馆装殓班，与发小陈和煦、宋天爽、毛尔哲重逢成为同事。在逐渐融入团队参与殡葬工作和见证一次次告别，王灿逐渐理解职业价值，最终选择留守清凉山成为入殓师。
 
-夸克网盘：https://pan.quark.cn/s/746cef375ee3
+## 邮票与舒芙蕾
+[2026-10-11 02:20] 来自：综合网盘资源频道
 
-百度网盘：https://pan.baidu.com/s/1JTrz5rvaIL-Ma1gSyznr8A?pwd=1009
+名称：邮票与舒芙蕾(2026)【更05集】【4K.高码率】【内嵌繁中】【悬疑/犯罪】
 
-迅雷网盘：https://pan.xunlei.com/s/VP3UxVKG4T6c-CoBoEhWMt_rA1?pwd=2sui
+描述：每个角色的难戒之瘾，皆来自人生的难解之结。 少女张凯希为报复渣男王飞鹏，悄然接近他嗜酒成瘾的妻子杨曼茹，两人却意外成为忘年之交，踏上毒品不归路。 缉毒刑警陈启明侦办案件时与初恋杨曼茹重逢，难戒断的情愫使他负疚挣扎。 与上瘾无异的执念，使他们陷落各自的深渊，戒不掉对彼此的依赖，从此难以自拔。
 
-百度网盘：https://pan.baidu.com/s/1Vs38oFmJuyMDdqcZAbJKig?pwd=f25y 来自：肯德基の4K影视综合电影云盘站 [2026-10-10 21:12] 名称：此处通往繁星 (2026) 【张雪迎 /郭麒麟 /喜剧 】【4K 更新EP03】
+夸克网盘：https://pan.quark.cn/s/18550534c3c4
 
-夸克网盘：https://pan.quark.cn/s/790217b13ecf 来自：肯德基の4K影视综合电影云盘站 [2026-10-10 20:38] 名称：此处通往繁星 更04 [2026]
+百度网盘：https://pan.baidu.com/s/14srlSM7rmwATX9YR8CM-7Q?pwd=Yu88
 
-迅雷网盘：https://pan.xunlei.com/s/VP3TuBGc0yCevYHQyFoL9sogA1?pwd=9fs3 来自：肯德基の4K影视综合电影云盘站 [2026-10-10 18:17] 名称：此处通往繁星 (2026) 更新至4集
+迅雷网盘：https://pan.xunlei.com/s/VP3Um_cL_wld3Es-NPWpMprWA1?pwd=svtt
 
-📁 大小：NG
+📁 大小：6.9GB/集
 
-🏷 标签：#此处通往繁星 #剧集 #4K #剧情 #郭麒麟 #张雪迎 #quark #baidu #xunlei #uc
+🏷 标签：#邮票与舒芙蕾 #4K #高码率 #内嵌繁中 #悬疑 #犯罪 #quark #baidu #xunlei
 
-<img src="tg_media/2605109003/此处通往繁星_2026.jpg" width="600" />
+<img src="tg_media/2605109003/邮票与舒芙蕾_2026.jpg" width="600" />
+
+
+## 百日谎言
+[2026-10-11 02:10] 来自：肯德基の4K影视综合电影云盘站
+
+名称：百日谎言 (2026)【更01集】【NF.1080p】【内封简繁英】【动作/悬疑】【金裕贞/朴珍荣】
+
+描述：向往自由的顶尖扒手李佳景(金裕贞 饰)，为窃取日本殖民政府的机密而成为密探，却偏偏爱上敌人的养子(朴珍荣 饰)。
+
+夸克网盘：https://pan.quark.cn/s/e97f51bf04ba
+
+百度网盘：https://pan.baidu.com/s/1PNS4OukOq8GJsemg5PBZyA?pwd=Yu88
+
+迅雷网盘：https://pan.xunlei.com/s/VP3azVOeXoE7WZnPj2TpxXD5A1?pwd=qpd3
+
+百度网盘：https://pan.baidu.com/s/1Mk0pPwzd5-ZQLlOOgGPBjg?pwd=xhfy 来自：百度网盘综合频道 [2026-10-11 00:30] 名称：百日谎言（2026）NF 1080p 内封简中 S01E01
+
+夸克网盘：https://pan.quark.cn/s/02dc981022f9 来自：肯德基の4K影视综合电影云盘站 [2026-10-11 00:30] 名称：百日谎言（2026）NF 1080p 内封简中 S01E01
+
+📁 大小：2.6GB/集
+
+🏷 标签：#百日谎言
+
+<img src="tg_media/2710552707/百日谎言_2026.jpg" width="600" />
+
+
+## 恋爱博士
+[2026-10-11 02:00] 来自：肯德基の4K影视综合电影云盘站
+
+名称：恋爱博士 (2026)【更02集】【WEB-DL.1080p】【内封简韩双语字幕】【剧情/爱情】
+
+描述：讲述高中时期曾是游泳运动员、因疾病失去一条腿的博士研究生朴民载（秋泳愚 饰）和失去职业道路方向、在彷徨中踏上新道路的硕士研究生林宥真（金所泫 饰）之间的爱情故事。
+
+夸克网盘：https://pan.quark.cn/s/0145706a4541
+
+百度网盘：https://pan.baidu.com/s/1EQNunuEYfNIuqxFFhqPRcg?pwd=Yu88
+
+迅雷网盘：https://pan.xunlei.com/s/VP3ax7cIyg73yiV0yKB5f2HnA1?pwd=teg4
+
+📁 大小：2.5GB/集
+
+🏷 标签：#恋爱博士
+
+<img src="tg_media/2710552707/恋爱博士_2026.jpg" width="600" />
+
+
+## 现在就出发
+[2026-10-11 01:44] 来自：肯德基の4K影视综合电影云盘站
+
+名称：现在就出发 第四季（2026）4K 更新至 第一期
+
+描述：出发团再度开启全球快乐野游，抽象派旅居4.0
+
+夸克网盘：https://pan.quark.cn/s/5d84ef78c27a
+
+📁 大小：4GB
+
+🏷 标签：#剧情 #现在就出发
+
+<img src="tg_media/2710552707/现在就出发_第四季_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
