@@ -8,13 +8,13 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">264</td><td align="center">2026-10-11</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">266</td><td align="center">2026-10-11</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
 <tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">53</td><td align="center">2026-10-11</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
 <tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">106</td><td align="center">2026-10-11</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">28</td><td align="center">2026-10-11</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">8</td><td align="center">2026-10-10</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
 <tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">25</td><td align="center">2026-10-11</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">37</td><td align="center">2026-10-10</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">42</td><td align="center">2026-10-11</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
 <tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">84</td><td align="center">2026-10-11</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">25</td><td align="center">2026-10-10</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
@@ -22,6 +22,38 @@
 ## 综合分类最新收录（前 10 个 · 完整信息）
 
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
+
+
+## 黑色五叶草
+[2026-10-11 06:37] 来自：综合网盘资源频道
+
+名称：黑色五叶草 第二季 (2026) 1080P高码率.内封简中.更新至2集
+
+描述：幸运草的第五片叶子里，栖息着恶魔—— 在魔法即是一切的世界里，亚斯塔是唯一一个没有魔力的人。 而他所得到的，是能够抹消一切魔法的「反(Anti)魔法」。 如今，寄宿着冥府恶魔之力的黑桃王国支配者「漆黑的三极性(Dark Triad)」开始蹂躏世界。 侵略行动随着时间推移而愈发猛烈，红心王国的女王洛洛佩琪卡，以及三叶草王国的魔法骑士团团长夜见与凡强斯，也接连遭到掳走。 为了夺回失去的一切，亚斯塔踏入了取得「真正的恶魔之力」这项禁忌！
+
+夸克网盘：https://pan.quark.cn/s/8a28ecc3bde9
+
+📁 大小：n
+
+🏷 标签：#冒险 #August #黑色五叶草 #1080P高码率 #内封简中 #quark
+
+<img src="tg_media/2605109003/黑色五叶草_第二季_2026.jpg" width="600" />
+
+
+## 爱情来了
+[2026-10-11 05:47] 来自：综合网盘资源频道
+
+名称：爱情来了(2026)1080P 简中字幕 更新20集
+
+描述：该剧讲述收集破碎的家庭碎片，准备世界上最温暖的人生一桌的两位男女的家庭剧。
+
+夸克网盘：https://pan.quark.cn/s/5888b5d316a3
+
+📁 大小：1.6GB
+
+🏷 标签：#韩剧 #爱情来了 #1080P #简中字幕 #quark #uc
+
+<img src="tg_media/2605109003/爱情来了_2026.jpg" width="600" />
 
 
 ## 此处通往繁星
@@ -196,42 +228,6 @@
 🏷 标签：#百日谎言
 
 <img src="tg_media/2710552707/百日谎言_2026.jpg" width="600" />
-
-
-## 恋爱博士
-[2026-10-11 02:00] 来自：肯德基の4K影视综合电影云盘站
-
-名称：恋爱博士 (2026)【更02集】【WEB-DL.1080p】【内封简韩双语字幕】【剧情/爱情】
-
-描述：讲述高中时期曾是游泳运动员、因疾病失去一条腿的博士研究生朴民载（秋泳愚 饰）和失去职业道路方向、在彷徨中踏上新道路的硕士研究生林宥真（金所泫 饰）之间的爱情故事。
-
-夸克网盘：https://pan.quark.cn/s/0145706a4541
-
-百度网盘：https://pan.baidu.com/s/1EQNunuEYfNIuqxFFhqPRcg?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP3ax7cIyg73yiV0yKB5f2HnA1?pwd=teg4
-
-📁 大小：2.5GB/集
-
-🏷 标签：#恋爱博士
-
-<img src="tg_media/2710552707/恋爱博士_2026.jpg" width="600" />
-
-
-## 现在就出发
-[2026-10-11 01:44] 来自：肯德基の4K影视综合电影云盘站
-
-名称：现在就出发 第四季（2026）4K 更新至 第一期
-
-描述：出发团再度开启全球快乐野游，抽象派旅居4.0
-
-夸克网盘：https://pan.quark.cn/s/5d84ef78c27a
-
-📁 大小：4GB
-
-🏷 标签：#剧情 #现在就出发
-
-<img src="tg_media/2710552707/现在就出发_第四季_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
