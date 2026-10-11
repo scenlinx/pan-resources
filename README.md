@@ -8,13 +8,13 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">387</td><td align="center">2026-10-12</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">391</td><td align="center">2026-10-12</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
 <tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">84</td><td align="center">2026-10-12</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
 <tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">148</td><td align="center">2026-10-12</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">30</td><td align="center">2026-10-11</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">12</td><td align="center">2026-10-11</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">30</td><td align="center">2026-10-11</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">54</td><td align="center">2026-10-11</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">31</td><td align="center">2026-10-12</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">59</td><td align="center">2026-10-12</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
 <tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">125</td><td align="center">2026-10-12</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">39</td><td align="center">2026-10-11</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
@@ -22,6 +22,78 @@
 ## 综合分类最新收录（前 10 个 · 完整信息）
 
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
+
+
+## 交锋
+[2026-10-12 07:20] 来自：综合网盘资源频道
+
+名称：交锋 (2026) 4K HDR 全40完结
+
+描述：  故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。
+
+百度网盘：https://pan.baidu.com/s/1ucKNGwvgps34T4oe9M5JuQ?pwd=cx8n
+
+夸克网盘：https://pan.quark.cn/s/13169c164ec0
+
+迅雷网盘：https://pan.xunlei.com/s/VP3hFx853hvB_p9AwONIL5z5A1?pwd=u437
+
+📁 大小：5G＼集
+
+🏷 标签：#剧情 #交锋 #4K #HDR #全40完结 #baidu #quark #xunlei
+
+<img src="tg_media/2605109003/交锋_2026.jpg" width="600" />
+
+
+## 再次奔向你
+[2026-10-12 06:10] 来自：综合网盘资源频道
+
+名称：再次奔向你 (2026) 1080p.WEB-DL.AAC.2.0.H.264 韩语中字 E06 单集4.6G
+
+描述：本剧是一部结合灵魂交换与时空穿越的浪漫喜剧。顶级女演员尹荷娜(金知妍 饰)在遭遇意外后，灵魂穿越回过去并附身在双胞胎哥哥体内。为了拯救在前世因守护自己而牺牲的初恋保镖郑宇宰(朴栖含 饰)，她决定隐瞒身份改写两人的悲剧命运，展开一段逆转生死的奇幻爱情。
+
+夸克网盘：https://pan.quark.cn/s/dd8316574514
+
+📁 大小：4.6GB/集
+
+🏷 标签：#潜入你心 #再次奔向你 #1080p #WEBDL #AAC #韩语中字 #quark #移动 #guangyapan
+
+<img src="tg_media/2605109003/再次奔向你_2026.jpg" width="600" />
+
+
+## 喜剧之王
+[2026-10-12 05:04] 来自：综合网盘资源频道
+
+名称：喜剧之王 4K [内封多国语字幕][更新至16集]
+
+描述：该剧根据1999年周星驰同名电影《喜剧之王》改编。喜人团建，开启新生代喜剧与经典的碰撞。“冷饭热炒“，上演笑中有泪的“乡村商战”。
+
+夸克网盘：https://pan.quark.cn/s/a8d6bca2f97f
+
+迅雷网盘：https://pan.xunlei.com/s/VP3L3Uw6jjIiJA_3AmEnnaMzA1?pwd=qzqj
+
+📁 大小：N G
+
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #喜剧之王 #4K #内封多国语字幕 #quark #xunlei
+
+<img src="tg_media/2605109003/喜剧之王_4K.jpg" width="600" />
+
+
+## 魅影神捕
+[2026-10-12 04:29] 来自：综合网盘资源频道
+
+名称：魅影神捕 4K [HDR60fps][内封简繁字幕][更新至21集]
+
+描述：鸿运三十七年的大世王朝，即将迎来一场蓄谋已久的血雨腥风，亡国离罗携“五绝诡术”死灰复燃，制造出一桩桩惊骇迷案。幸皇权直属神捕司内以黎斯为首的一众英豪，为保山河无恙，民生安康，毅然拉开了与离罗余孽殊死斗争的大幕。神捕司威名盖世，苌弘碧血，逆风执炬，拨开重重迷雾，逼近真相。九具棺椁内九具少女干尸，放血而亡，死状极惨，这些无辜女子因何香消玉殒？黑风林秘境深处，巨大的天魔罗食人株以三十六名至阳孩童为阴食，人体包裹成茧的花丛中，竟然弥漫着由少女血炼制的枯骨香，东南船王府内大湖中随波荡...
+
+夸克网盘：https://pan.quark.cn/s/e556919d1640
+
+迅雷网盘：https://pan.xunlei.com/s/VP3gdmdkEpJ6CkF7_Bpa65QUA1?pwd=vwfs
+
+📁 大小：N G
+
+🏷 标签：#盘酱酱 #PanWEB #国产剧 #魅影神捕 #4K #内封简繁字幕 #quark #xunlei
+
+<img src="tg_media/2605109003/魅影神捕_4K.jpg" width="600" />
 
 
 ## 爱情来了
@@ -134,32 +206,6 @@
 <img src="tg_media/2605109003/伟大的长征_2026.jpg" width="600" />
 
 
-## 喜剧之王
-[2026-10-12 02:15] 来自：百度网盘综合频道
-
-名称：喜剧之王（2026）4K 60FPS S01E01 - E16 杜比音效
-
-描述：该剧根据1999年周星驰同名电影《喜剧之王》改编。喜人团建，开启新生代喜剧与经典的碰撞。“冷饭热炒“，上演笑中有泪的“乡村商战”。
-
-百度网盘：https://pan.baidu.com/s/1zJgTAT_LWxOz8QmmAKasAQ?pwd=u69L
-
-百度网盘：https://pan.baidu.com/s/1u2_Q1wxuAG-adLEq1AOjjw?pwd=p3qm 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 01:21] 名称：喜剧之王 更16 [2026][剧版]
-
-夸克网盘：https://pan.quark.cn/s/6f54c9196637 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 01:21] 名称：喜剧之王 更16 [2026][剧版]
-
-夸克网盘：https://pan.quark.cn/s/e5cc2c914579 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 01:17] 名称：喜剧之王(2026)【更16集】【4K.SDR】【内嵌简中】【剧情/喜剧】【杨超越/蒋龙】
-
-迅雷网盘：https://pan.xunlei.com/s/VP3N0QCSXoC-KIE_Mpqi3yUDA1?pwd=25b9 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 01:17] 名称：喜剧之王(2026)【更16集】【4K.SDR】【内嵌简中】【剧情/喜剧】【杨超越/蒋龙】
-
-迅雷网盘：https://pan.xunlei.com/s/VP3GFo0wUZsabsXVxmM0hShuA1?pwd=9gnn 来自：综合网盘资源频道 [2026-10-11 22:48] 名称：喜剧之王(2026) 4K 更新至16集
-
-📁 大小：10.1GB
-
-🏷 标签：#剧情 #喜剧之王
-
-<img src="tg_media/2110524172/喜剧之王_2026.jpg" width="600" />
-
-
 ## 潜入你心
 [2026-10-12 02:05] 来自：肯德基の4K影视综合电影云盘站
 
@@ -182,68 +228,6 @@
 🏷 标签：#剧情 #潜入你心
 
 <img src="tg_media/2710552707/潜入你心_2026.jpg" width="600" />
-
-
-## 美人余
-[2026-10-12 02:03] 来自：综合网盘资源频道
-
-名称：美人余 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至08集]
-
-描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无爱，有爱无性”等真实情感和婚姻现状。
-
-夸克网盘：https://pan.quark.cn/s/f4fc46a4be66
-
-迅雷网盘：https://pan.xunlei.com/s/VP3g7XNWjKsCit-PCzXjEBD0A1?pwd=gntz
-
-百度网盘：https://pan.baidu.com/s/1Yp3EElXonRWPFJG3c6Se5g?pwd=iy4r 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 01:04] 名称：美人余 更08 [2026][4K]
-
-夸克网盘：https://pan.quark.cn/s/2eb2439cadd7 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 01:04] 名称：美人余 更08 [2026][4K]
-
-百度网盘：https://pan.baidu.com/s/120uLRnDRTEoUfyXQlF-uyA?pwd=Qiye 来自：综合网盘资源频道 [2026-10-12 00:51] 名称：美人余(2026)web-4k 简体字幕 第8集
-
-迅雷网盘：https://pan.xunlei.com/s/VP3ZTXAkAt_ZQPZXiSlYHAndA1?pwd=8whb 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 00:36] 名称：美人余 (2026)【更07集】【4K.HDR】【高码率】【内嵌简中】【李一桐/王佳佳】
-
-📁 大小：N G
-
-🏷 标签：#盘酱酱 #PanWEB #国产剧 #美人余 #4K臻彩MAX #内封简繁字幕 #quark #xunlei
-
-<img src="tg_media/2605109003/美人余_4K臻彩MAX.jpg" width="600" />
-
-
-## 我不是大师
-[2026-10-12 02:01] 来自：综合网盘资源频道
-
-名称：我不是大师 4K臻彩MAX [HDR60fps][内封简繁字幕][全24集]
-
-描述：上官诚明全家惨遭天相派设局灭门，他化名潜伏，以牙还牙，以眼还眼，用连环骗局反噬仇敌，一路揭露骗术黑幕，最终瓦解天相派，解救受控者，惩恶扬善终彰善念。
-
-夸克网盘：https://pan.quark.cn/s/75b7ef7dc771
-
-迅雷网盘：https://pan.xunlei.com/s/VP2IdcxQqCB_eto9LVBnq2uVA1?pwd=6ypa
-
-百度网盘：https://pan.baidu.com/s/1NdYtT4ovRe1jYbxoJCtHNg?pwd=vLMz 来自：肯德基の4K影视综合电影云盘站 [2026-10-12 00:32] 名称：我不是大师（2026）4K 10bit 60FPS 杜比环绕声 全24集
-
-📁 大小：N G
-
-🏷 标签：#盘酱酱 #PanWEB #国产剧 #我不是大师 #4K臻彩MAX #内封简繁字幕 #quark #xunlei
-
-<img src="tg_media/2605109003/我不是大师_4K臻彩MAX.jpg" width="600" />
-
-
-## 龙珠超
-[2026-10-12 02:01] 来自：综合网盘资源频道
-
-名称：龙珠超 比鲁斯 (2026) 1080p.CR.WEB-DL.AAC2.0.H.264 内封官方繁中 单集1.3GB E01
-
-描述：距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…
-
-夸克网盘：https://pan.quark.cn/s/f44c3d67365d
-
-📁 大小：1.3GB/集
-
-🏷 标签：#龙珠超 #比鲁斯 #1080p #WEBDL #AAC #内封官方繁中 #quark #移动 #guangyapan
-
-<img src="tg_media/2605109003/龙珠超_比鲁斯_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
