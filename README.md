@@ -8,13 +8,13 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">354</td><td align="center">2026-10-14</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">80</td><td align="center">2026-10-14</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">359</td><td align="center">2026-10-14</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">84</td><td align="center">2026-10-14</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
 <tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">152</td><td align="center">2026-10-14</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">40</td><td align="center">2026-10-14</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">12</td><td align="center">2026-10-13</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">43</td><td align="center">2026-10-14</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">89</td><td align="center">2026-10-13</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">44</td><td align="center">2026-10-14</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">95</td><td align="center">2026-10-14</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
 <tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">183</td><td align="center">2026-10-13</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">63</td><td align="center">2026-10-14</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
@@ -25,21 +25,97 @@
 
 
 ## 欲望的陷阱
-[2026-10-14 03:45] 来自：综合网盘资源频道
+[2026-10-14 08:44] 来自：肯德基の4K影视综合电影云盘站
 
-名称：欲望的陷阱(2026)1080P 简中字幕 更新36集
+名称：欲望的陷阱(2026)【更36集】【WEB-DL.1080p】【内封简中】【剧情/犯罪】
 
-描述：剧集讲述遭诬陷杀人而人生被夺走的女人，对抗巨大的欲望，并复原人生的复仇剧
+描述：本剧讲述被冤枉为杀人而失去生命的一名女性面对巨大的欲望，重新找回自己人生的复仇剧。
 
-夸克网盘：https://pan.quark.cn/s/99df1d3749d6
+夸克网盘：https://pan.quark.cn/s/59d54616745d
 
-UC网盘：https://drive.uc.cn/s/297ead31568a4
+百度网盘：https://pan.baidu.com/s/1GVAczDFpd0BYq5DNImOtZA?pwd=Yu66
 
-📁 大小：540MB
+迅雷网盘：https://pan.xunlei.com/s/VP0kO-C-Yhd16vc9o7Zo33whA1?pwd=npyr
 
-🏷 标签：#欲望的陷阱 #日日剧 #张瑞希 #全惠媛 #quark #uc #1080P #简中字幕
+📁 大小：0.6GB/集
 
-<img src="tg_media/2605109003/欲望的陷阱_2026.jpg" width="600" />
+🏷 标签：#欲望的陷阱
+
+<img src="tg_media/2710552707/欲望的陷阱_2026.jpg" width="600" />
+
+
+## 被流放的开挂魔术师讴歌随心所欲第二人生
+[2026-10-14 08:37] 来自：肯德基の4K影视综合电影云盘站
+
+名称：被流放的开挂魔术师讴歌随心所欲第二人生（2026）1080p S01E01 - E02 内封简繁
+
+描述：一群失去归宿的人，在残酷的世界里自己找到活法，开启随心所欲的第二人生。
+
+夸克网盘：https://pan.quark.cn/s/b78f3b44b4ec
+
+📁 大小：1.4GB
+
+🏷 标签：#剧情 #被流放的开挂魔术师讴歌随心所欲第二人生
+
+<img src="tg_media/2710552707/被流放的开挂魔术师讴歌随心所欲第二人生_2026.jpg" width="600" />
+
+
+## 美人余
+[2026-10-14 08:14] 来自：百度网盘综合频道
+
+名称：美人余（2026）4K 60FPS S01E01 -  E12 HIFI声
+
+描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无爱，有爱无性”等真实情感和婚姻现状。
+
+百度网盘：https://pan.baidu.com/s/1xDtKVf_WRK-pxLoMg2UErQ?pwd=bf4g
+
+夸克网盘：https://pan.quark.cn/s/0f4bd432127c 来自：夸克云盘影视资源频道 [2026-10-14 08:14] 名称：美人余（2026）4K 60FPS S01E01 -  E12 HIFI声
+
+📁 大小：4GB
+
+🏷 标签：#剧情 #美人余
+
+<img src="tg_media/2110524172/美人余_2026.jpg" width="600" />
+
+
+## 我不是大师
+[2026-10-14 07:52] 来自：综合网盘资源频道
+
+名称：我不是大师 (2026) 4K全24
+
+描述：上官诚明全家惨遭天相派设局灭门，他化名潜伏，以牙还牙，以眼还眼，联手身陷泥淖却势要逆天改命的江飞燕，用连环骗局反噬仇敌，一路揭露骗术黑幕，最终瓦解天相派，解救受控者，惩恶扬善终彰善念。
+
+百度网盘：https://pan.baidu.com/s/1utj2gzePUohgVxGFio30ew?pwd=tfh5
+
+夸克网盘：https://pan.quark.cn/s/a391ab182c9b
+
+迅雷网盘：https://pan.xunlei.com/s/VP3rfTz4b6R1-VTtUfZeFTLOA1?pwd=un6z
+
+📁 大小：4G＼集
+
+🏷 标签：#剧情 #我不是大师 #4K全24 #baidu #quark #xunlei
+
+<img src="tg_media/2605109003/我不是大师_2026.jpg" width="600" />
+
+
+## 希望
+[2026-10-14 07:46] 来自：综合网盘资源频道
+
+名称：希望 (2026) 1080P SDR 杜比音效 内封中英法字幕
+
+描述：故事发生在20世纪70至80年代，宁静的沿海村庄“霍普港”。警察局长范锡(黄政民 饰)与警员成爱(郑好娟 饰)被派往调查离奇的动物虐杀案，却发现作案者是某种体型庞大的未知生物。同时，暴躁的猎人成基(赵寅成 饰)带队进山试图猎杀猛兽，反沦为猎物 。随着怪物真容浮现，恐惧在村民间蔓延，这场生存杀戮逐渐演变为揭露人性排外心理的残酷试炼。
+
+导演罗泓轸计划将《希望》拍摄三部曲。
+
+夸克网盘：https://pan.quark.cn/s/9a80df35dc11
+
+迅雷网盘：https://pan.xunlei.com/s/VP3oGwjUYMZDpxMFJrYzVfdAA1?pwd=dpd6 来自：肯德基の4K影视综合电影云盘站 [2026-10-14 07:41] 名称：希望 (2026) 1080P SDR 杜比音效 内封中英法字幕
+
+📁 大小：9.4GB
+
+🏷 标签：#Hope #希望 #剧情 #动作 #科幻 #1080P #SDR #杜比音效 #内封中英法字幕 #quark
+
+<img src="tg_media/2605109003/希望_2026.jpg" width="600" />
 
 
 ## 妈妈发疯了
@@ -166,106 +242,6 @@ UC网盘：https://drive.uc.cn/s/4e265775f30f4 来自：综合网盘资源频道
 🏷 标签：#日剧 #剧情 #悬疑 #绑架游戏 #1080p #内嵌简中 #quark #baidu #xunlei
 
 <img src="tg_media/2605109003/绑架游戏_2026.jpg" width="600" />
-
-
-## 政盗鲁邦
-[2026-10-14 01:57] 来自：综合网盘资源频道
-
-名称：政盗鲁邦(2026)【Viu.1080p】【内嵌简中】【更01集】【剧情/犯罪】
-
-描述：这是一部以政治界为舞台展开的“怪盗娱乐”题材作品。故事设定在一个虚构国家，讲述被称为“史上最强女鲁邦”的怪盗 如月弥生(石原里美 饰)，潜入暗流涌动的政坛，与精英议员们斗智斗勇，将那些见不得光的“政治黑金”一网打尽、华丽夺走的故事。与此同时，她与深陷政坛风波的政客之女 雅(河合优实 饰)之间，也将展开一段微妙且充满变数的女性情谊。
-
-夸克网盘：https://pan.quark.cn/s/b8b3be87fb40
-
-百度网盘：https://pan.baidu.com/s/1DABHVf_4Zfqsf5fM4HFQmg?pwd=yptv
-
-迅雷网盘：https://pan.xunlei.com/s/VP3qOjzpLSK7Z8Lf_uFt0blwA1?pwd=krst
-
-📁 大小：NG
-
-🏷 标签：#日剧 #剧情 #犯罪 #政盗鲁邦 #1080p #内嵌简中 #quark #baidu #xunlei
-
-<img src="tg_media/2605109003/政盗鲁邦_2026.jpg" width="600" />
-
-
-## 美人余
-[2026-10-14 01:54] 来自：肯德基の4K影视综合电影云盘站
-
-名称：美人余 (2026)【更11集】【4K.HDR】【高码率】【内嵌简中】【李一桐/王佳佳】
-
-描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无爱，有爱无性”等真实情感和婚姻现状。
-
-夸克网盘：https://pan.quark.cn/s/5aaf1faaba09
-
-百度网盘：https://pan.baidu.com/s/15ZRy0joAn-3tGz_adgNBZA?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP3f30XOP__Fc4li4czTSl7jA1?pwd=2k7n
-
-光鸭云盘：https://www.guangyapan.com/s/1955967871150465069_aeWw8Ru726g3wcPx
-
-百度网盘：https://pan.baidu.com/s/1xUUeMkZbiPsmTZYxI2LSHw?pwd=u2uh 来自：综合网盘资源频道 [2026-10-14 01:01] 名称：美人余(2026)web-4k 简体字幕 第12集
-
-夸克网盘：https://pan.quark.cn/s/dcabe930b5dd 来自：综合网盘资源频道 [2026-10-14 01:01] 名称：美人余(2026)web-4k 简体字幕 第12集
-
-UC网盘：https://drive.uc.cn/s/e9d4165bccd24 来自：肯德基の4K影视综合电影云盘站 [2026-10-13 22:24] 名称：美人余 (2026) 【李一桐/王佳佳 /爱情/喜剧】【4K 更新EP10】
-
-迅雷网盘：https://pan.xunlei.com/s/VP3aLVidmF65CWAoOrDsOsoMA1?pwd=8cit 来自：综合网盘资源频道 [2026-10-13 22:15] 名称：美人余(2026) 4K 更新至11集
-
-UC网盘：https://drive.uc.cn/s/e4e29f7a207f4 来自：综合网盘资源频道 [2026-10-13 21:52] 名称：美人余 (2026) 更至12集 [4K][剧情][李一桐/王佳佳]
-
-📁 大小：4.9GB/集
-
-🏷 标签：#美人余
-
-<img src="tg_media/2710552707/美人余_2026.jpg" width="600" />
-
-
-## 恋爱博士
-[2026-10-14 01:54] 来自：肯德基の4K影视综合电影云盘站
-
-名称：恋爱博士（2026）【DSNP.1080p】【内嵌简中】【更04集】【剧情/爱情】
-
-描述：讲述高中时期曾是游泳运动员、因疾病失去一条腿的博士研究生朴民载（秋泳愚 饰）和失去职业道路方向、在彷徨中踏上新道路的硕士研究生林宥真（金所泫 饰）之间的爱情故事。
-
-夸克网盘：https://pan.quark.cn/s/d0d1fa2110e3
-
-百度网盘：https://pan.baidu.com/s/1Cl7icQ3NV7Gd6GlE85tirA?pwd=yptv
-
-迅雷网盘：https://pan.xunlei.com/s/VP3qNzCLpMczrocEvymJWYooA1?pwd=34py
-
-百度网盘：https://pan.baidu.com/s/1SudSYLxWWPOX4VQc13xAUA?pwd=jeh2 来自：百度网盘综合频道 [2026-10-14 00:11] 名称：恋爱博士（2026）Disney+ 1080p 内封官中 S01E01-E04
-
-夸克网盘：https://pan.quark.cn/s/b73f3333169c 来自：肯德基の4K影视综合电影云盘站 [2026-10-14 00:11] 名称：恋爱博士（2026）Disney+ 1080p 内封官中 S01E01-E04
-
-📁 大小：NG
-
-🏷 标签：#韩剧 #剧情 #爱情 #恋爱博士 #1080p
-
-<img src="tg_media/2710552707/恋爱博士_2026.jpg" width="600" />
-
-
-## 希望
-[2026-10-14 01:51] 来自：综合网盘资源频道
-
-名称：希望 (2026) 1080P SDR 内封简繁字幕
-
-描述：故事发生在20世纪70至80年代，宁静的沿海村庄“霍普港”。警察局长范锡(黄政民 饰)与警员成爱(郑好娟 饰)被派往调查离奇的动物虐杀案，却发现作案者是某种体型庞大的未知生物。同时，暴躁的猎人成基(赵寅成 饰)带队进山试图猎杀猛兽，反沦为猎物 。随着怪物真容浮现，恐惧在村民间蔓延，这场生存杀戮逐渐演变为揭露人性排外心理的残酷试炼。
-
-导演罗泓轸计划将《希望》拍摄三部曲。
-
-阿里云盘：https://www.alipan.com/s/3L6oGcfFfYm
-
-夸克网盘：https://pan.quark.cn/s/9700c79d161e
-
-百度网盘：https://pan.baidu.com/s/1H1rA1u-ygRih0Bt8x1zIMA?pwd=auc9
-
-百度网盘：https://pan.baidu.com/s/1xr6XsHgcdxzFAtYQZGsGEg?pwd=5dsm 来自：肯德基の4K影视综合电影云盘站 [2026-10-13 22:24] 名称：希望 HOPE (2026) AMZN 1080P 内封简中
-
-📁 大小：9.5GB
-
-🏷 标签：#希望 #剧情 #科幻 #动作 #AMZN #1080P #SDR #内封简繁字幕 #ali #quark #baidu
-
-<img src="tg_media/2605109003/希望_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
