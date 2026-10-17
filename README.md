@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">811</td><td align="center">2026-10-17</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">152</td><td align="center">2026-10-17</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">304</td><td align="center">2026-10-17</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">838</td><td align="center">2026-10-17</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">156</td><td align="center">2026-10-17</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">319</td><td align="center">2026-10-17</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">74</td><td align="center">2026-10-16</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">22</td><td align="center">2026-10-16</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">86</td><td align="center">2026-10-17</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">161</td><td align="center">2026-10-16</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">309</td><td align="center">2026-10-17</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">115</td><td align="center">2026-10-17</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">23</td><td align="center">2026-10-17</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">89</td><td align="center">2026-10-17</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">168</td><td align="center">2026-10-17</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">312</td><td align="center">2026-10-17</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">118</td><td align="center">2026-10-17</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,224 +24,216 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 水晶湖
-[2026-10-17 04:28] 来自：综合网盘资源频道
+## 醉梦
+[2026-10-17 11:23] 来自：综合网盘资源频道
 
-名称：水晶湖 (2026) 4K WEB-DL 中文字幕 HDR10 H265 DDP 5.1 Atmos
+名称：醉梦(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第4集
 
-描述：该剧将故事时间拉回悲剧发生之前，以《十三号星期五》系列最初的凶手——帕梅拉·沃尔希斯为主角，深入描写她在失去儿子杰森·沃尔希斯后，如何一步步走向疯狂，揭开水晶湖连环血案的起点。
+描述：多年前，记者沈乐水用摄像机记录了老松江啤酒厂的厂工生活，这里的故事，像一杯久藏的啤酒, 酝酿着复杂的情感，也氤氲着一个名叫刘雪梅的女人的死亡之谜。
 
-百度网盘：https://pan.baidu.com/s/1OwuWsFZ8YpEkCf_naWhAtg?pwd=Yu88
+夸克网盘：https://pan.quark.cn/s/b3138a97be3a
 
-📁 大小：BG
+百度网盘：https://pan.baidu.com/s/1DFq6DN9xMDlW-q5FSXFZbQ?pwd=7riv
 
-🏷 标签：#剧情 #水晶湖 #4K #WEBDL #中文字幕 #Atmos #baidu
+光鸭云盘：https://www.guangyapan.com/s/1958243004028440651_aeWYeSwV3ZOZlzEy
 
-<img src="tg_media/2605109003/水晶湖_2026.jpg" width="600" />
+百度网盘：https://pan.baidu.com/s/1GwK3MsxWnKXBj4M4mnJHsQ?pwd=60ge 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 09:46] 名称：醉梦 (2026)【更03集】【4K.HDR】【高码率】【内嵌简中】【刘诗诗/李乃文】
+
+夸克网盘：https://pan.quark.cn/s/27c49f312666 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 09:46] 名称：醉梦 (2026)【更03集】【4K.HDR】【高码率】【内嵌简中】【刘诗诗/李乃文】
+
+迅雷网盘：https://pan.xunlei.com/s/VP43_BbvNFmApORYcrVmFTKpA1?pwd=xbz8 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 09:46] 名称：醉梦 (2026)【更03集】【4K.HDR】【高码率】【内嵌简中】【刘诗诗/李乃文】
+
+📁 大小：6GB
+
+🏷 标签：#醉梦 #4k #WEBDL #2160p #杜比视界 #简体字幕 #quark #baidu #guangyapan
+
+<img src="tg_media/2605109003/醉梦_2026.jpg" width="600" />
+
+
+## 璀璨之城
+[2026-10-17 11:23] 来自：综合网盘资源频道
+
+名称：璀璨之城 (2026) [WEB-4K] [国粤双语] [内嵌简中] [更至5集]
+
+描述：尚利锋集团主席官志琛在澳门雄霸一方，这商界巨人安排两子官孝贤、官孝君，出任集团联席行政总裁，平起平坐。孝贤一直视孝君为眼中钉，为瓦解孝君和其夫人王雪莹的强大团伙，孝贤宣布与香港检控官洪海允成婚。海允与雪莹本是闺密，出身于十月初五街，但雪莹为嫁入豪门，夺去海允的情人孝君。孝贤就是要利用海允心中的仇恨，化成攻击孝君夫妇的利器。在家族各人看似充满机心的环境中，孝君却坚守正义，奋力抵抗着孝贤的步步进逼……
+
+夸克网盘：https://pan.quark.cn/s/e719cf1d9380
+
+百度网盘：https://pan.baidu.com/s/1dGwvZ93ErAAajDDxGd3XVw?pwd=1111
+
+迅雷网盘：https://pan.xunlei.com/s/VP3kOxCJn-NsPDBvBBJOMldQA1?pwd=ufcq
+
+光鸭云盘：https://www.guangyapan.com/s/1956743028509130821_aeWiyJwocgzRgCVm
+
+📁 大小：N/A
+
+🏷 标签：#剧情 #璀璨之城 #4K #国粤双语 #内嵌简中 #quark #baidu #xunlei #guangyapan
+
+<img src="tg_media/2605109003/璀璨之城_2026.jpg" width="600" />
+
+
+## 凡人修仙传
+[2026-10-17 11:22] 来自：百度网盘综合频道
+
+名称：凡人修仙传 年番4（2026）4K 高码率 S01E01 - E196
+
+描述：韩立返回天南境内途中，从慕兰法士手中救下了旧识，从而得知南宫婉音讯，他决定前往掩月宗……慕兰大举入侵天南，黄龙山战役中韩立杀招频出，一战成名！
+
+百度网盘：https://pan.baidu.com/s/1KAE9XCb_FXysuBZ4ffTxoQ?pwd=99rt
+
+📁 大小：360GB
+
+🏷 标签：#剧情 #凡人修仙传
+
+<img src="tg_media/2110524172/凡人修仙传_年番4_2026.jpg" width="600" />
 
 
 ## 嫁金钗
-[2026-10-17 04:18] 来自：肯德基の4K影视综合电影云盘站
+[2026-10-17 11:18] 来自：最新电影,电视剧,动漫|夸克网盘资源
 
-名称：嫁金钗 (2026)【更03集】【4K.HQ.高码率】【内嵌简中】【DV&HDR双版本】【田曦薇/闫桉】
+名称：嫁金钗 (2026) 4K HDR SDR DV杜比视界 高码率 AAC2.0 中字【6.1GB/集】更04集，田曦薇/闫桉
 
-描述：阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆(君黛)的面容，意外成为国公府世子陆濯的冲喜新娘。阿丑野心勃勃，一心借机上位，然而濒死的新婚丈夫忽然苏醒，鸠占鹊巢引来连绵灾祸。魏娆恨她鸠占鹊巢，急欲除之后快；陆濯认定她是蛇蝎妇人，百般提防谋算。国公府明面一团和气，实则陷阱重重、步步杀机。阿丑稳扎稳打精心谋划，手段百出赢得丈夫痴爱，更查出了自己身世的秘密，与至亲最终团圆，从底层夜香妇一路逆袭上位，过出光芒万丈的锦绣人生。
+描述： 阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府世子陆濯的冲喜新娘。阿丑野心勃勃，一心借机上位，然而濒死的新婚丈夫忽然苏醒，鸠占鹊巢引来连绵灾祸。魏娆（君黛）恨她鸠占鹊巢，急欲除之后快；陆濯以她为蛇蝎妇人，百般提防谋算。国公府明面一团和气，实则陷阱重重、步步杀机。阿丑稳扎稳打精心谋划，手段百出获得丈夫痴爱，更查出了自己身世的秘密，与至亲最终团圆，从底层夜香妇一路逆袭上位，过出光芒万丈的锦绣人生。 
 
-夸克网盘：https://pan.quark.cn/s/f59467aadd5e
+夸克网盘：https://pan.quark.cn/s/032ae1350d6f
 
-百度网盘：https://pan.baidu.com/s/1BdDsKkBadbUj_uGWaesMZA?pwd=Yu88
+百度网盘：https://pan.baidu.com/s/1EAt2nh50Xmak7nrj2AbuMQ?pwd=25bc 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 09:46] 名称：嫁金钗 (2026)【更03集】【DV&HDR】【4K.HQ】【高码率】【内嵌简中】【田曦薇/闫桉】
 
-迅雷网盘：https://pan.xunlei.com/s/VP4454MsS5SvWxj1_5ZwPjdRA1?pwd=y8db
+夸克网盘：https://pan.quark.cn/s/8d71b731892d 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 09:46] 名称：嫁金钗 (2026)【更03集】【DV&HDR】【4K.HQ】【高码率】【内嵌简中】【田曦薇/闫桉】
 
-光鸭云盘：https://www.guangyapan.com/s/1958284630687891521_aeWw8Ru726g3wcPx
+迅雷网盘：https://pan.xunlei.com/s/VP43ZD83e6kkVdBfxc0vVZ2kA1?pwd=44ju 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 09:46] 名称：嫁金钗 (2026)【更03集】【DV&HDR】【4K.HQ】【高码率】【内嵌简中】【田曦薇/闫桉】
 
-夸克网盘：https://pan.quark.cn/s/85bc89dd8975 来自：综合网盘资源频道 [2026-10-17 03:24] 名称：嫁金钗 4K高码率 [60fps][更新至04集]
+迅雷网盘：https://pan.xunlei.com/s/VP46OvYoM-Wq2hSfk-dYYED5A1?pwd=3ydh 来自：综合网盘资源频道 [2026-10-17 09:10] 名称：嫁金钗  更新至04集 4K高码率
 
-迅雷网盘：https://pan.xunlei.com/s/VP43Sq5jM-Wq2hSfk-dVyXdSA1?pwd=acwd 来自：综合网盘资源频道 [2026-10-17 03:24] 名称：嫁金钗 4K高码率 [60fps][更新至04集]
+百度网盘：https://pan.baidu.com/s/1R2LF_H_K2zMysoWZCzRGRA?pwd=esxf 来自：百度网盘综合频道 [2026-10-17 06:52] 名称：嫁金钗（2026）4K 10bit 60FPS S01E01 - E04
 
-📁 大小：5.9GB/集
+📁 大小：6.1GB/集
 
-🏷 标签：#嫁金钗
+🏷 标签：#嫁金钗  #剧情 #爱情 #古装
 
-<img src="tg_media/2710552707/嫁金钗_2026.jpg" width="600" />
+<img src="tg_media/4323669403/嫁金钗_2026.jpg" width="600" />
 
 
-## 醉梦
-[2026-10-17 04:09] 来自：肯德基の4K影视综合电影云盘站
+## 光阴之外
+[2026-10-17 11:15] 来自：肯德基の4K影视综合电影云盘站
 
-名称：醉梦 (2026)【更03集】【4K.HDR】【高码率】【内嵌简中】【剧情/犯罪】【刘诗诗/李乃文】
+名称：光阴之外（2025）4K HQ S01E01 - E44
 
-描述：多年前，记者沈乐水用摄像机记录了老松江啤酒厂的厂工生活，这里的故事，像一杯久藏的啤酒, 酝酿着复杂的情感，也氤氲着一个名叫刘雪梅的女人的死亡之谜。啤酒厂曾是这座城市的骄傲，没落多年后，却成为众多命案的舞台。刘雪梅的生与死，紧密缠绕在一个被野心和贪婪驱使的阴谋之中。每一个人都如同棋子，被无情地操纵和牺牲。真相总是隐藏在最不起眼的角落。一个潜伏多年的幽灵，策划着一场血色的复仇 。他的怒火和绝望，化作连环杀人案的阴影，笼罩着松江。命运的轮回终于在一起突如其来又似乎源自宿命的意外中到达终点。沈乐水也再次扛起摄像机，记录下这其中跨越了时间的人性挣扎。
+描述：天地是万物众生的客舍，光阴是古往今来的过客。苍天残面张开诡异之眼，所视之处生灵涂炭，化为永恒的禁区。末世之中，因果随行，死地后生。
 
-夸克网盘：https://pan.quark.cn/s/7c00823cfd56
+夸克网盘：https://pan.quark.cn/s/c0335c85e399
 
-百度网盘：https://pan.baidu.com/s/1c6QOhiMgXiCq-U5ABgIt7w?pwd=Yu88
+百度网盘：https://pan.baidu.com/s/18OrYyxel8te-KZVm3X6wBA?pwd=Qiye 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 11:13] 名称：光阴之外 年番1 (2026) WEB-4K 第44集
 
-迅雷网盘：https://pan.xunlei.com/s/VP4457GqJMBsPWnPvTkwGj2uA1?pwd=7tm6
+夸克网盘：https://pan.quark.cn/s/41a1bd3b37fa 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 11:13] 名称：光阴之外 年番1 (2026) WEB-4K 第44集
 
-光鸭云盘：https://www.guangyapan.com/s/1958284598035263540_aeWw8Ru726g3wcPx
+光鸭云盘：https://www.guangyapan.com/s/1950795797607723067_aeWYeSwV3ZOZlzEy 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 11:13] 名称：光阴之外 年番1 (2026) WEB-4K 第44集
 
-夸克网盘：https://pan.quark.cn/s/6bd8bdffbd9e 来自：综合网盘资源频道 [2026-10-17 03:44] 名称：醉梦 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至04集]
+百度网盘：https://pan.baidu.com/s/1Cq6P1zdglDcU2huDbDMGXg?pwd=6666 来自：综合网盘资源频道 [2026-10-17 10:18] 名称：光阴之外 (2025)奇幻 武侠 古装 4KHQHDR10 更新44集
 
-迅雷网盘：https://pan.xunlei.com/s/VP43QK4Xn9H3RF4-9-XAlGefA1?pwd=65ib 来自：综合网盘资源频道 [2026-10-17 03:44] 名称：醉梦 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至04集]
+光鸭云盘：https://www.guangyapan.com/s/1947869936860246085_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-10-17 10:18] 名称：光阴之外 (2025)奇幻 武侠 古装 4KHQHDR10 更新44集
 
-📁 大小：5GB/集
+📁 大小：6.9GB
 
-🏷 标签：#醉梦
+🏷 标签：#剧情 #光阴之外
 
-<img src="tg_media/2710552707/醉梦_2026.jpg" width="600" />
+<img src="tg_media/2710552707/光阴之外_2025.jpg" width="600" />
 
 
-## 美人余
-[2026-10-17 04:01] 来自：肯德基の4K影视综合电影云盘站
+## LOST10
+[2026-10-17 11:14] 来自：肯德基の4K影视综合电影云盘站
 
-名称：美人余 (2026)【更17集】【4K.HDR】【高码率】【内嵌简中】【李一桐/王佳佳】
+名称：LOST10（2026）1080p NF S01E01 内封简繁
 
-描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无爱，有爱无性”等真实情感和婚姻现状。
+描述：该作品为完全原创故事，是一部以北海道广袤壮阔的大地为舞台展开的人性悬疑剧。故事以登山旅行团中发生的遇难事故——“支桦岳事件”为契机，围绕这一事件展开的人物与故事逐渐彼此交织。
 
-夸克网盘：https://pan.quark.cn/s/a45bc1324ca0
+夸克网盘：https://pan.quark.cn/s/4d2004069d2a
 
-百度网盘：https://pan.baidu.com/s/17Senm99shch3hWGyQlAzOA?pwd=Yu88
+📁 大小：2GB
 
-迅雷网盘：https://pan.xunlei.com/s/VP4-Tp8dIirFjujUyylE7nhqA1?pwd=rep5
+🏷 标签：#剧情 #LOST10
 
-光鸭云盘：https://www.guangyapan.com/s/1955967871150465069_aeWw8Ru726g3wcPx
+<img src="tg_media/2710552707/LOST10_2026.jpg" width="600" />
 
-夸克网盘：https://pan.quark.cn/s/b526edcf7851 来自：综合网盘资源频道 [2026-10-17 03:44] 名称：美人余 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至18集]
 
-迅雷网盘：https://pan.xunlei.com/s/VP3zYAj2Jlm21YPqNzShizOMA1?pwd=ghrj 来自：综合网盘资源频道 [2026-10-17 03:44] 名称：美人余 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至18集]
+## 翠鸟谋杀案
+[2026-10-17 10:56] 来自：综合网盘资源频道
 
-📁 大小：4.9GB/集
+名称：翠鸟谋杀案 Marble Hall Murders (2026) [1080P] [内封简繁] [全6集]
 
-🏷 标签：#美人余
+描述：本季改编自安东尼·霍洛维茨创作系列小说的第三部。编辑苏珊·赖兰(莱丝利·曼维尔饰)受聘负责一部阿提库斯·庞德系列的续作小说，作者是一位问题重重的年轻人。当这份工作将苏珊卷入另一起谋杀案时，她意外地发现自己竟成了嫌疑人。在小说的情节中，阿提库斯·庞德(蒂姆·迈克穆兰饰)正造访科孚岛，却卷入了玛格丽特·查尔方特伯爵夫人的谋杀案，他与一名希腊侦探(祖宾·瓦尔拉饰)合作， 对受害者的家族展开了调查。
 
-<img src="tg_media/2710552707/美人余_2026.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/0f78e37d98e7
 
+百度网盘：https://pan.baidu.com/s/1cAbDXbgjf-PUsBU-d6CRwg?pwd=1111
 
-## 把黑夜点燃
-[2026-10-17 03:58] 来自：肯德基の4K影视综合电影云盘站
+迅雷网盘：https://pan.xunlei.com/s/VP1-3cSnUBtD_oklR_ypb3PRA1?pwd=ck7r
 
-名称：把黑夜点燃 (2026)【更05集】【4K.HDR】【高码率】【内嵌简中】【悬疑/犯罪】
+光鸭云盘：https://www.guangyapan.com/s/1954932953704026190_aeWiyJwocgzRgCVm
 
-描述：1990年代石油产业飞速发展的背景下，一家普通家庭在时代浪潮中经历了命运的巨变。少年陈善原本将步入父辈的石油系统，却因一场管道爆炸事故导致父亲去世、母亲卷入派系斗争被牺牲，家庭破碎。陈善离家加入抢修队谋生，在不断发展的石油行业中，他逐渐成为施工队领头人，却始终困于过去的伤痛。随着另一场爆炸案的出现，尘封多年的派系斗争与旧日恩怨再次浮出水面，推动他面对真相与选择。
+📁 大小：10.3GB
 
-夸克网盘：https://pan.quark.cn/s/86c810757771
+🏷 标签：#剧情 #悬疑 #犯罪 #翠鸟谋杀案 #1080P #内封简繁 #quark #baidu #xunlei #guangyapan
 
-百度网盘：https://pan.baidu.com/s/1eo8fKOWo-k2pxOorHeoXRw?pwd=Yu88
+<img src="tg_media/2605109003/翠鸟谋杀案_Marble_Hall_Murders_2026.jpg" width="600" />
 
-迅雷网盘：https://pan.xunlei.com/s/VP4-nRD93pnrgzQMkKx4fIweA1?pwd=sxum
 
-📁 大小：4GB/集
+## 黑帮领地
+[2026-10-17 10:52] 来自：综合网盘资源频道
 
-🏷 标签：#把黑夜点燃
+名称：黑帮领地 第二季 MobLand Season 2 (2026) [1080P] [内封简繁] [更至5集] [附第一季]
 
-<img src="tg_media/2710552707/把黑夜点燃_2026.jpg" width="600" />
+描述：哈里根家族赢得战争却付出惨重代价。随着家族权力重新洗牌，哈里、康拉德和梅芙将面对来自内部与伦敦地下世界的新威胁。
 
+夸克网盘：https://pan.quark.cn/s/e46fcaac0fa6
 
-## 地狱大状
-[2026-10-17 03:56] 来自：肯德基の4K影视综合电影云盘站
+百度网盘：https://pan.baidu.com/s/13mi7NtTqvAHpNCYmdAWHew?pwd=1111
 
-名称：地狱大状 (2026)【更09集】【Viu.1080p】【内封简繁英】【悬疑/奇幻】
+迅雷网盘：https://pan.xunlei.com/s/VP33W4zxP5LYvfTXWNewo4UAA1?pwd=i2gq
 
-描述：仇人多过亲人的大状邱荫荫突然被袭晕倒，醒来时发现自己已在阴间之中。閰罗王宣布她做事太阴骘，折寿四十年，以三十岁之龄香消玉殒！罪孽甚重的她被拉去地狱受刑之际，居然遇上已死富翁石松向閰王买起荫荫，让她重返阳间当其律师，确保其遗产依照遗愿分配！
+光鸭云盘：https://www.guangyapan.com/s/1953654673982087265_aeWiyJwocgzRgCVm
 
-死过翻生的荫荫化身“地狱大状” ，除了被鬼上身外，还不断穿梭阴阳两界，以死者角度见证争产的光怪陆离，亲历活人把死人激到“从棺材弹起”的荒谬情景，到底遗产的意义，是祝福，或是诅咒？
+夸克网盘：https://pan.quark.cn/s/4aab90d1e9ab 来自：肯德基の4K影视综合电影云盘站 [2026-10-17 07:10] 名称：黑帮领地 第二季 (2026) 4K 杜比视界 S02E01 - E05 杜比音效 内封简繁
 
-夸克网盘：https://pan.quark.cn/s/dba54e4ab317
+📁 大小：N/A
 
-百度网盘：https://pan.baidu.com/s/1_ZLj3DAQR_Vu--eNSh75jA?pwd=Yu88
+🏷 标签：#剧情 #犯罪 #黑帮领地 #1080P #内封简繁 #quark #baidu #xunlei #guangyapan
 
-迅雷网盘：https://pan.xunlei.com/s/VP3pP60ASnh-9VV9eOzHekyMA1?pwd=yxtd
+<img src="tg_media/2605109003/黑帮领地_第二季_MobLand_Season_2_2026.jpg" width="600" />
 
-📁 大小：0.5GB/集
 
-🏷 标签：地狱大状
+## 美国恐怖故事
+[2026-10-17 10:47] 来自：肯德基の4K影视综合电影云盘站
 
-<img src="tg_media/2710552707/地狱大状_2026.jpg" width="600" />
+名称：美国恐怖故事 第十三季（2026）4K SDR S13E01 - E10 杜比音效 内封简繁
 
+描述：精神病院、女巫集会、鬼屋和畸形秀跨季梦幻联动，经典惊悚元素将重返第十三季的恐怖殿堂，新的诡计即将降临。
 
-## 蒸蒸日上
-[2026-10-17 03:54] 来自：肯德基の4K影视综合电影云盘站
+夸克网盘：https://pan.quark.cn/s/f1b5e026fbab
 
-名称：蒸蒸日上 (2026)【更15集】【4K.HDR】【高码率】【内嵌简中】【高叶/韩东君】
+📁 大小：20GB
 
-描述：烟火气十足的东北某城律师街上，为人侠气、幽默的女律师萧龙女在大众浴池楼上开了一家律师事务所。她曾在当地最高端的泓湖律所里工作，却因一起案件中的正义之举而离职，更与同事兼竹马的李信律师决裂。有着不同法律观的两人，一个扶摇直上成为泓湖最年轻的高伙，另一个则失去所有案源、沦落为律师街上的“笑话”。萧龙女身处低谷却坚韧乐观，与自愿跟随她的行政古苗苗、不打不相识的董北虎和法考钉子户罗智组成了一伙蒸蒸日上的“草台班子”，在大大小小的案件中与精英律师代表李信狭路相逢、展开较量，在法律和生活中都不断碰撞出激烈火花，各自的人生也因此迎来了新的成长和变化……
+🏷 标签：#剧情 #美国恐怖故事
 
-夸克网盘：https://pan.quark.cn/s/4b78e086a713
+<img src="tg_media/2710552707/美国恐怖故事_第十三季_2026.jpg" width="600" />
 
-百度网盘：https://pan.baidu.com/s/17qhpraVMbBcHwkJUgKNRZg?pwd=Yu88
 
-迅雷网盘：https://pan.xunlei.com/s/VP3dQZiNjKsCit-PCzXgVxvFA1?pwd=m2wc
+## 替罪
+[2026-10-17 10:40] 来自：百度网盘综合频道
 
-📁 大小：3GB/集
+名称：替罪（2026）4K S01E01 - E18 杜比音效
 
-🏷 标签：#蒸蒸日上
+描述：东南亚纳迦菩尔国，一场大桥垮塌事故牵出连环命案。大桥设计师梭温设下惊天替罪局，华人女警长许安迪循迹追查，逐步揭开十四年前旧案及背后的权钱勾结与连环灭口真相，一场关于身份，复仇与正义的生死较量由此展开。
 
-<img src="tg_media/2710552707/蒸蒸日上_2026.jpg" width="600" />
+百度网盘：https://pan.baidu.com/s/1wKO1Csd7a_wPiDCFS0xrzw?pwd=cym8
 
+夸克网盘：https://pan.quark.cn/s/35e132b48ec4 来自：夸克云盘影视资源频道 [2026-10-17 10:40] 名称：替罪（2026）4K S01E01 - E18 杜比音效
 
-## 此处通往繁星
-[2026-10-17 03:51] 来自：肯德基の4K影视综合电影云盘站
+📁 大小：7GB
 
-名称：此处通往繁星 (2026)【10集全】【4K.HQ.HDR】【高码率】【内嵌简中】【张雪迎/郭麒麟】
+🏷 标签：#剧情 #替罪
 
-描述：王灿在北京创业失败，回到家乡寻求父母支持，被父母推荐到清凉山殡仪馆装殓班工作。本来只打算在此过渡的王灿，意外与三位发小陈和煦、宋天爽、毛尔哲重逢，并跟他们成为了同事。在与伙伴们的朝夕相处中，王灿了解了殡葬工作的价值和意义。在跟伙伴们一起经历了一场场告别、送别一个个逝者后，王灿逐渐成长为一名优秀的入殓师。在面临回到城市还是留在清凉山的抉择时，王灿选择了留下，和伙伴们一起坚守这份职业。
-
-夸克网盘：https://pan.quark.cn/s/d7f221a820c3
-
-百度网盘：https://pan.baidu.com/s/10uv6n41fKK2vJX8I5W2zuQ?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP3dWhmQGZuQGIyUgS6KQA9sA1?pwd=52wf
-
-百度网盘：https://pan.baidu.com/s/1bivWQwLeSrXRwJY6r8fa4g?pwd=0n6f 来自：综合网盘资源频道 [2026-10-17 00:35] 名称：此处通往繁星 (2026) 4K SDR 全10集
-
-夸克网盘：https://pan.quark.cn/s/24f9ec2007be 来自：综合网盘资源频道 [2026-10-17 00:35] 名称：此处通往繁星 (2026) 4K SDR 全10集
-
-阿里云盘：https://www.alipan.com/s/C2kGEXwZUvt 来自：综合网盘资源频道 [2026-10-17 00:35] 名称：此处通往繁星 (2026) 4K SDR 全10集
-
-📁 大小：4.8GB/集
-
-🏷 标签：#此处通往繁星
-
-<img src="tg_media/2710552707/此处通往繁星_2026.jpg" width="600" />
-
-
-## 雷霆令
-[2026-10-17 03:44] 来自：肯德基の4K影视综合电影云盘站
-
-名称：雷霆令(2026)【更33集】【4K.SDR】【内嵌简中】【剧情/犯罪】【秦海璐/金瀚】
-
-描述：西北某省卫城市，西部五省的交通要道，同时也成为了西部毒品交易的最大集散地。毒品自金三角入境后，从云南出发，运抵卫城，再由卫城运往各处。在这过程中，一些唯利是图的黑势力，铤而走险，令无数人深陷毒品的迫害，更令无数家庭家破人亡。缉毒大队女队长白桦整日疲于应对各种案件，期待着上级早日能为自己增加新鲜的血液和干将。正在此时，庄严、李潇、魏凯等三名年轻帅气的警察，通过层层严格筛选，最终进入缉毒大队。在女队长白桦及副队长陆伟等人的领导之下，通过不懈的努力和净化丝绸之路的坚定信念，一路出生入死、涉险擒敌。最终终于将大毒枭龙致远和皮牙子等人绳之以法，并铲除了其幕后的黑保护伞，为一带一路作出巨大贡献。
-
-夸克网盘：https://pan.quark.cn/s/27cc122dac01
-
-百度网盘：https://pan.baidu.com/s/1B1nvNI-0JmF2imeRzpBSVQ?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP2s6JzCjYf-CwTxgRamL2lAA1?pwd=iqqb
-
-📁 大小：1GB/集
-
-🏷 标签：#雷霆令
-
-<img src="tg_media/2710552707/雷霆令_2026.jpg" width="600" />
-
-
-## 无可替代
-[2026-10-17 03:38] 来自：综合网盘资源频道
-
-名称：无可替代 4K高码率 [60fps][DTS音轨][全20集]
-
-描述：讲述禀承“这一生绝对不能被别人替代”理念的女白领徐迟，在职场上过关斩将，与公司合伙人叶信之一路携手厮杀，最终成为无可替代之人的故事。 “黑莲花”徐迟与“精狐狸”叶信之互相扶持又相爱相杀！金牌编剧张巍全新都市力作，快节奏爽情节短剧模式，直击当下年轻人痛点，带你职场打怪升级通关！
-
-夸克网盘：https://pan.quark.cn/s/eeeebf0092b5
-
-迅雷网盘：https://pan.xunlei.com/s/VP2lT4fW_JlqbnaHmcH7jtxzA1?pwd=iwea
-
-📁 大小：N G
-
-🏷 标签：#盘酱酱 #PanWEB #国产剧 #无可替代 #4K高码率 #60fps #DTS音轨 #quark #xunlei
-
-<img src="tg_media/2605109003/无可替代_4K高码率.jpg" width="600" />
+<img src="tg_media/2110524172/替罪_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
