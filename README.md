@@ -8,12 +8,12 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">1926</td><td align="center">2026-10-24</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">1929</td><td align="center">2026-10-24</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
 <tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">387</td><td align="center">2026-10-24</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
 <tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">773</td><td align="center">2026-10-23</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">86</td><td align="center">2026-10-23</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">51</td><td align="center">2026-10-23</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">171</td><td align="center">2026-10-24</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">174</td><td align="center">2026-10-24</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
 <tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">332</td><td align="center">2026-10-23</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
 <tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">554</td><td align="center">2026-10-23</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">227</td><td align="center">2026-10-23</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
@@ -25,37 +25,87 @@
 
 
 ## 嫁金钗
-[2026-10-24 00:37] 来自：最新电影,电视剧,动漫|夸克网盘资源
+[2026-10-24 04:23] 来自：光鸭云盘资源频道
 
-名称：嫁金钗 (2026) 4K HDR SDR DV杜比视界 高码率 AAC2.0 中字【7.1GB/集】更16集，田曦薇/闫桉
+名称：嫁金钗 (2026)
 
-描述： 阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府世子陆濯的冲喜新娘。阿丑野心勃勃，一心借机上位，然而濒死的新婚丈夫忽然苏醒，鸠占鹊巢引来连绵灾祸。魏娆（君黛）恨她鸠占鹊巢，急欲除之后快；陆濯以她为蛇蝎妇人，百般提防谋算。国公府明面一团和气，实则陷阱重重、步步杀机。阿丑稳扎稳打精心谋划，手段百出获得丈夫痴爱，更查出了自己身世的秘密，与至亲最终团圆，从底层夜香妇一路逆袭上位，过出光芒万丈的锦绣人生。 
+📁 类型：国产剧集
 
-夸克网盘：https://pan.quark.cn/s/9842364313a2
+🖥️ 画质：1080p
 
-夸克网盘：https://pan.quark.cn/s/b21870bbbb31 来自：综合网盘资源频道 [2026-10-23 23:32] 名称：嫁金钗 (2026) 更至16集 [4K 60帧][类型: 剧情/爱情/古装][主演: 田曦薇/闫桉/刘小北/潘珺雅]
+🎥 视频：WEB-DL.H.264
 
-UC网盘：https://drive.uc.cn/s/0639b9c3e9b74 来自：综合网盘资源频道 [2026-10-23 22:24] 名称：嫁金钗 (2026) 更新至16集 [4K][古装爱情][田曦薇/闫桉]
+🔊 音频：AAC
 
-百度网盘：https://pan.baidu.com/s/1X642kn4Gtc_xU_gJPCwFGg?pwd=1016 来自：综合网盘资源频道 [2026-10-23 22:24] 名称：嫁金钗 (2026) 更新至16集 [4K][古装爱情][田曦薇/闫桉]
+📦 大小：25.6 GB
 
-迅雷网盘：https://pan.xunlei.com/s/VP44A64mt_OqkBIvA7O8tkbbA1?pwd=ki3s 来自：综合网盘资源频道 [2026-10-23 22:24] 名称：嫁金钗 (2026) 更新至16集 [4K][古装爱情][田曦薇/闫桉]
+📼 集数：E01-E14
 
-百度网盘：https://pan.baidu.com/s/1OKiBSyMnJbj8IwH2ugQs-A?pwd=yptv 来自：综合网盘资源频道 [2026-10-23 22:11] 名称：嫁金钗(2026)【4K.HDR.60fps】【内封简中】【更16集】【爱情/古装】【田曦薇/闫桉】
+🔄 状态：更新中
 
-迅雷网盘：https://pan.xunlei.com/s/VP4FCEq23pnrgzQMkKxIqibRA1?pwd=7hk3 来自：综合网盘资源频道 [2026-10-23 22:11] 名称：嫁金钗(2026)【4K.HDR.60fps】【内封简中】【更16集】【爱情/古装】【田曦薇/闫桉】
+🔗 链接：
 
-光鸭云盘：https://www.guangyapan.com/s/1958921332456574978_aeAefI8EdLN_2GRB 来自：综合网盘资源频道 [2026-10-23 21:54] 名称：嫁金钗(2026) 4K 更新至16集
+光鸭云盘：https://www.guangyapan.com/s/1960825926300885017_adyPbY8EdLN_2AZv
 
-UC网盘：https://drive.uc.cn/s/67b2881394bd4 来自：肯德基の4K影视综合电影云盘站 [2026-10-23 21:37] 名称：嫁金钗(2026) 【田曦薇 /闫桉/ 爱情/古装】   【4K/1080p 更新EP16】
+百度网盘：https://pan.baidu.com/s/1v8QVQ5xQmyvC13B3EwoLuw?pwd=Qiye 来自：综合网盘资源频道 [2026-10-24 00:42] 名称：嫁金钗(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第16集
 
-阿里云盘：https://www.alipan.com/s/HUenGvm5pFB 来自：综合网盘资源频道 [2026-10-23 19:42] 名称：嫁金钗(2026) 4K 更新至16集
+夸克网盘：https://pan.quark.cn/s/131c95ac1b09 来自：综合网盘资源频道 [2026-10-24 00:42] 名称：嫁金钗(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第16集
 
-📁 大小：7.1GB/集
+夸克网盘：https://pan.quark.cn/s/9842364313a2 来自：肯德基の4K影视综合电影云盘站 [2026-10-24 00:39] 名称：嫁金钗 (2026) 4K HDR SDR DV杜比视界 高码率 AAC2.0 中字【7.1GB/集】更16集，田曦薇/闫桉
 
-🏷 标签：#嫁金钗  #剧情 #爱情 #古装
+<img src="tg_media/3667471790/嫁金钗_2026.jpg" width="600" />
 
-<img src="tg_media/4323669403/嫁金钗_2026.jpg" width="600" />
+
+## 小城良方
+[2026-10-24 04:15] 来自：光鸭云盘资源频道
+
+名称：小城良方 (2026)
+
+📁 类型：国产剧集
+
+🖥️ 画质：2160p
+
+🎥 视频：WEB-DL.H.265
+
+🔊 音频：DDP 5.1
+
+📦 大小：2.9 GB
+
+📼 集数：E02-E06
+
+🔄 状态：更新中
+
+🔗 链接：
+
+光鸭云盘：https://www.guangyapan.com/s/1960815681323278419_adyPbY8EdLN_2AZv
+
+<img src="tg_media/3667471790/小城良方_2026.jpg" width="600" />
+
+
+## 尚公主
+[2026-10-24 04:10] 来自：光鸭云盘资源频道
+
+名称：尚公主 (2026)
+
+📁 类型：国产剧集
+
+🖥️ 画质：1080p
+
+🎥 视频：WEB-DL.H.264
+
+🔊 音频：DDP 5.1
+
+📦 大小：6.0 GB
+
+📼 集数：E01-E03
+
+🔄 状态：更新中
+
+🔗 链接：
+
+光鸭云盘：https://www.guangyapan.com/s/1960815302896410663_adyPbY8EdLN_2AZv
+
+<img src="tg_media/3667471790/尚公主_2026.jpg" width="600" />
 
 
 ## Doctor
@@ -122,84 +172,6 @@ UC网盘：https://drive.uc.cn/s/67b2881394bd4 来自：肯德基の4K影视综�
 🏷 标签：#亚森 #罗宾 #绅士怪盗 #剧情 #动作 #悬疑 #犯罪 #亚森·罗宾 #NF #4K #DV #HDR #quark #baidu
 
 <img src="tg_media/2605109003/亚森_罗宾_第四季_2026.jpg" width="600" />
-
-
-## 尚公主
-[2026-10-24 00:27] 来自：肯德基の4K影视综合电影云盘站
-
-名称：尚公主(2026)【更03集】【4K.HDR】【高码率】【内嵌简中】【孟子义/李昀锐】【剧情/古装】
-
-描述：不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚在岭南相逢、于盛安入局，携手步步破局，共筑清平天下的故事。一群少年各怀心事、各有所求，在乱世惊涛中搅动风云，奔赴理想。
-
-该剧改编自伊人睽睽的同名小说。
-
-夸克网盘：https://pan.quark.cn/s/0574653fb694
-
-迅雷网盘：https://pan.xunlei.com/s/VP4ce9zi1BE8jdfQFbvpxlWrA1?pwd=z7um
-
-百度网盘：https://pan.baidu.com/s/179zek5dfKVt5kHqJTrufRA?pwd=004i
-
-夸克网盘：https://pan.quark.cn/s/f60e7af4bdfe 来自：综合网盘资源频道 [2026-10-23 23:36] 名称：尚公主 (2026) 更至04集 [4K 60帧][类型: 剧情/爱情/古装][主演: 孟子义/李昀锐/吴汉坤/全伊伦]
-
-UC网盘：https://drive.uc.cn/s/fce843c3777a4 来自：综合网盘资源频道 [2026-10-23 22:30] 名称：尚公主 (2026) 更至04集 [4K][古装爱情][孟子义/李昀锐]
-
-百度网盘：https://pan.baidu.com/s/184mko8eMDYsXFsqwUTlCRA?pwd=1023 来自：综合网盘资源频道 [2026-10-23 22:30] 名称：尚公主 (2026) 更至04集 [4K][古装爱情][孟子义/李昀锐]
-
-迅雷网盘：https://pan.xunlei.com/s/VP4cQ2WZpSfitg2G2B1fUDMRA1?pwd=zdr3 来自：综合网盘资源频道 [2026-10-23 22:30] 名称：尚公主 (2026) 更至04集 [4K][古装爱情][孟子义/李昀锐]
-
-光鸭云盘：https://www.guangyapan.com/s/1960731567257706586_aeWYeSwV3ZOZlzEy 来自：综合网盘资源频道 [2026-10-23 22:20] 名称：尚公主(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第4集
-
-光鸭云盘：https://www.guangyapan.com/s/1960729153448316954_aeAefI8EdLN_2GRB 来自：综合网盘资源频道 [2026-10-23 21:59] 名称：尚公主(2026) 4K 更新至03集
-
-阿里云盘：https://www.alipan.com/s/tkiyYs58imD 来自：综合网盘资源频道 [2026-10-23 21:18] 名称：尚公主(2026) 4K 更新至04集
-
-UC网盘：https://drive.uc.cn/s/29208e5d77824 来自：肯德基の4K影视综合电影云盘站 [2026-10-23 20:29] 名称：尚公主（2026）更新至4集
-
-阿里云盘：https://www.alipan.com/s/7R1gJrbrSpY 来自：肯德基の4K影视综合电影云盘站 [2026-10-23 20:29] 名称：尚公主（2026）更新至4集
-
-📁 大小：4.7G
-
-🏷 标签：# #尚公主
-
-<img src="tg_media/2710552707/尚公主_2026.jpg" width="600" />
-
-
-## 小城良方
-[2026-10-24 00:26] 来自：肯德基の4K影视综合电影云盘站
-
-名称：小城良方  (2026) 【更08集】【4K.HDR】【高码率】【内嵌简中】【肖战 / 倪大红】
-
-描述：该剧讲述了当天才医生刘铮亮(肖战饰)遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。
-
-该剧改编自刘三叔所著小说《飞刀》。
-
-链接：
-
-百度网盘：https://pan.baidu.com/s/1BWoyd5XukYnv_FXl_uLgQA?pwd=2h4w
-
-迅雷网盘：https://pan.xunlei.com/s/VP4TXCVohGUlwm_BTT95gNIqA1?pwd=7ic6
-
-夸克网盘：https://pan.quark.cn/s/67085ae0b985
-
-夸克网盘：https://pan.quark.cn/s/dd56d310d2c4 来自：综合网盘资源频道 [2026-10-23 23:33] 名称：小城良方 (2026) 更至08集 [4K][主演: 肖战/倪大红/姜妍/史彭元/菅纫姿]
-
-百度网盘：https://pan.baidu.com/s/18PgAEV5_ftplRzZWh7UvYw?pwd=8888 来自：肯德基の4K影视综合电影云盘站 [2026-10-23 22:45] 名称：小城良方 更08 [2026]
-
-UC网盘：https://drive.uc.cn/s/2fa611e5e41b4 来自：综合网盘资源频道 [2026-10-23 22:34] 名称：小城良方 (2026)更至08集 [4K][都市生活][肖战/倪大红/丁嘉丽]
-
-迅雷网盘：https://pan.xunlei.com/s/VP4TDye2UNWlD5AGz3q5hJ1OA1?pwd=uyc3 来自：综合网盘资源频道 [2026-10-23 22:34] 名称：小城良方 (2026)更至08集 [4K][都市生活][肖战/倪大红/丁嘉丽]
-
-光鸭云盘：https://www.guangyapan.com/s/1960002223862280265_aeAefI8EdLN_2GRB 来自：综合网盘资源频道 [2026-10-23 21:50] 名称：小城良方(2026) 4K更新至08集
-
-光鸭云盘：https://www.guangyapan.com/s/1959964487423987756_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-10-23 19:57] 名称：小城良方 (2026) 剧情 倪大红 姜妍 4KHDR高码率 更新08集
-
-阿里云盘：https://www.alipan.com/s/GN84jXFyruf 来自：综合网盘资源频道 [2026-10-23 19:48] 名称：小城良方(2026) 4K 更新至08集
-
-📁 大小：2.5G
-
-🏷 标签： #小城良方
-
-<img src="tg_media/2710552707/小城良方_2026.jpg" width="600" />
 
 
 ## 璀璨之城
