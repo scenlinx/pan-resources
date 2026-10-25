@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">2082</td><td align="center">2026-10-25</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">421</td><td align="center">2026-10-25</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">838</td><td align="center">2026-10-25</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">2105</td><td align="center">2026-10-25</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">428</td><td align="center">2026-10-25</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">852</td><td align="center">2026-10-25</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">88</td><td align="center">2026-10-24</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">54</td><td align="center">2026-10-24</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">185</td><td align="center">2026-10-25</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">353</td><td align="center">2026-10-25</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">607</td><td align="center">2026-10-25</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">234</td><td align="center">2026-10-24</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">190</td><td align="center">2026-10-25</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">361</td><td align="center">2026-10-25</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">608</td><td align="center">2026-10-25</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">235</td><td align="center">2026-10-25</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -25,229 +25,207 @@
 
 
 ## Doctor
-[2026-10-25 04:08] 来自：综合网盘资源频道
+[2026-10-25 11:40] 来自：综合网盘资源频道
 
-名称：Doctor X：白色黑手党时代 [NF][多国语字幕][更新至06集]
+名称：Doctor X：白色黑手党时代(2026) NF 1080P更新至06集
 
-描述：一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。
+描述：在一间充斥着自负与腐败的医院里，一名神秘却医术高超的外科医生现身。她不顾重重阻挠，接手一个又一个看似无解的病例。该剧改编自日本电视剧《X医生：外科医生大门未知子》。
 
-夸克网盘：https://pan.quark.cn/s/f0dbda64c640
+阿里云盘：https://www.alipan.com/s/hKGU3R4NkLe
 
-迅雷网盘：https://pan.xunlei.com/s/VP4jWrlZWPcXdQi6WDwXVBqnA1?pwd=9eww
+百度网盘：https://pan.baidu.com/s/1U7PH5Cnu4wudmBl9FA1j8g?pwd=1111 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 09:40] 名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026) [1080P] [内封多国字幕] [更至6集]
 
-百度网盘：https://pan.baidu.com/s/13c0q-OHLqbFWcCvI8Nb7Gw?pwd=1901 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 00:44] 名称：Doctor X：白色黑手党时代 更05 [2026][韩剧][中字]
+夸克网盘：https://pan.quark.cn/s/47fb1c5cfce6 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 09:40] 名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026) [1080P] [内封多国字幕] [更至6集]
 
-夸克网盘：https://pan.quark.cn/s/b5314d1aa258 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 00:44] 名称：Doctor X：白色黑手党时代 更05 [2026][韩剧][中字]
+迅雷网盘：https://pan.xunlei.com/s/VP3YMj3OsmKV80H06zi-kxAYA1?pwd=tck5 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 09:40] 名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026) [1080P] [内封多国字幕] [更至6集]
 
-📁 大小：N G
+光鸭云盘：https://www.guangyapan.com/s/1955826544320446495_aeWiyJwocgzRgCVm 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 09:40] 名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026) [1080P] [内封多国字幕] [更至6集]
 
-🏷 标签：#盘酱酱 #PanWEB #韩剧 #白色黑手党时代 #NF #多国语字幕 #quark #xunlei
+百度网盘：https://pan.baidu.com/s/1JtVfbdmgNSukXPs_DUrjmg?pwd=smi7 来自：综合网盘资源频道 [2026-10-25 09:30] 名称：Doctor X：白色黑手党时代(2026)NF 1080p 内封简中 S01E01-E06
 
-<img src="tg_media/2605109003/Doctor_X_白色黑手党时代.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/2a13a78d5ed8 来自：综合网盘资源频道 [2026-10-25 09:30] 名称：Doctor X：白色黑手党时代(2026)NF 1080p 内封简中 S01E01-E06
 
+📁 大小：X
 
-## 百日谎言
-[2026-10-25 02:11] 来自：肯德基の4K影视综合电影云盘站
+🏷 标签：#剧情 #Doctor #X #白色黑手党时代 #NF #1080P #ali
 
-名称：百日谎言(2026)WEB-DL 1080p Netflix 简繁字幕 第5集
-
-描述：天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻...
-
-夸克网盘：https://pan.quark.cn/s/4814063aef7a
-
-百度网盘：https://pan.baidu.com/s/1Ini_5j8HyQwtDxDAuMjisw?pwd=Qiye
-
-光鸭云盘：https://www.guangyapan.com/s/1956030644035276871_aeWYeSwV3ZOZlzEy
-
-夸克网盘：https://pan.quark.cn/s/3476324c2850 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 00:16] 名称：百日谎言（2026）1080p NF S01E01 - E05 内封简繁
-
-迅雷网盘：https://pan.xunlei.com/s/VP3uoSYmXs1wvblY3XpjxuyRA1?pwd=5yw5 来自：综合网盘资源频道 [2026-10-24 23:42] 名称：百日谎言 [NF][内封多国语字幕][更新至05集]
-
-📁 大小：2.6GB
-
-🏷 标签#百日谎言
-
-<img src="tg_media/2710552707/百日谎言_2026.jpg" width="600" />
+<img src="tg_media/2605109003/Doctor_X_白色黑手党时代_2026.jpg" width="600" />
 
 
-## 尚公主
-[2026-10-25 01:58] 来自：综合网盘资源频道
+## 尸变
+[2026-10-25 11:22] 来自：肯德基の4K影视综合电影云盘站
 
-名称：尚公主(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第6集
+名称：尸变 The Cycle (2026) [1080P] [外挂中文字幕]
 
-描述：讲述了不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚携手共筑清平天下的故事，在层层爽点中打造极致人设，看乱世惊涛中少年人们搅动风云，奔赴理想。
+描述：法医梅格受邀前往沿海小镇，协助调查一起惨烈的动物袭击凶案，却在现场意外发现了失踪36年的父亲的遗体。随着调查深入，她一层层剥开父亲竭力隐藏的黑暗过往，更发现这桩跨越数十年的失踪案，牵扯着当地古老的邪灵诅咒。诅咒如同轮回般不断重启，她越是靠近真相，就越是被拖入万劫不复的深渊，所有试图揭开秘密的人都难逃一死。
 
-夸克网盘：https://pan.quark.cn/s/03083f614545
+夸克网盘：https://pan.quark.cn/s/5e17fb06d53e
 
-百度网盘：https://pan.baidu.com/s/1O66AhUV8FJa07C-qLue1rg?pwd=Qiye
+百度网盘：https://pan.baidu.com/s/1Ir0wtSSXZ82hK9sCAiMoaw?pwd=1111
 
-光鸭云盘：https://www.guangyapan.com/s/1960731567257706586_aeWYeSwV3ZOZlzEy
+迅雷网盘：https://pan.xunlei.com/s/VP4l2oAPcbBTf_ThUPZJ1bgzA1?pwd=5eub
 
-百度网盘：https://pan.baidu.com/s/1H6aLzIRiRRtg4ayC4m1zgg?pwd=x7g8 来自：综合网盘资源频道 [2026-10-25 01:16] 名称：尚公主(2026)【更05集】【4K.HDR】【高码率】【内嵌简中】【孟子义/李昀锐】【剧情/古装】
+光鸭云盘：https://www.guangyapan.com/s/1961292692730830944_aeWiyJwocgzRgCVm
 
-夸克网盘：https://pan.quark.cn/s/0bae21a178f7 来自：综合网盘资源频道 [2026-10-25 01:16] 名称：尚公主(2026)【更05集】【4K.HDR】【高码率】【内嵌简中】【孟子义/李昀锐】【剧情/古装】
+📁 大小：4.7GB
 
-迅雷网盘：https://pan.xunlei.com/s/VP4ce9zi1BE8jdfQFbvpxlWrA1?pwd=z7um 来自：综合网盘资源频道 [2026-10-25 01:16] 名称：尚公主(2026)【更05集】【4K.HDR】【高码率】【内嵌简中】【孟子义/李昀锐】【剧情/古装】
+🏷 标签：#惊悚 #恐怖 #悬疑 #犯罪 #尸变
 
-光鸭云盘：https://www.guangyapan.com/s/1960815302896410663_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-10-25 00:48] 名称：尚公主 (2026)
+<img src="tg_media/2710552707/尸变_The_Cycle_2026.jpg" width="600" />
+
+
+## 牧神记
+[2026-10-25 11:15] 来自：肯德基の4K影视综合电影云盘站
+
+名称：牧神记 年番3 (2026)4K WEB-DL 2160p 高码率 第106集
+
+描述：后返回延康，助国师平叛、入京城斩杀太子、造射日神炮。秦牧得人皇传承成为新一代人皇。
+
+夸克网盘：https://pan.quark.cn/s/d638b54f3d8b
+
+百度网盘：https://pan.baidu.com/s/12XwCBVZlsUL_jsVyX2hDsg?pwd=Qiye
+
+光鸭云盘：https://www.guangyapan.com/s/1956237772503122005_aeWYeSwV3ZOZlzEy
+
+📁 大小：单集 2.6GB 左右
+
+🏷 标签：#牧神记
+
+<img src="tg_media/2710552707/牧神记_年番3_2026.jpg" width="600" />
+
+
+## 战邮1942
+[2026-10-25 11:13] 来自：夸克云盘影视资源频道
+
+名称：战邮1942（2026）4K 60FPS 杜比音效
+
+描述：三位普通的村镇青年，意外救人得到我党绝密信件，在日军搜捕，土匪纠缠与同伴接连牺牲的重重考验下，最终拼死将信件送达，完成重大任务，加入战邮！
+
+夸克网盘：https://pan.quark.cn/s/626f5bbb9112
 
 📁 大小：5GB
 
-🏷 标签：#尚公主 #4k #WEBDL #2160p #杜比视界 #简体字幕 #quark #baidu #guangyapan
+🏷 标签：#剧情 #战邮1942
 
-<img src="tg_media/2605109003/尚公主_2026.jpg" width="600" />
-
-
-## 伟大的长征
-[2026-10-25 01:56] 来自：综合网盘资源频道
-
-名称：伟大的长征(2026)4k WEB-DL.HDR 2160p 简体字幕 第25集
-
-描述：以1934年至1937年为时代背景，以中央红军长征为主线，从第五次反“围剿”失败、红军开始战略转移讲...
-
-夸克网盘：https://pan.quark.cn/s/4354afc12ca9
-
-百度网盘：https://pan.baidu.com/s/1rwJaWpn6WQbV4HmIg0J3LA?pwd=Qiye
-
-光鸭云盘：https://www.guangyapan.com/s/1957511238112149599_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-10-25 01:07] 名称：伟大的长征 (2026)
-
-📁 大小：45.50GB
-
-🏷 标签：#伟大的长征 #4k #WEBDL #HDR #2160p #简体字幕 #quark #baidu
-
-<img src="tg_media/2605109003/伟大的长征_2026.jpg" width="600" />
+<img src="tg_media/1959723113/战邮1942_2026.jpg" width="600" />
 
 
-## 嫁金钗
-[2026-10-25 01:08] 来自：肯德基の4K影视综合电影云盘站
+## 财神窦占龙
+[2026-10-25 11:07] 来自：综合网盘资源频道
 
-名称：嫁金钗 更17 [2026][4K]
+名称：财神窦占龙 (2026) 4K WEB-DL 2160p 第13集
 
-描述：阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府世子陆濯的冲喜新娘。阿丑野心勃勃，一心借机上位，然而濒死的新婚丈夫忽然苏醒，鸠占鹊巢引来连绵灾祸。魏娆(君黛)恨她鸠占鹊巢，急欲除之后快；陆濯以她为蛇蝎妇人，百般提防谋算。
+描述：天下霸唱继《鬼吹灯》后，打造最新成人向民俗暗黑传奇，在烟火人间与诡谲幻境之间重塑中式惊悚美学！
 
-夸克网盘：https://pan.quark.cn/s/a48ce3c21c89
+夸克网盘：https://pan.quark.cn/s/e6a6a4c6c426
 
-百度网盘：https://pan.baidu.com/s/1CDO37Wb4asIdKpe3WspOEQ?pwd=ob86
+百度网盘：https://pan.baidu.com/s/1Aumxyo6G15ibVxXthFTY2A?pwd=Qiye
 
-百度网盘：https://pan.baidu.com/s/1v8QVQ5xQmyvC13B3EwoLuw?pwd=Qiye 来自：综合网盘资源频道 [2026-10-25 00:55] 名称：嫁金钗(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第17集
+光鸭云盘：https://www.guangyapan.com/s/1951119905822318642_aeWYeSwV3ZOZlzEy
 
-夸克网盘：https://pan.quark.cn/s/453e4b41ccf9 来自：综合网盘资源频道 [2026-10-25 00:55] 名称：嫁金钗(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第17集
+夸克网盘：https://pan.quark.cn/s/3fd66d688c7c 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 10:18] 名称：财神窦占龙（2026）4K HDR S01E01 - E13 杜比音效
 
-光鸭云盘：https://www.guangyapan.com/s/1960825926300885017_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-10-25 00:48] 名称：嫁金钗 (2026)
+📁 大小：2GB/集
 
-📁 大小：N
+🏷 标签：#财神窦占龙 #4K #WEBDL #2160p #quark #baidu #guangyapan
 
-🏷 标签： #嫁金钗 #田曦薇 #闫桉 #刘小北 #潘珺雅
-
-<img src="tg_media/2710552707/嫁金钗_更17.jpg" width="600" />
+<img src="tg_media/2605109003/财神窦占龙_2026.jpg" width="600" />
 
 
 ## 小城良方
-[2026-10-25 01:06] 来自：肯德基の4K影视综合电影云盘站
+[2026-10-25 11:05] 来自：综合网盘资源频道
 
-名称：小城良方  (2026) 【更09集】【4K.HDR】【高码率】【内嵌简中】【肖战 / 倪大红】
+名称：小城良方(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第8集
 
-描述：该剧讲述了当天才医生刘铮亮(肖战饰)遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。
+描述：讲述了当天才医生刘铮亮(肖战饰)遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。
 
-该剧改编自刘三叔所著小说《飞刀》。
+夸克网盘：https://pan.quark.cn/s/c2a3d30811ad
 
-链接：
+百度网盘：https://pan.baidu.com/s/1GQP7gDHhVL6_D9WhDQzzJQ?pwd=Qiye
 
-百度网盘：https://pan.baidu.com/s/1extj3BWH7uQr_k63X1VqBg?pwd=lj1e
+📁 大小：19.86GB
 
-迅雷网盘：https://pan.xunlei.com/s/VP4TXCVohGUlwm_BTT95gNIqA1?pwd=7ic6
+🏷 标签：#小城良方 #4k #WEBDL #2160p #杜比视界 #简体字幕 #quark #baidu
 
-夸克网盘：https://pan.quark.cn/s/67085ae0b985
-
-光鸭云盘：https://www.guangyapan.com/s/1960815681323278419_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-10-25 00:48] 名称：小城良方 (2026)
-
-📁 大小：2.5G
-
-🏷 标签： #小城良方
-
-<img src="tg_media/2710552707/小城良方_2026.jpg" width="600" />
+<img src="tg_media/2605109003/小城良方_2026.jpg" width="600" />
 
 
-## 大主宰
-[2026-10-25 00:53] 来自：肯德基の4K影视综合电影云盘站
+## 黑帮领地
+[2026-10-25 10:43] 来自：百度网盘综合频道
 
-名称：大主宰 年番2 更96
+名称：黑帮领地 第二季（2026）4K DV&HDR 内封简英双语字幕 S02E01-E06
 
-描述：大千世界，位面交汇，万族林立，群英荟萃，一位位来自下位面的天之至尊，在这无尽世界，演绎者令人向往的传奇，追求着主宰之路。
+描述：北伦敦最大的黑帮家族——哈里根家族正处于内战边缘，而他们的对手也察觉到了。随着哈里根家族内部的紧张局势不断升级，他们的“斡旋者”哈里·达·索萨（汤姆·哈迪 饰）成了唯一能阻止家族分崩离析的人。
 
-夸克网盘：https://pan.quark.cn/s/0da5083b1d4b?pwd=AfCh
+百度网盘：https://pan.baidu.com/s/17Z4USJbYq3wLToKc4_6rjg?pwd=vdsw
 
-📁 大小：N
+夸克网盘：https://pan.quark.cn/s/408107b34b77 来自：肯德基の4K影视综合电影云盘站 [2026-10-25 10:43] 名称：黑帮领地 第二季（2026）4K DV&HDR 内封简英双语字幕 S02E01-E06
 
-🏷 标签： #大主宰 #大主宰第二季
+📁 大小：8G/集
 
-<img src="tg_media/2710552707/大主宰_年番2_更96.jpg" width="600" />
+🏷 标签：#黑帮领地 #剧情 #犯罪
 
-
-## 地狱大壮
-[2026-10-25 00:51] 来自：肯德基の4K影视综合电影云盘站
-
-名称：地狱大壮 全14集 [2026][港剧]
-
-描述：仇人多过亲人的大状邱荫荫突然被袭晕倒，醒来时发现自己已在阴间之中。閰罗王宣布她做事太阴骘，折寿四十年，以三十岁之龄香消玉殒！罪孽甚重的她被拉去地狱受刑之际，居然遇上已死富翁石松向閰王买起荫荫，让她重返阳间当其律师，确保其遗产依照遗愿分配！
-
-夸克网盘：https://pan.quark.cn/s/23b2f06f25cd
-
-百度网盘：https://pan.baidu.com/s/1alwqHA2XtixS3p-XBD10iA?pwd=51oo
-
-📁 大小：N
-
-🏷 标签： #地狱大壮 #地獄大狀 #动作 #悬疑 #奇幻
-
-<img src="tg_media/2710552707/地狱大壮_全14集.jpg" width="600" />
+<img src="tg_media/2110524172/黑帮领地_第二季_2026.jpg" width="600" />
 
 
-## 玉簟秋
-[2026-10-25 00:48] 来自：光鸭云盘资源频道
+## 七叶树王国的七名骑士
+[2026-10-25 10:41] 来自：肯德基の4K影视综合电影云盘站
 
-名称：玉簟秋 (2026)
+名称：七叶树王国的七名骑士（2026）1080p S01E01 - E04 杜比音效 内封简繁
 
-📁 类型：其他剧集
+描述：七叶树王国位在由八个国家组成的大陆正中央。在建国两千年的这年，决定要致力推动与邻近各国间的外交。因此女将军芭莉芭拉的七个儿子将被任命为骑士长，分别前往不同的国家。打头阵的是长男不睡，他被派往东北的夜长国。但当夜长国的女王和大司教知道不睡已有未婚妻后，两人均脸色大变。看似详和的这个国家隐藏了什么秘密？
 
-🖥️ 画质：1080p
+夸克网盘：https://pan.quark.cn/s/19041b26dcc6
 
-🎥 视频：WEB-DL.H.264
+📁 大小：1.04GB
 
-🔊 音频：AAC
+🏷 标签：#剧情 #七叶树王国的七名骑士
 
-📦 大小：57.6 GB
-
-📼 集数：E01-E18
-
-🔄 状态：更新中
-
-🔗 链接：
-
-光鸭云盘：https://www.guangyapan.com/s/1957867764412743746_adyPbY8EdLN_2AZv
+<img src="tg_media/2710552707/七叶树王国的七名骑士_2026.jpg" width="600" />
 
 
-## 醉梦
-[2026-10-25 00:48] 来自：光鸭云盘资源频道
+## 不着边际的你
+[2026-10-25 10:39] 来自：肯德基の4K影视综合电影云盘站
 
-名称：醉梦 (2026)
+名称：不着边际的你（2026）FriDay 1080p 内封简中 S01E01
 
-📁 类型：其他剧集
+描述：吴海拉在一场意外中醒来，深信自己进入了她最喜爱的韩剧世界，并决定要保护剧中的男主角严泰峰。泰峰是一位顶尖的爱情剧演员，但他隐瞒了一个致命的弱点：只要接吻就会昏倒。因此，他一直避开现实中的感情关系——直到海拉以「自荐保镖」的身份闯入并打乱了他的生活。随着虚构与现实的界线开始模糊，两人建立了意想不到的羁绊。透过彼此，他们开始以从未想像过的方式面对爱情。
 
-🖥️ 画质：2160p
+夸克网盘：https://pan.quark.cn/s/a298336ebe6d
 
-🎥 视频：WEB-DL.H.265
+百度网盘：https://pan.baidu.com/s/15E0bOCiU_INVW8LmgbFFvg?pwd=6u4t
 
-🔊 音频：AAC
+📁 大小：4.1G
 
-📦 大小：7.6 GB
+🏷 标签：#不着边际的你 #韩剧 #喜剧 #剧情
 
-📼 集数：E01-E12
+<img src="tg_media/2710552707/不着边际的你_2026.jpg" width="600" />
 
-🔄 状态：更新中
 
-🔗 链接：
+## 不是你的恋爱
+[2026-10-25 09:49] 来自：肯德基の4K影视综合电影云盘站
 
-光鸭云盘：https://www.guangyapan.com/s/1959322831796092967_adyPbY8EdLN_2AZv
+名称：不是你的恋爱 너 말고 다른 연애 (2026) [1080P] [内封多国字幕] [更至11集]
+
+描述：站在结婚十字路口的恋人们，遇到意想不到的新姻缘后，经历的感情波动和关系裂痕的现实共鸣罗曼史。
+
+夸克网盘：https://pan.quark.cn/s/85fb4a2e5a20
+
+百度网盘：https://pan.baidu.com/s/1GbKE-dr6cijNPa44BjUgEQ?pwd=1111
+
+迅雷网盘：https://pan.xunlei.com/s/VP1PB1ZcdnO-8tPxFPrJ2m1gA1?pwd=hgdc
+
+光鸭云盘：https://www.guangyapan.com/s/1953653223667261539_aeWiyJwocgzRgCVm
+
+百度网盘：https://pan.baidu.com/s/1MUvSkWyejwcmkaeVu1sTkA?pwd=jd2g 来自：综合网盘资源频道 [2026-10-25 09:23] 名称：不是你的恋爱(2026)AMZN 1080p 内封简中 S01E01-E11
+
+夸克网盘：https://pan.quark.cn/s/4a31ad7a19e8 来自：综合网盘资源频道 [2026-10-25 09:23] 名称：不是你的恋爱(2026)AMZN 1080p 内封简中 S01E01-E11
+
+📁 大小：N/A
+
+🏷 标签：#剧情 #爱情 #不是你的恋爱
+
+<img src="tg_media/2710552707/不是你的恋爱_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
