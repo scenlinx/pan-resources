@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">2505</td><td align="center">2026-10-27</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">500</td><td align="center">2026-10-27</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">994</td><td align="center">2026-10-27</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">96</td><td align="center">2026-10-27</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">2571</td><td align="center">2026-10-28</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">512</td><td align="center">2026-10-28</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">1005</td><td align="center">2026-10-28</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">98</td><td align="center">2026-10-28</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">64</td><td align="center">2026-10-27</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">211</td><td align="center">2026-10-27</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">408</td><td align="center">2026-10-27</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">755</td><td align="center">2026-10-27</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">248</td><td align="center">2026-10-26</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">214</td><td align="center">2026-10-27</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">419</td><td align="center">2026-10-28</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">766</td><td align="center">2026-10-27</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">252</td><td align="center">2026-10-27</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,270 +24,230 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 小城良方
-[2026-10-27 19:45] 来自：夸克云盘影视资源频道
+## 731
+[2026-10-28 01:36] 来自：光鸭云盘资源频道
 
-名称：小城良方（2026）4K 60FPS S01E01 - E16 杜比音效
+名称：731 (2025)
 
-描述：该剧讲述了当天才医生刘铮亮（肖战饰）遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。
+📁 类型：国产电影
 
-该剧改编自刘三叔所著小说《飞刀》。
+🖥️ 画质：2160p
 
-夸克网盘：https://pan.quark.cn/s/5a2eae59d1f0
+🎥 视频：WEB-DL.H.265
 
-百度网盘：https://pan.baidu.com/s/1hkLHOMtxi4irC_wclpPgog?pwd=1111 来自：综合网盘资源频道 [2026-10-27 19:41] 名称：小城良方 (2026) [WEB-4K] [国语中字] [更至16集]
+🔊 音频：DTS
 
-夸克网盘：https://pan.quark.cn/s/637afd966446 来自：综合网盘资源频道 [2026-10-27 19:41] 名称：小城良方 (2026) [WEB-4K] [国语中字] [更至16集]
+📦 大小：18.8 GB
 
-迅雷网盘：https://pan.xunlei.com/s/VP4rnVTO-YF3ImVGEAHMRmNYA1?pwd=i7x4 来自：综合网盘资源频道 [2026-10-27 19:41] 名称：小城良方 (2026) [WEB-4K] [国语中字] [更至16集]
+🔗 链接：
 
-光鸭云盘：https://www.guangyapan.com/s/1961767110003667014_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-10-27 19:41] 名称：小城良方 (2026) [WEB-4K] [国语中字] [更至16集]
+光鸭云盘：https://www.guangyapan.com/s/1962233698322497578_adyPbY8EdLN_2AZv
 
-百度网盘：https://pan.baidu.com/s/1extj3BWH7uQr_k63X1VqBg?pwd=lj1e 来自：肯德基の4K影视综合电影云盘站 [2026-10-27 13:11] 名称：小城良方  (2026) 【更14集】【4K.HDR】【高码率】【内嵌简中】【肖战 / 倪大红】
+<img src="tg_media/3667471790/731_2025.jpg" width="600" />
 
-迅雷网盘：https://pan.xunlei.com/s/VP4TXCVohGUlwm_BTT95gNIqA1?pwd=7ic6 来自：肯德基の4K影视综合电影云盘站 [2026-10-27 13:11] 名称：小城良方  (2026) 【更14集】【4K.HDR】【高码率】【内嵌简中】【肖战 / 倪大红】
 
-📁 大小：6GB
+## 找春天
+[2026-10-28 01:33] 来自：肯德基の4K影视综合电影云盘站
 
-🏷 标签：#剧情 #小城良方
+名称：找春天 Youth(2026)【更07集】【4K.高码率】【内封简繁英】【杜比全景声】
 
-<img src="tg_media/1959723113/小城良方_2026.jpg" width="600" />
+描述：故事讲述一位50岁的离异女性，一边周旋于照顾病弱的父母和关心本该成年懂事的儿子，一边追寻着性与爱。
 
+夸克网盘：https://pan.quark.cn/s/53b88d8e0b5e
 
-## 一念永恒
-[2026-10-27 19:44] 来自：综合网盘资源频道
+百度网盘：https://pan.baidu.com/s/1HF_oNojScIIzx5AWxRU7YA?pwd=Yu88
 
-名称：一念永恒 完结季 (2026) 更10集 4K
+迅雷网盘：https://pan.xunlei.com/s/VP2b8JJjoFBWxhmNfU8193YYA1?pwd=b7kv
 
-描述：为苍生大义，白小纯不得不与通天道人展开决战。随着旧世界破碎，众人流落天外的永恒大陆。而在这里白小纯将面对更严峻的挑战，更强大的敌人……
+光鸭云盘：https://www.guangyapan.com/s/1956762525894856755_aeWw8Ru726g3wcPx
 
-夸克网盘：https://pan.quark.cn/s/05d6101e112c
+📁 大小：2.8GB/集
 
-百度网盘：https://pan.baidu.com/s/1M8n_TcDC4PfSAE6_Cz3iOA?pwd=6666 来自：综合网盘资源频道 [2026-10-27 19:44] 名称：一念永恒 完结季(2026)4K更新17集
+🏷 标签：找春天
 
-夸克网盘：https://pan.quark.cn/s/ffd4bf772171 来自：综合网盘资源频道 [2026-10-27 19:44] 名称：一念永恒 完结季(2026)4K更新17集
-
-光鸭云盘：https://www.guangyapan.com/s/1947618664580108383_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-10-27 19:44] 名称：一念永恒 完结季(2026)4K更新17集
-
-📁 大小：NG
-
-🏷 标签：#一念永恒 #剧情 #喜剧 #动作 #完结季 #4K #quark
-
-<img src="tg_media/2605109003/一念永恒_完结季_2026.jpg" width="600" />
-
-
-## 尚公主
-[2026-10-27 19:44] 来自：综合网盘资源频道
-
-名称：尚公主(2026)4K 10bit 60FPS 杜比全景声 更至EP12
-
-描述：剧集讲述了不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚携手共筑清平天下的故事，在层层爽点中打造极致人设，看乱世惊涛中少年人们搅动风云，奔赴理想。
-
-夸克网盘：https://pan.quark.cn/s/b49b727c1548
-
-百度网盘：https://pan.baidu.com/s/1Qq9swVDR7CQkQWuDy0FkpQ?pwd=G8qS
-
-百度网盘：https://pan.baidu.com/s/1sxjsWKcNt7HSIgVSCg10Kw?pwd=Yu88 来自：综合网盘资源频道 [2026-10-27 19:43] 名称：尚公主 (2026)【更11集】【4K.60fps】【内嵌简中】【爱情/古装】【孟子义/李昀锐】
-
-夸克网盘：https://pan.quark.cn/s/5a1b872c138b 来自：综合网盘资源频道 [2026-10-27 19:43] 名称：尚公主 (2026)【更11集】【4K.60fps】【内嵌简中】【爱情/古装】【孟子义/李昀锐】
-
-迅雷网盘：https://pan.xunlei.com/s/VP4oCDNJo-gM6HVy4pg-wXnNA1?pwd=gsyy 来自：综合网盘资源频道 [2026-10-27 19:43] 名称：尚公主 (2026)【更11集】【4K.60fps】【内嵌简中】【爱情/古装】【孟子义/李昀锐】
-
-光鸭云盘：https://www.guangyapan.com/s/ 来自：综合网盘资源频道 [2026-10-27 19:43] 名称：尚公主 (2026)【更11集】【4K.60fps】【内嵌简中】【爱情/古装】【孟子义/李昀锐】
-
-迅雷网盘：https://pan.xunlei.com/s/VP4cJXh2RsjGH9gT-BgXA5UCA1?pwd=bxv3 来自：综合网盘资源频道 [2026-10-27 19:23] 名称：尚公主 (2026) [WEB-4K] [国语中字] [更至12集]
-
-光鸭云盘：https://www.guangyapan.com/s/1960678175483256861_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-10-27 19:23] 名称：尚公主 (2026) [WEB-4K] [国语中字] [更至12集]
-
-📁 大小：2G/集
-
-🏷 标签：#尚公主 #孟子义 #李昀锐 #剧情 #爱情 #古装 #4K #10bit #60FPS #杜比全景声 #quark #baidu
-
-<img src="tg_media/2605109003/尚公主_2026.jpg" width="600" />
-
-
-## 嫁金钗
-[2026-10-27 19:42] 来自：肯德基の4K影视综合电影云盘站
-
-名称：嫁金钗（2026）NF 1080p 内封简中 更至EP20
-
-描述：讲述了真千金魏娆（田曦薇饰）自幼被调换，流落市井靠倒夜香为生。为救养母，她被迫代替假千金君黛（田曦薇饰）嫁给重伤昏迷的国公世子陆濯（闫桉饰）冲喜。大婚夜陆濯苏醒，对新娘身份存疑，魏娆只得在危机四伏的国公府中步步为营，凭借市井智慧化解重重危机。两人从相互试探到携手揭开身世之谜，最终平定边疆，守护家国安宁。
-
-夸克网盘：https://pan.quark.cn/s/18dda02786b5
-
-百度网盘：https://pan.baidu.com/s/1peQnl7Gt0zwTCY7bZEFFuQ?pwd=xgdq
-
-夸克网盘：https://pan.quark.cn/s/16b878b45d8a 来自：综合网盘资源频道 [2026-10-27 18:28] 名称：嫁金钗 (2026) 4K.更新至20集
-
-百度网盘：https://pan.baidu.com/s/1OKiBSyMnJbj8IwH2ugQs-A?pwd=yptv 来自：综合网盘资源频道 [2026-10-27 18:10] 名称：嫁金钗(2026)【4K.HDR.60fps】【内封简中】【更20集】【爱情/古装】【田曦薇/闫桉】
-
-迅雷网盘：https://pan.xunlei.com/s/VP4FCEq23pnrgzQMkKxIqibRA1?pwd=7hk3 来自：综合网盘资源频道 [2026-10-27 18:10] 名称：嫁金钗(2026)【4K.HDR.60fps】【内封简中】【更20集】【爱情/古装】【田曦薇/闫桉】
-
-迅雷网盘：https://pan.xunlei.com/s/VP43Hh87hQLsMA0gda-b43aDA1?pwd=adpn 来自：综合网盘资源频道 [2026-10-27 17:40] 名称：嫁金钗 (2026) [WEB-4K] [国语中字] [更至20集]
-
-光鸭云盘：https://www.guangyapan.com/s/1958142452409995355_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-10-27 17:40] 名称：嫁金钗 (2026) [WEB-4K] [国语中字] [更至20集]
-
-光鸭云盘：https://www.guangyapan.com/s/1960825926300885017_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-10-27 15:01] 名称：嫁金钗 (2026)
-
-📁 大小：1.8G/集
-
-🏷 标签：#嫁金钗 #田曦薇 #闫桉 #剧情 #爱情 #古装
-
-<img src="tg_media/2710552707/嫁金钗_2026.jpg" width="600" />
-
-
-## 玉簟秋
-[2026-10-27 19:40] 来自：百度网盘综合频道
-
-名称：玉簟秋（2026）4K 更至EP28
-
-描述：20世纪20年代的乱世中，少帅虞昶轩与女学生叶平君因一场邂逅深陷爱恨漩涡，彻底改写二人的人生轨迹。纵然身份悬殊、前路艰险，二人仍毅然冲破一切阻隔，在战火与命运的洪流中坚定携手，沙场硝烟与儿女情长交织，将热血、信仰与挚爱，共同谱写成一段荡气回肠的传奇。
-
-百度网盘：https://pan.baidu.com/s/1xr1qjEpi8daOjqg-AeUMfg?pwd=ke7t
-
-夸克网盘：https://pan.quark.cn/s/4fb3b22e9798 来自：综合网盘资源频道 [2026-10-27 19:39] 名称：玉簟秋(2026)4K 更至EP28
-
-百度网盘：https://pan.baidu.com/s/1lO8fq7swZZ4p6GfmaVXpfg?pwd=yptv 来自：综合网盘资源频道 [2026-10-27 18:14] 名称：玉簟秋(2026)【IQ.4K】【内封简中】【更28集】【剧情/爱情】【丞磊/徐若晗】
-
-夸克网盘：https://pan.quark.cn/s/dcbbdec63246 来自：综合网盘资源频道 [2026-10-27 18:14] 名称：玉簟秋(2026)【IQ.4K】【内封简中】【更28集】【剧情/爱情】【丞磊/徐若晗】
-
-迅雷网盘：https://pan.xunlei.com/s/VP3irA39-Mtb80bcED38FKHoA1?pwd=x82c 来自：综合网盘资源频道 [2026-10-27 18:14] 名称：玉簟秋(2026)【IQ.4K】【内封简中】【更28集】【剧情/爱情】【丞磊/徐若晗】
-
-迅雷网盘：https://pan.xunlei.com/s/VP3jUzAbN5wlpnLW2udruf1dA1?pwd=nhy4 来自：综合网盘资源频道 [2026-10-27 17:00] 名称：玉簟秋 (2026)【更28集】【4K.高码率】【内嵌简中】【剧情/爱情】【丞磊/徐若晗】
-
-光鸭云盘：https://www.guangyapan.com/s/1961877595965370396_aeWw8Ru726g3wcPx 来自：综合网盘资源频道 [2026-10-27 17:00] 名称：玉簟秋 (2026)【更28集】【4K.高码率】【内嵌简中】【剧情/爱情】【丞磊/徐若晗】
-
-光鸭云盘：https://www.guangyapan.com/s/1957867764412743746_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-10-27 15:31] 名称：玉簟秋 (2026)
-
-📁 大小：2G/集
-
-🏷 标签：#玉簟秋 #丞磊 #徐若晗 #剧情 #爱情
-
-<img src="tg_media/2110524172/玉簟秋_2026.jpg" width="600" />
-
-
-## 莫语者
-[2026-10-27 19:37] 来自：百度网盘综合频道
-
-名称：莫语者（2026）4K 10bit 更至EP18
-
-描述：黎明饰演的卫天为查明妻女身亡真相，在“一带一路”沿线创办莫语者事务所，为海外华企和民众提供安保。他与中安集团项平生亦敌亦友，联手粉碎黑心药企阴谋、保障援非高铁项目，多次化解恐怖袭击危机，最终守护华人安全。
-
-百度网盘：https://pan.baidu.com/s/1eK2kPKjvGIrWWXVtqg3RxA?pwd=wup5
-
-夸克网盘：https://pan.quark.cn/s/9b0987cea654 来自：肯德基の4K影视综合电影云盘站 [2026-10-27 19:37] 名称：莫语者（2026）4K 10bit 更至EP18
-
-百度网盘：https://pan.baidu.com/s/1O23gKThepp5G0fuybu5_TA?pwd=yptv 来自：综合网盘资源频道 [2026-10-27 18:54] 名称：莫语者 非常营救(2026)【4K.臻彩MAX】【更18集】【战争/悬疑】【黎明/张丰毅】
-
-夸克网盘：https://pan.quark.cn/s/adea4fe989f8 来自：综合网盘资源频道 [2026-10-27 18:54] 名称：莫语者 非常营救(2026)【4K.臻彩MAX】【更18集】【战争/悬疑】【黎明/张丰毅】
-
-迅雷网盘：https://pan.xunlei.com/s/VP4SnjOpBOnFQ4Md7CA4E5Y3A1?pwd=acht 来自：综合网盘资源频道 [2026-10-27 18:54] 名称：莫语者 非常营救(2026)【4K.臻彩MAX】【更18集】【战争/悬疑】【黎明/张丰毅】
-
-迅雷网盘：https://pan.xunlei.com/s/VP4Rq8oWsZfxR3srjsNKub61A1?pwd=yyzb 来自：综合网盘资源频道 [2026-10-27 16:33] 名称：莫语者 4K臻彩MAX [HDR60fps][更新至18集]
-
-📁 大小：1.5G/集
-
-🏷 标签：#莫语者 #黎明 #张丰毅 #剧情 #悬疑 #战争
-
-<img src="tg_media/2110524172/莫语者_2026.jpg" width="600" />
+<img src="tg_media/2710552707/找春天_Youth_2026.jpg" width="600" />
 
 
 ## 遮天
-[2026-10-27 19:10] 来自：夸克云盘影视资源频道
+[2026-10-28 01:32] 来自：肯德基の4K影视综合电影云盘站
 
-名称：遮天 年番 (2026) 臻彩4K 更新187集
+名称：遮天 年番4 (2026)4K WEB-DL 2160p 第187集
 
-描述：冰冷与黑暗并存的宇宙深处，九具庞大的龙尸拉着一口青铜古棺，亘古长存。这是太空探测器在枯寂的宇宙中捕捉到的一幅极其震撼的画面。九龙拉棺，究竟是回到了上古，还是来到了星空的彼岸？一个浩大的仙侠世界，光怪陆离，神秘无尽。热血似火山沸腾，激情若瀚海汹涌，欲望如深渊无止境……登天路，踏歌行。
+描述：冰冷与黑暗并存的宇宙深处，九具庞大的龙尸拉着一口青铜古棺，亘古长存。这是太空探测器在枯寂的宇宙中捕捉到的一幅极其震撼的画面……
 
-夸克网盘：https://pan.quark.cn/s/60bc3371d900
+夸克网盘：https://pan.quark.cn/s/6e6a7d9b1288
 
-百度网盘：https://pan.baidu.com/s/1exXu7ctagvKEYpKjmOwWqQ?pwd=6666 来自：肯德基の4K影视综合电影云盘站 [2026-10-27 19:10] 名称：遮天 年番 (2026) 臻彩4K 更新187集
+百度网盘：https://pan.baidu.com/s/1uK9ROqDEQRMC1xHl2_zh4A?pwd=rmc4
 
-光鸭云盘：https://www.guangyapan.com/s/1947179278717427720_aeWnPia0Twth-NLu 来自：肯德基の4K影视综合电影云盘站 [2026-10-27 19:10] 名称：遮天 年番 (2026) 臻彩4K 更新187集
+光鸭云盘：https://www.guangyapan.com/s/1951860051345661960_aeWYeSwV3ZOZlzEy
 
-📁 大小：NG
+📁 大小：1GB /集
 
-🏷 标签：#动作 #遮天 #奇幻 #古装 #4K臻彩
+🏷 标签：#遮天 #奇幻 #冒险
 
-<img src="tg_media/1959723113/遮天_年番_2026.jpg" width="600" />
-
-
-## 仿生迷踪
-[2026-10-27 18:53] 来自：综合网盘资源频道
-
-名称：仿生迷踪 看见未来(2026)【4K.HDR.60fps】【更12集】【科幻/悬疑】【严浩翔/欧阳娣娣】
-
-描述：2035年，AI高材生宋扬(严浩翔 饰)被诬陷杀害女友母女，逃亡中与觉醒自我意识的仿生人艾达(欧阳娣娣 饰)结盟。二人接连破解离奇案件，深挖Cedar集团的黑幕。最终真相揭开，宋扬洗清罪名，艾达为保护宋扬而牺牲，但人类与仿生人迎来了共存的新未来。
-
-夸克网盘：https://pan.quark.cn/s/106fbddcd831
-
-百度网盘：https://pan.baidu.com/s/1QxM7B_YfbNNkybPL68-mhQ?pwd=yptv
-
-迅雷网盘：https://pan.xunlei.com/s/VP4hXwofbN1sI0Lot_41MMyAA1?pwd=mk62
-
-夸克网盘：https://pan.quark.cn/s/cf2d903b3e5c 来自：综合网盘资源频道 [2026-10-27 16:14] 名称：仿生迷踪 4K臻彩MAX [HDR60fps][更新至12集]
-
-迅雷网盘：https://pan.xunlei.com/s/VP4iKtZl-1xUOmCgFaUAIybfA1?pwd=tur5 来自：综合网盘资源频道 [2026-10-27 16:14] 名称：仿生迷踪 4K臻彩MAX [HDR60fps][更新至12集]
-
-百度网盘：https://pan.baidu.com/s/1H42Ehg_522A5ec5COACdJw?pwd=uca4 来自：百度网盘综合频道 [2026-10-27 15:17] 名称：仿生迷踪（2026）4K S01E01 - E12
-
-📁 大小：NG
-
-🏷 标签：#国剧 #剧情 #科幻 #悬疑 #仿生迷踪 #4K #HDR #60fps #看见未来 #严浩翔 #欧阳娣娣 #quark #baidu #xunlei
-
-<img src="tg_media/2605109003/仿生迷踪_看见未来_2026.jpg" width="600" />
+<img src="tg_media/2710552707/遮天_年番4_2026.jpg" width="600" />
 
 
-## 予苍龙
-[2026-10-27 18:42] 来自：综合网盘资源频道
+## 一念永恒
+[2026-10-28 01:31] 来自：肯德基の4K影视综合电影云盘站
 
-名称：予苍龙(2026)【4K.HDR.60fps】【高码率】【更14集】【奇幻/古装】
+名称：一念永恒 完结季(2026) 4K WEB-DL 2160p 第17集
 
-描述：将门之女岳望舒被献祭龙渊，意外解封龙君离止，二人从敌对到相知，以“压制离火”为交易结盟。她借龙君之力反击岳家与齐王阴谋，他因她学会人间情爱。最终，离止留驻人间，成就一段旷世之恋。
+描述：为苍生大义，白小纯不得不与通天道人展开决战。随着旧世界破碎，众人流落天外的永恒大陆....
 
-夸克网盘：https://pan.quark.cn/s/5ebc8237d615
+夸克网盘：https://pan.quark.cn/s/ddb3001b9f47
 
-百度网盘：https://pan.baidu.com/s/1VpOTReHGRjb5w-H0ctrF1w?pwd=yptv
+百度网盘：https://pan.baidu.com/s/1GBARETawcftA6BeF7jHPVw?pwd=entx
 
-迅雷网盘：https://pan.xunlei.com/s/VP4YS916htK54pdWBuWdfArYA1?pwd=zvtx
+光鸭云盘：https://www.guangyapan.com/s/1951860770043834399_aeWYeSwV3ZOZlzEy
 
-夸克网盘：https://pan.quark.cn/s/8e18a7921001 来自：综合网盘资源频道 [2026-10-27 16:35] 名称：予苍龙 4K臻彩MAX [HDR60fps][更新至14集]
+夸克网盘：https://pan.quark.cn/s/e0935490615f 来自：夸克云盘影视资源频道 [2026-10-28 00:08] 名称：一念永恒 完结季（2026） 4K 更新至17集
 
-迅雷网盘：https://pan.xunlei.com/s/VP4X-bdA6tU87XCbsqb7VIP2A1?pwd=yd9y 来自：综合网盘资源频道 [2026-10-27 16:35] 名称：予苍龙 4K臻彩MAX [HDR60fps][更新至14集]
+百度网盘：https://pan.baidu.com/s/1hJB4PklTdh1xjHOPMN3QWg?pwd=2SA5 来自：阿里、夸克、百度网盘4K影视资源 [2026-10-28 00:08] 名称：一念永恒 完结季（2026） 4K 更新至17集
 
-百度网盘：https://pan.baidu.com/s/1Y9O7MbiJRArfoxlRTm40OA?pwd=a1z4 来自：百度网盘综合频道 [2026-10-27 15:21] 名称：予苍龙（2026）4K S01E01 - E14
+阿里云盘：https://www.alipan.com/s/Qt8Xsf8uzRw 来自：阿里、夸克、百度网盘4K影视资源 [2026-10-28 00:08] 名称：一念永恒 完结季（2026） 4K 更新至17集
 
-📁 大小：NG
+迅雷网盘：https://pan.xunlei.com/s/VOy6ppyTCu9xVlwdYQF7uITYA1?pwd=8h9r 来自：综合网盘资源频道 [2026-10-28 00:06] 名称：一念永恒 完结季(2026) 4K 更新至17集
 
-🏷 标签：#微短剧 #奇幻 #古装 #予苍龙 #4K #HDR #60fps #高码率 #quark #baidu #xunlei
+光鸭云盘：https://www.guangyapan.com/s/1949455952742416398_aeAefI8EdLN_2GRB 来自：综合网盘资源频道 [2026-10-28 00:06] 名称：一念永恒 完结季(2026) 4K 更新至17集
 
-<img src="tg_media/2605109003/予苍龙_2026.jpg" width="600" />
+📁 大小：1.5GB
+
+🏷 标签： #一念永恒 完结季
+
+<img src="tg_media/2710552707/一念永恒_完结季_2026.jpg" width="600" />
 
 
-## 华灯起
-[2026-10-27 18:41] 来自：综合网盘资源频道
+## 空枪
+[2026-10-28 01:29] 来自：光鸭云盘资源频道
 
-名称：华灯起(2026)【4K.HDR.60fps】【高码率】【更08集】【剧情/悬疑】
+名称：空枪 (2026)
 
-描述：1936年上海，女裁缝梅予和携手高利贷债主丁兆，抽丝剥茧，挖出霓虹灯影下的黑暗秘密。
+📁 类型：国产电影
 
-夸克网盘：https://pan.quark.cn/s/ca3274dc0450
+🖥️ 画质：2160p
 
-百度网盘：https://pan.baidu.com/s/1k1jOOR4gZyhCacL96wVjdw?pwd=yptv
+🎥 视频：WEB-DL.HDR.H.265
 
-迅雷网盘：https://pan.xunlei.com/s/VP4s46P5ZzUWDSCeTMNya29YA1?pwd=vwg4
+🔊 音频：DTS
 
-夸克网盘：https://pan.quark.cn/s/d92e5d1f607f 来自：综合网盘资源频道 [2026-10-27 16:43] 名称：华灯起 4K臻彩MAX [HDR60fps][更新至08集]
+📦 大小：23.3 GB
 
-迅雷网盘：https://pan.xunlei.com/s/VP4wVo8ZORgf1neEw07NkAqpA1?pwd=vbv9 来自：综合网盘资源频道 [2026-10-27 16:43] 名称：华灯起 4K臻彩MAX [HDR60fps][更新至08集]
+🔗 链接：
 
-百度网盘：https://pan.baidu.com/s/1mI84NKYDOO0BCzSWdYwn6Q?pwd=p3uw 来自：百度网盘综合频道 [2026-10-27 15:19] 名称：华灯起（2026）4K S01E01 - E08
+光鸭云盘：https://www.guangyapan.com/s/1962231867861110795_adyPbY8EdLN_2AZv
 
-📁 大小：NG
+<img src="tg_media/3667471790/空枪_2026.jpg" width="600" />
 
-🏷 标签：#微短剧 #剧情 #悬疑 #华灯起 #4K #HDR #60fps #高码率 #quark #baidu #xunlei
 
-<img src="tg_media/2605109003/华灯起_2026.jpg" width="600" />
+## 小先知
+[2026-10-28 01:25] 来自：肯德基の4K影视综合电影云盘站
+
+名称：小先知 (2026)【更02集】【4K.HDR10+】【高码率】【内封简繁英】【杜比全景声】
+
+描述：七年前，自从女友失踪后，迈克尔·斯利普的人生便仿佛停滞不前。一本旧日记里神秘的配方，却承诺要为他追寻已久的谜团带来答案。
+
+夸克网盘：https://pan.quark.cn/s/07fd94b6db58
+
+百度网盘：https://pan.baidu.com/s/1GFdZo_HyzwF1eBX4jZ2yIg?pwd=Yu88
+
+迅雷网盘：https://pan.xunlei.com/s/VP3YQe2jR-uvMuqMnczIAS_KA1?pwd=fuxw
+
+📁 大小：5.5GB/集
+
+🏷 标签：#小先知
+
+<img src="tg_media/2710552707/小先知_2026.jpg" width="600" />
+
+
+## 律界战争
+[2026-10-28 01:18] 来自：综合网盘资源频道
+
+名称：律界战争 第一季(2026)【更04集】【4K.DV.HDR】【高码率】【内封简繁英】【杜比全景声】
+
+描述：本剧每季聚焦一场不同的法律对决。 当Cathcarts & Sons律所与Taylor & Byrne律所因一场备受瞩目的法律诉讼而激烈交锋时，雄心勃勃的年轻律师Jonathan “Johnny” Warren被卷入了一个残酷的世界——在那里，野心是货币，背叛是策略，而胜利就是一切。 第一季聚焦英国科技企业家Morgan Henderson与国际影星Carla Duval的轰动离婚案，代表双方的律所不择手段，誓要为客户赢得胜利。
+
+夸克网盘：https://pan.quark.cn/s/04d04a354c9e
+
+百度网盘：https://pan.baidu.com/s/16rG-AA_m4MleZIcFezrYWQ?pwd=Yu88
+
+迅雷网盘：https://pan.xunlei.com/s/VP3R_o8lUZsabsXVxmM9o7OIA1?pwd=f3v4
+
+📁 大小：6.6GB/集
+
+🏷 标签：#律界战争 #4K #DV #HDR #高码率 #内封简繁英 #quark #baidu #xunlei
+
+<img src="tg_media/2605109003/律界战争_第一季_2026.jpg" width="600" />
+
+
+## 塔尔萨之王
+[2026-10-28 01:07] 来自：肯德基の4K影视综合电影云盘站
+
+名称：塔尔萨之王 第四季(2026)【更02集】【4K.高码率】【内封简英双语字幕】【附1-4季】
+
+描述：曾经的纽约黑手党族长Dwight "The General" Manfredi在服刑25年后从监狱获释，却被自己老大流放去了俄克拉荷马州的塔尔萨。Dwight意识到自己的黑帮家族并没有考虑他的最佳利益，于是他从一群并非自己想象中的人物里，逐渐建立起了一个“团队”，来帮助他在一个彻头彻尾的陌生之地打造一个新的犯罪帝国。
+
+夸克网盘：https://pan.quark.cn/s/11328066a0c5
+
+百度网盘：https://pan.baidu.com/s/1hdDbRhWMft--mXgkW6C5cQ?pwd=Yu88
+
+迅雷网盘：https://pan.xunlei.com/s/VP4JZu-PvTlyO8zxinBaDOvJA1?pwd=eg83
+
+光鸭云盘：https://www.guangyapan.com/s/1962225247944978492_aeWw8Ru726g3wcPx
+
+📁 大小：6.5GB/集
+
+🏷 标签：塔尔萨之王
+
+<img src="tg_media/2710552707/塔尔萨之王_第四季_2026.jpg" width="600" />
+
+
+## 全城追缉
+[2026-10-28 01:05] 来自：光鸭云盘资源频道
+
+名称：全城追缉 (2026)
+
+📁 类型：国产电影
+
+🖥️ 画质：2160p
+
+🎥 视频：WEB-DL.HDR.H.265
+
+🔊 音频：DDP 5.1
+
+📦 大小：10.0 GB
+
+🔗 链接：
+
+光鸭云盘：https://www.guangyapan.com/s/1962225739584516157_adyPbY8EdLN_2AZv
+
+夸克网盘：https://pan.quark.cn/s/11cf94c33352 来自：综合网盘资源频道 [2026-10-27 22:01] 名称：全城追缉 (2026)
+
+阿里云盘：https://www.alipan.com/s/khfCdVFuFGC 来自：综合网盘资源频道 [2026-10-27 22:01] 名称：全城追缉 (2026)
+
+<img src="tg_media/3667471790/全城追缉_2026.jpg" width="600" />
+
+
+## 民国惊魂录
+[2026-10-28 01:05] 来自：光鸭云盘资源频道
+
+名称：民国惊魂录 (2026)
+
+📁 类型：国产电影
+
+🖥️ 画质：2160p
+
+🎥 视频：WEB-DL.HDR.DV.H.265
+
+🔊 音频：AAC
+
+📦 大小：32.3 GB
+
+🔗 链接：
+
+光鸭云盘：https://www.guangyapan.com/s/1962225739756478475_adyPbY8EdLN_2AZv
+
+<img src="tg_media/3667471790/民国惊魂录_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
