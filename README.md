@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">3408</td><td align="center">2026-11-02</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">637</td><td align="center">2026-11-02</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">1324</td><td align="center">2026-11-02</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">134</td><td align="center">2026-11-02</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">83</td><td align="center">2026-11-01</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">261</td><td align="center">2026-11-01</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">504</td><td align="center">2026-11-02</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1000</td><td align="center">2026-11-02</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">307</td><td align="center">2026-11-01</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">3445</td><td align="center">2026-11-02</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">645</td><td align="center">2026-11-02</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">1345</td><td align="center">2026-11-02</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">135</td><td align="center">2026-11-02</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">85</td><td align="center">2026-11-02</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">266</td><td align="center">2026-11-02</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">513</td><td align="center">2026-11-02</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1013</td><td align="center">2026-11-02</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">315</td><td align="center">2026-11-02</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,260 +24,222 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 把黑夜点燃
-[2026-11-02 04:48] 来自：光鸭云盘资源频道
+## 最后一桌
+[2026-11-02 12:54] 来自：综合网盘资源频道
 
-名称：把黑夜点燃 (2026)
+名称：最后一桌 [AMZN][内封多国语字幕][更新至04集]
 
-📁 类型：国产剧集
+描述：本剧是一部讲述来自世界各地的韩国厨师齐聚一堂，参加名为“餐桌：K-Chef 2026”的生存竞赛，最终选出韩国最佳厨师的电视剧。
 
-🖥️ 画质：2160p
+夸克网盘：https://pan.quark.cn/s/567bda07e777
 
-🎥 视频：WEB-DL.HDR.H.265
+迅雷网盘：https://pan.xunlei.com/s/VP4oWpuhk6YWkgDRh_TsgccGA1?pwd=gahq
 
-🔊 音频：DDP 5.1
+📁 大小：N G
 
-📦 大小：38.5 GB
+🏷 标签：#盘酱酱 #PanWEB #韩剧 #最后一桌 #内封多国语字幕 #quark #xunlei
 
-📼 集数：E01-E12
-
-✅ 状态：完结
-
-🔗 链接：
-
-光鸭云盘：https://www.guangyapan.com/s/1964093891721531403_adyPbY8EdLN_2AZv
-
-百度网盘：https://pan.baidu.com/s/1NSh4izSf5UG6rkTgslxgMg?pwd=u672 来自：综合网盘资源频道 [2026-11-01 22:37] 名称：把黑夜点燃 (2026) 【蒋欣/陈哲远   悬疑/犯罪】【4K 更新EP12】
-
-<img src="tg_media/3667471790/把黑夜点燃_2026.jpg" width="600" />
+<img src="tg_media/2605109003/最后一桌.jpg" width="600" />
 
 
-## 小城良方
-[2026-11-02 03:48] 来自：肯德基の4K影视综合电影云盘站
+## 鉴定
+[2026-11-02 12:53] 来自：综合网盘资源频道
 
-名称：小城良方 (2026) 【29集全】【4K.HDR】【高码率】【内嵌简中】【肖战/倪大红】
+名称：鉴定 (2026) 4K SDR 更至EP10
 
-描述：讲述了当天才医生刘铮亮遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。
+描述：剧集讲述的是DNA亲子鉴定师新人徐子淇在心诺亲子鉴定中心主任莫丽引导下，携手热血青年朱新辰，无所畏惧地直面接踵而来的鉴定事件，猛然揭开各种各样人生真相的故事。
 
-夸克网盘：https://pan.quark.cn/s/0cb230edc26c
+光鸭云盘：https://www.guangyapan.com/s/1963954129048141830_ad5KFI8EdLN_2Dyr
 
-百度网盘：https://pan.baidu.com/s/1GFjZtCUZVZoLv21euTHgoA?pwd=Yu88
+百度网盘：https://pan.baidu.com/s/1VUVjQWdCaoa8jH2K-lnqdQ?pwd=Yu88 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 12:37] 名称：鉴定 (2026)【更07集】【4K.SDR】【内嵌简中】【悬疑/家庭】【张慧雯/岳丽娜】
 
-迅雷网盘：https://pan.xunlei.com/s/VP5NdQbaCt_y8DvQsv8GnLPMA1?pwd=uje2
+夸克网盘：https://pan.quark.cn/s/3b466db7c42f 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 12:37] 名称：鉴定 (2026)【更07集】【4K.SDR】【内嵌简中】【悬疑/家庭】【张慧雯/岳丽娜】
 
-光鸭云盘：https://www.guangyapan.com/s/1963326503312912466_aeWw8Ru726g3wcPx
+迅雷网盘：https://pan.xunlei.com/s/VP5PXNqsWiWJMVhKIfKpeWz3A1?pwd=9hdc 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 12:37] 名称：鉴定 (2026)【更07集】【4K.SDR】【内嵌简中】【悬疑/家庭】【张慧雯/岳丽娜】
 
-夸克网盘：https://pan.quark.cn/s/9204f7e751b8 来自：综合网盘资源频道 [2026-11-02 00:02] 名称：小城良方 (2026) 全29集 [4K 60帧][主演: 肖战/倪大红/姜妍/史彭元/菅纫姿]
+光鸭云盘：https://www.guangyapan.com/s/1964211250922856543_aeWw8Ru726g3wcPx 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 12:37] 名称：鉴定 (2026)【更07集】【4K.SDR】【内嵌简中】【悬疑/家庭】【张慧雯/岳丽娜】
 
-UC网盘：https://drive.uc.cn/s/47bb3b18c8374 来自：综合网盘资源频道 [2026-11-01 23:36] 名称：小城良方 (2026)更至29集完结 [4K][都市生活][肖战/倪大红/丁嘉丽]
+📁 大小：
 
-百度网盘：https://pan.baidu.com/s/1xIAUak0UwamXryQ9qm9wFg?pwd=1030 来自：综合网盘资源频道 [2026-11-01 23:36] 名称：小城良方 (2026)更至29集完结 [4K][都市生活][肖战/倪大红/丁嘉丽]
+🏷 标签：#鉴定 #悬疑 #4K #SDR #guangyapan
 
-迅雷网盘：https://pan.xunlei.com/s/VP5LfFJuIjcdUx3Nr1FYiDDPA1?pwd=s5ft 来自：综合网盘资源频道 [2026-11-01 23:36] 名称：小城良方 (2026)更至29集完结 [4K][都市生活][肖战/倪大红/丁嘉丽]
-
-📁 大小：2.7GB/集
-
-🏷 标签：#小城良方
-
-<img src="tg_media/2710552707/小城良方_2026.jpg" width="600" />
+<img src="tg_media/2605109003/鉴定_2026.jpg" width="600" />
 
 
-## 伟大的长征
-[2026-11-02 03:36] 来自：肯德基の4K影视综合电影云盘站
+## 百日谎言
+[2026-11-02 12:52] 来自：综合网盘资源频道
 
-名称：伟大的长征 (2026)【更41集】【4K.HDR】【高码率】【内嵌简中】【于和伟/王劲松】
+名称：百日谎言 [NF][内封多国语字幕][更新至08集]
 
-描述：以1934年至1937年为时代背景，以中央红军长征为主线，从第五次反“围剿”失败、红军开始战略转移讲起，全景展现红一、红二、红四方面军和红二十五军等多路红军的长征历程。
+描述：天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻译官泰雄展开浪漫爱情故事的谍报罗曼史电视剧。
 
-夸克网盘：https://pan.quark.cn/s/da1ec6b7dd3b
+夸克网盘：https://pan.quark.cn/s/c9d667db79ea
 
-百度网盘：https://pan.baidu.com/s/1d2Ch4ht3LZ4o8uxrQYiOMg?pwd=Yu88
+迅雷网盘：https://pan.xunlei.com/s/VP3uoSYmXs1wvblY3XpjxuyRA1?pwd=5yw5
 
-迅雷网盘：https://pan.xunlei.com/s/VP57flui1R3ePrbSjVsiHe6qA1?pwd=2cy2
+百度网盘：https://pan.baidu.com/s/1Y77yAB_AJISC9SWYHOlvvA?pwd=1111 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:04] 名称：百日谎言 100일의 거짓말 (2026) [1080P] [内封简繁] [更至8集]
 
-光鸭云盘：https://www.guangyapan.com/s/1961851961855721509_aeWw8Ru726g3wcPx
+夸克网盘：https://pan.quark.cn/s/9d9a586fd837 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:04] 名称：百日谎言 100일의 거짓말 (2026) [1080P] [内封简繁] [更至8集]
 
-夸克网盘：https://pan.quark.cn/s/839a54032937 来自：综合网盘资源频道 [2026-11-02 00:01] 名称：伟大的长征 (2026) 更至41集 [4K][类型: 剧情/历史/战争][主演: 于和伟/曹磊/何政军/王劲松]
+迅雷网盘：https://pan.xunlei.com/s/VP3cTFIAJH0K1p9sXHOPMXsNA1?pwd=tvyq 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:04] 名称：百日谎言 100일의 거짓말 (2026) [1080P] [内封简繁] [更至8集]
 
-UC网盘：https://drive.uc.cn/s/58a1fc4c84c94 来自：综合网盘资源频道 [2026-11-01 23:43] 名称：伟大的长征 (2026) 更至41集 [4K][剧情][于和伟/曹磊/何政军/王劲松]
+光鸭云盘：https://www.guangyapan.com/s/1956184791451721786_aeWiyJwocgzRgCVm 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:04] 名称：百日谎言 100일의 거짓말 (2026) [1080P] [内封简繁] [更至8集]
 
-百度网盘：https://pan.baidu.com/s/1c0Ai-tu9oXDcWuZk4X7pKQ?pwd=1021 来自：综合网盘资源频道 [2026-11-01 23:43] 名称：伟大的长征 (2026) 更至41集 [4K][剧情][于和伟/曹磊/何政军/王劲松]
+📁 大小：N G
 
-移动云盘：https://yun.139.com/shareweb/#/w/i/2yrhLJ339r7kz 来自：综合网盘资源频道 [2026-11-01 21:33] 名称：伟大的长征 更 41
+🏷 标签：#盘酱酱 #PanWEB #韩剧 #百日谎言 #NF #内封多国语字幕 #quark #xunlei
 
-迅雷网盘：https://pan.xunlei.com/s/VP4YXlxsmtc9i0VztGRjH_XZA1?pwd=4wt9 来自：综合网盘资源频道 [2026-11-01 20:58] 名称：伟大的长征(2026)【4K.HDR.60fps】【内封简中】【更41集】【历史/战争】【于和伟/曹磊】
-
-📁 大小：4GB/集
-
-🏷 标签：#伟大的长征
-
-<img src="tg_media/2710552707/伟大的长征_2026.jpg" width="600" />
+<img src="tg_media/2605109003/百日谎言.jpg" width="600" />
 
 
 ## 玉簟秋
-[2026-11-02 03:32] 来自：肯德基の4K影视综合电影云盘站
+[2026-11-02 12:51] 来自：综合网盘资源频道
 
-名称：玉簟秋 (2026)【40集全】【4K.高码率】【内嵌简中】【剧情/爱情】【丞磊/徐若晗】
+名称：玉簟秋 (2026) 4K SDR 高码率 AAC2.0 中字 全40集 完结，丞磊/徐若晗
 
-描述：该剧改编自灵希同名小说。民国乱世中，少帅虞昶轩(丞磊 饰)与女学生叶平君(徐若晗 饰)因一场邂逅深陷爱恨漩涡，彻底改写二人的人生轨迹。纵然身份悬殊、前路艰险，人仍毅然冲破一切阻隔，在战火与命运的洪流中坚定携手，沙场硝烟与儿女情长交织，将热血、信仰与挚爱，共同谱写成一段荡气回肠的传奇。
+描述： 该剧改编自灵希同名小说。民国乱世中，少帅虞昶轩(丞磊 饰)与女学生叶平君(徐若晗 饰)因一场邂逅深陷爱恨漩涡，彻底改写二人的人生轨迹。纵然身份悬殊、前路艰险，人仍毅然冲破一切阻隔，在战火与命运的洪流中坚定携手，沙场硝烟与儿女情长交织，将热血、信仰与挚爱，共同谱写成一段荡气回肠的传奇。 又名： The Lament of Autumn
 
-夸克网盘：https://pan.quark.cn/s/49faec7694fc
+夸克网盘：https://pan.quark.cn/s/3f63f6af11e8
 
-百度网盘：https://pan.baidu.com/s/1DXUYadZeozNK_iO7gLZ3iQ?pwd=Yu88
+📁 大小：3.8GB/集
 
-迅雷网盘：https://pan.xunlei.com/s/VP57nVK5qGmba8xp34DuqCiXA1?pwd=xs78
+🏷 标签：#玉簟秋 #剧情 #爱情 #4K #SDR #高码率 #AAC #中字 #quark
 
-光鸭云盘：https://www.guangyapan.com/s/1961877595965370396_aeWw8Ru726g3wcPx
+<img src="tg_media/2605109003/玉簟秋_2026.jpg" width="600" />
 
-百度网盘：https://pan.baidu.com/s/1lO8fq7swZZ4p6GfmaVXpfg?pwd=yptv 来自：综合网盘资源频道 [2026-11-02 01:43] 名称：玉簟秋(2026)【IQ.4K】【内封简中】【40集全】【剧情/爱情】【丞磊/徐若晗】
 
-夸克网盘：https://pan.quark.cn/s/f779d923b21b 来自：综合网盘资源频道 [2026-11-02 01:43] 名称：玉簟秋(2026)【IQ.4K】【内封简中】【40集全】【剧情/爱情】【丞磊/徐若晗】
+## 找春天
+[2026-11-02 12:51] 来自：综合网盘资源频道
 
-迅雷网盘：https://pan.xunlei.com/s/VP3irA39-Mtb80bcED38FKHoA1?pwd=x82c 来自：综合网盘资源频道 [2026-11-02 01:43] 名称：玉簟秋(2026)【IQ.4K】【内封简中】【40集全】【剧情/爱情】【丞磊/徐若晗】
+名称：找春天 Youth (2026) S01全8集 4K DV&HDR 内封简繁英字幕
 
-UC网盘：https://drive.uc.cn/s/ab5434825f8e4 来自：综合网盘资源频道 [2026-11-01 23:21] 名称：玉簟秋 (2026) 更至40集完结 [4K][近代/剧情][丞磊/徐若晗/张丰毅/徐帆]
+描述：一名50岁离婚女子在寻找性爱与爱情的同时，还得照顾年迈多病的父母，以及抚养本该早已独立成年的儿子。
 
-📁 大小：2.4GB/集
+夸克网盘：https://pan.quark.cn/s/896333a4f1e1
 
-🏷 标签：#玉簟秋
+百度网盘：https://pan.baidu.com/s/1xd5GPSMUfleKQyRhk3LNOw?pwd=1314
 
-<img src="tg_media/2710552707/玉簟秋_2026.jpg" width="600" />
+光鸭云盘：https://www.guangyapan.com/s/1956672295162523677_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-02 11:38] 名称：找春天(2026)4K DV&HDR S01E01-E08 杜比全景声 内封简繁
 
+夸克网盘：https://pan.quark.cn/s/e868af73b28c 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 11:25] 名称：找春天（2026）4K DV&HDR S01 杜比全景声 内封简繁
 
-## 石油天王
-[2026-11-02 03:21] 来自：肯德基の4K影视综合电影云盘站
+📁 大小：30.80 GB
 
-名称：石油天王(两季合集)【4K.高码率】【内封简英双语字幕】【剧情/西部】
+🏷 标签：#找春天 #喜剧 #剧情 #4K #DV #HDR #内封简繁英字幕 #quark #baidu
 
-描述：该剧以得克萨斯州西部的石油钻井平台世界为背景，在那里，“钻工和野猫式的亿万富翁正在推动一场巨大的繁荣，它正在重塑我们的气候、经济和地缘政治”。
+<img src="tg_media/2605109003/找春天_Youth_2026.jpg" width="600" />
 
-夸克网盘：https://pan.quark.cn/s/eb3b723d1261
 
-百度网盘：https://pan.baidu.com/s/1jqjbFnFpr7cV_fbNRuVUgw?pwd=Yu88
+## 小城良方
+[2026-11-02 12:50] 来自：综合网盘资源频道
 
-迅雷网盘：https://pan.xunlei.com/s/VP56Cb4RKs_wIY3CyzQUV9AMA1?pwd=ub5x
+名称：小城良方 (2026) 4K HDR DV杜比视界 高码率 DDP5.1+AAC5.1 中字 全29集 完结，肖战/倪大红
 
-光鸭云盘：https://www.guangyapan.com/s/1964064826549575770_aeWw8Ru726g3wcPx
+描述： 该剧讲述了当天才医生刘铮亮(肖战饰)遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。 该剧改编自刘三叔所著小说《飞刀》。 又名： 刘医生返乡记 / 飞刀
 
-📁 大小：119GB
+夸克网盘：https://pan.quark.cn/s/00a091a7af99
 
-🏷 标签：石油天王
+百度网盘：https://pan.baidu.com/s/1Ny39kRSofN8IEytLpdbauA?pwd=k48v 来自：综合网盘资源频道 [2026-11-02 07:38] 名称：小城良方 (2026) 4K HDR 内封字幕全29完结
 
-<img src="tg_media/2710552707/石油天王_两季合集.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/7525cb704996 来自：综合网盘资源频道 [2026-11-02 07:38] 名称：小城良方 (2026) 4K HDR 内封字幕全29完结
 
+📁 大小：4GB/集
 
-## 神探夏洛克
-[2026-11-02 02:42] 来自：肯德基の4K影视综合电影云盘站
+🏷 标签：#小城良方 #剧情 #4K #HDR #DV杜比视界 #高码率 #AAC #quark
 
-名称：神探夏洛克(四季合集)【1080p 原盘压制】【国粤英音轨】【简英双语特效字幕】
+<img src="tg_media/2605109003/小城良方_2026.jpg" width="600" />
 
-描述：豆瓣9.5高分
 
-《神探夏洛克》是一部由BBC出品的英国迷你电视剧，该剧将原著的故事背景从19世纪大英帝国国势鼎盛的时期搬到了21世纪繁华热闹的大都市中。
+## 嫁金钗
+[2026-11-02 12:50] 来自：综合网盘资源频道
 
-夸克网盘：https://pan.quark.cn/s/445779536240
+名称：嫁金钗 (2026) 4K/1080P HDR SDR DV杜比视界 高码率 AAC2.0 中字 更26集，田曦薇/闫桉
 
-百度网盘：https://pan.baidu.com/s/1jlAdxYpHQYo4vfdrhey6Mg?pwd=Yu88
+描述： 阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府世子陆濯的冲喜新娘。阿丑野心勃勃，一心借机上位，然而濒死的新婚丈夫忽然苏醒，鸠占鹊巢引来连绵灾祸。魏娆(君黛)恨她鸠占鹊巢，急欲除之后快；陆濯以她为蛇蝎妇人，百般提防谋算。国公府明面一团和气，实则陷阱重重、步步杀机。阿丑稳扎稳打精心谋划，手段百出获得丈夫痴爱，更查出了自己身世的秘密，与至亲最终团圆，从底层夜香妇一路逆袭上位，过出光芒万丈的锦绣人生。
 
-迅雷网盘：https://pan.xunlei.com/s/VOtUhTOdxYbj6SC8zzHQjE4nA1?pwd=b5py
+夸克网盘：https://pan.quark.cn/s/37b89713512c
 
-光鸭云盘：https://www.guangyapan.com/s/1964060994469875806_aeWw8Ru726g3wcPx
+夸克网盘：https://pan.quark.cn/s/2354e0094414 来自：综合网盘资源频道 [2026-11-02 12:49] 名称：嫁金钗 (2026) 更26集 4K
 
-📁 大小：120GB
+百度网盘：https://pan.baidu.com/s/1R2LF_H_K2zMysoWZCzRGRA?pwd=esxf 来自：百度网盘综合频道 [2026-11-02 12:38] 名称：嫁金钗（2026）4K 10bit 60FPS S01E01 - E26
 
-🏷 标签：#神探夏洛克
+百度网盘：https://pan.baidu.com/s/1Etkf8moByTRirGBedg-CdQ?pwd=65d2 来自：综合网盘资源频道 [2026-11-02 12:14] 名称：嫁金钗(2026) 更新至26集
 
-<img src="tg_media/2710552707/神探夏洛克_四季合集.jpg" width="600" />
+光鸭云盘：https://www.guangyapan.com/s/1958156147135504434_aeWYeSwV3ZOZlzEy 来自：综合网盘资源频道 [2026-11-02 09:47] 名称：嫁金钗(2026)4k WEB-DL.DoVi HQ 2160p 杜比视界 简体字幕 第25集
 
+📁 大小：8.7GB/集
 
-## 双峰
-[2026-11-02 02:10] 来自：综合网盘资源频道
+🏷 标签：#嫁金钗 #剧情 #爱情 #古装 #4K #1080P #HDR #SDR #DV杜比视界 #quark
 
-名称：双峰(三季合集)【1080p 原盘REMUX】【内封简繁英双语字幕】【科幻/悬疑】
+<img src="tg_media/2605109003/嫁金钗_2026.jpg" width="600" />
 
-描述：豆瓣9.0高分
 
-华盛顿州的双峰镇，原是个安静的小镇，但当一位年轻女子劳拉·帕尔默的尸体被冲上湖岸后，整个小镇的单纯静逸完全被打破，FBI探员戴尔·库珀奉派调查此案，一连串的迷团围绕着劳拉的死因，究竟谁才是凶手……
+## 不是你的恋爱
+[2026-11-02 12:48] 来自：综合网盘资源频道
 
-夸克网盘：https://pan.quark.cn/s/a8604838fd7b
+名称：不是你的恋爱 [AMZN][内封多国语字幕][全14集]
 
-迅雷网盘：https://pan.xunlei.com/s/VOtrRVdUSuoI0I-QK8VaHflEA1?pwd=4wc3
+描述：站在结婚十字路口的恋人们，遇到意想不到的新姻缘后，经历的感情波动和关系裂痕的现实共鸣罗曼史。
 
-光鸭云盘：https://www.guangyapan.com/s/1964053208545595434_aeWw8Ru726g3wcPx
+夸克网盘：https://pan.quark.cn/s/2c96a3c11fa6
 
-📁 大小：501GB
+迅雷网盘：https://pan.xunlei.com/s/VP1ZWk42huTSzBt88LAPgA0GA1?pwd=ni5z
 
-🏷 标签：#双峰 #合集 #1080p #原盘REMUX #内封简繁英双语字幕 #科幻 #quark #xunlei #guangyapan
+百度网盘：https://pan.baidu.com/s/1GbKE-dr6cijNPa44BjUgEQ?pwd=1111 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:02] 名称：不是你的恋爱 너 말고 다른 연애 (2026) [1080P] [内封多国字幕] [全14集]
 
-<img src="tg_media/2605109003/双峰_三季合集.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/85fb4a2e5a20 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:02] 名称：不是你的恋爱 너 말고 다른 연애 (2026) [1080P] [内封多国字幕] [全14集]
 
+迅雷网盘：https://pan.xunlei.com/s/VP1PB1ZcdnO-8tPxFPrJ2m1gA1?pwd=hgdc 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:02] 名称：不是你的恋爱 너 말고 다른 연애 (2026) [1080P] [内封多国字幕] [全14集]
 
-## 十二猴子
-[2026-11-02 02:10] 来自：肯德基の4K影视综合电影云盘站
+光鸭云盘：https://www.guangyapan.com/s/1953653223667261539_aeWiyJwocgzRgCVm 来自：肯德基の4K影视综合电影云盘站 [2026-11-02 09:02] 名称：不是你的恋爱 너 말고 다른 연애 (2026) [1080P] [内封多国字幕] [全14集]
 
-名称：十二猴子(四季合集)【BluRay.1080p】【内封简繁英双语字幕】【科幻/悬疑】
+📁 大小：N G
 
-描述：豆瓣8.8高分
+🏷 标签：#盘酱酱 #PanWEB #韩剧 #不是你的恋爱 #内封多国语字幕 #quark #xunlei
 
-同1995年的电影版一样，该剧仍然讲述了男主角被派往过去，阻止12只猴子军研制致命病毒，以挽救日后会因病惨死的大部分人类。在美剧《尼基塔》中饰演电脑高手的亚伦·斯坦福将饰演男主角詹姆斯·科尔，该角色在电影版中由好莱坞著名硬汉布鲁斯·威利斯诠释。科尔从2043年回到2013年，去查明病毒真相，拯救全人类。而在电影中由布拉德·皮特饰演的角色则将“转性”，由女演员艾蜜莉·汉普雪儿接棒。
+<img src="tg_media/2605109003/不是你的恋爱.jpg" width="600" />
 
-夸克网盘：https://pan.quark.cn/s/991fa89c2f3f
 
-百度网盘：https://pan.baidu.com/s/1-F7nqnJkoKLaJzWflJQJVQ?pwd=Yu88
+## 舟寒知婳意
+[2026-11-02 12:48] 来自：综合网盘资源频道
 
-📁 大小：113GB
+名称：舟寒知婳意 (2026) 4K SDR 更至EP19
 
-🏷 标签：#十二猴子
+描述：养女林婳遭青梅竹马顾徵抛弃后，在闺蜜谢宝儿的提议下，与其父亲谢舟寒订下协议婚约。
 
-<img src="tg_media/2710552707/十二猴子_四季合集.jpg" width="600" />
+光鸭云盘：https://www.guangyapan.com/s/1962473095164932166_ad5KFI8EdLN_2Dyr
 
+📁 大小：3.7G
 
-## 神盾特工局
-[2026-11-02 02:01] 来自：肯德基の4K影视综合电影云盘站
+🏷 标签：#舟寒知婳意 #剧情 #4K #SDR #guangyapan
 
-名称：神盾特工局(七季合集)【DSNP.1080p】【高码率】【内封简繁英】【科幻/动作】
+<img src="tg_media/2605109003/舟寒知婳意_2026.jpg" width="600" />
 
-描述：豆瓣9.2高分
 
-复仇者联盟以及随后影响深远的纽约之战，让外星人和超能力者不再是坊间传说的秘密。纽约之战过后，世界格局即将重新洗牌，野心家们蠢蠢欲动，神盾局面临前所未有的挑战。
+## 不着边际的你
+[2026-11-02 12:45] 来自：综合网盘资源频道
 
-夸克网盘：https://pan.quark.cn/s/8c0d9a3715fe
+名称：不着边际的你 [内封简繁英字幕][更新至04集]
 
-百度网盘：https://pan.baidu.com/s/1HqA0n2-OmuYnIzZchFbhNg?pwd=Yu88
+描述：吴海拉在一场意外中醒来，深信自己进入了她最喜爱的韩剧世界，并决定要保护剧中的男主角严泰峰。泰峰是一位顶尖的爱情剧演员，但他隐瞒了一个致命的弱点：只要接吻就会昏倒。因此，他一直避开现实中的感情关系——直到海拉以「自荐保镖」的身份闯入并打乱了他的生活。随着虚构与现实的界线开始模糊，两人建立了意想不到的羁绊。透过彼此，他们开始以从未想像过的方式面对爱情。
 
-迅雷网盘：https://pan.xunlei.com/s/VOtoU7tIgyH9h6pZJngr_GN0A1?pwd=nwjx
+夸克网盘：https://pan.quark.cn/s/83713a62519b
 
-光鸭云盘：https://www.guangyapan.com/s/1964046444978749464_aeWw8Ru726g3wcPx
+迅雷网盘：https://pan.xunlei.com/s/VP4jbqrgsoDgJzTi54F85ejWA1?pwd=fyci
 
-📁 大小：354GB
+百度网盘：https://pan.baidu.com/s/1PR0ccg-rC6Iq0weDc447TQ?pwd=1111 来自：综合网盘资源频道 [2026-11-02 09:05] 名称：不着边际的你 밑도 끝도 없이 너다 (2026) [1080P] [内封简繁] [更至4集]
 
-🏷 标签：#神盾局特工
+夸克网盘：https://pan.quark.cn/s/7be45894cc86 来自：综合网盘资源频道 [2026-11-02 09:05] 名称：不着边际的你 밑도 끝도 없이 너다 (2026) [1080P] [内封简繁] [更至4集]
 
-<img src="tg_media/2710552707/神盾特工局_七季合集.jpg" width="600" />
+迅雷网盘：https://pan.xunlei.com/s/VP4lYEJjqO2fUbHfIwY2sPvqA1?pwd=eury 来自：综合网盘资源频道 [2026-11-02 09:05] 名称：不着边际的你 밑도 끝도 없이 너다 (2026) [1080P] [内封简繁] [更至4集]
 
+光鸭云盘：https://www.guangyapan.com/s/1961327001596485677_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-02 09:05] 名称：不着边际的你 밑도 끝도 없이 너다 (2026) [1080P] [内封简繁] [更至4集]
 
-## 莫语者
-[2026-11-02 01:54] 来自：综合网盘资源频道
+📁 大小：N G
 
-名称：莫语者 非常营救(2026)【4K.臻彩MAX】【32集全】【战争/悬疑】【黎明/张丰毅】
+🏷 标签：#盘酱酱 #PanWEB #韩剧 #不着边际的你 #内封简繁英字幕 #quark #xunlei
 
-描述：如果说《战狼2》中的冷锋是打不倒的孤胆英雄，那《莫语者》则是真实存在的守护者。
-
-为了查明妻女身亡的幕后真相，拥有顶级警护能力的卫天放弃了身份，在事发地安提洛卡里斯创立了面向一带一路经济区企业和民众提供安保服务的「莫语者事务所」。卫天与中安集团总裁项平生有过命交情，却与其子项来性格相冲。中安集团和莫语者各自为战，却都有着强烈的人类命运共同体意识，在一带一路经济区以各自的方式捍卫着华人的海外安全。莫语者与中安集团多次联手，粉碎黑心制药公司的阴谋、为中国支非的高铁项目提供安全保障、多次解决恐怖分子在一带一路经济区制造的安全危机。
-
-卫天在一次行动中救下柏拉图国际酒店的副经理安达，两人在保护与被保护中走到一起。莫语者团队的沙兰、曲胜利、叶婉也在一次次任务中与各自的过往经历和解。最终，莫语者在卫天的带领下加入中安，成功保卫了一带一路经济区上的企业和民众安全。
-
-夸克网盘：https://pan.quark.cn/s/adea4fe989f8
-
-百度网盘：https://pan.baidu.com/s/1O23gKThepp5G0fuybu5_TA?pwd=yptv
-
-迅雷网盘：https://pan.xunlei.com/s/VP4SnjOpBOnFQ4Md7CA4E5Y3A1?pwd=acht
-
-📁 大小：NG
-
-🏷 标签：#国剧 #剧情 #战争 #莫语者 #悬疑 #4K #非常营救 #臻彩MAX #黎明 #张丰毅 #quark #baidu #xunlei
-
-<img src="tg_media/2605109003/莫语者_非常营救_2026.jpg" width="600" />
+<img src="tg_media/2605109003/不着边际的你.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
