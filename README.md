@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">126</td><td align="center">2026-11-07</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">764</td><td align="center">2026-11-07</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">45</td><td align="center">2026-11-07</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">12</td><td align="center">2026-11-07</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">166</td><td align="center">2026-11-07</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">772</td><td align="center">2026-11-07</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">59</td><td align="center">2026-11-07</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">17</td><td align="center">2026-11-07</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">127</td><td align="center">2026-11-07</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">8</td><td align="center">2026-11-07</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">24</td><td align="center">2026-11-07</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1288</td><td align="center">2026-11-07</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">367</td><td align="center">2026-11-07</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">13</td><td align="center">2026-11-07</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">33</td><td align="center">2026-11-07</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1302</td><td align="center">2026-11-07</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">374</td><td align="center">2026-11-07</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,220 +24,246 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 北境往事
-[2026-11-07 13:00] 来自：综合网盘资源频道
+## 尚公主2026
+[2026-11-07 20:32] 来自：综合网盘资源频道
 
-名称：北境往事 (2026) 4K SDR 更至EP24
+名称：《尚公主》2026 更新至 - 第 31 集 - [4K HDR] [60Fps] [孟子义 李昀锐 吴汉坤] [古装 权谋 爱情]
 
-描述：剧集以80年代东北为背景，讲述刘海柱与冯子文两条命运线在时代浪潮下交织的故事。刘海柱坚守道义，冯子文周旋于灰色地带，两人从相遇到共同面对利益与背叛，最终走向悲壮结局。核心主题为“牺牲与守护”，被形容为“东北江湖史诗”。
+描述：不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚在岭南相逢、于盛安入局，携手步步破局，共筑清平天下的故事。一群少年各怀心事、各有所求，在乱世惊涛中搅动风云，奔赴理想。
 
-光鸭云盘：https://www.guangyapan.com/s/1963591737705467950_ad5KFI8EdLN_2Dyr
+该剧改编自伊人睽睽的同名小说。
 
-夸克网盘：https://pan.quark.cn/s/2cdec0fcccba 来自：综合网盘资源频道 [2026-11-07 07:22] 名称：北境往事 4K臻彩MAX [HDR50fps][内封简繁字幕][更新至16集]
+夸克网盘：https://pan.quark.cn/s/85ee691a180c
 
-迅雷网盘：https://pan.xunlei.com/s/VP5C1aq31mlit9DfcIjioIxTA1?pwd=p9pr 来自：综合网盘资源频道 [2026-11-07 07:22] 名称：北境往事 4K臻彩MAX [HDR50fps][内封简繁字幕][更新至16集]
+📁 大小：45 GB
 
-📁 大小：
+🏷 标签：#尚公主 #剧情 #爱情 #古装 #权谋 #4K #HDR #60Fps #孟子义 #李昀锐 #吴汉坤 #quark
 
-🏷 标签：#北境往事 #剧情 #4K #SDR #guangyapan
+<img src="tg_media/2605109003/尚公主_2026_更新至_第_31_集.jpg" width="600" />
 
-<img src="tg_media/2605109003/北境往事_2026.jpg" width="600" />
 
+## 折月亮2026
+[2026-11-07 20:31] 来自：综合网盘资源频道
 
-## 走马上任
-[2026-11-07 13:00] 来自：综合网盘资源频道
+名称：《折月亮》2026 更新至 - 第 08 集 - [4K HDR 高码率] [60Fps] [林一 卢昱晓 卢洋洋] [爱情 甜宠 破镜重圆]
 
-名称：走马上任 (2026) 4K SDR 更至EP15
+描述：傅识则(林一饰)与云厘(卢昱晓饰)在南芜重逢，作为社恐少女的云厘面对自己的高中"白月光”，在一干人等的助攻下，突破社恐追求傅识则，凭“小太阳”般的光芒打动他，两人甜蜜相恋。后又因认知分歧阴差阳错二人分手，云厘出国，傅识则选择重振旗鼓带队登顶科研领域，待云厘回国后花式追妻，二人终解芥蒂、再续前缘。
 
-描述：该剧讲述了在民国时期，本是兽医的王老五意外成为伏虎县县长，上任后状况不断一路披荆斩棘的荒诞诙谐故事。剧中以小人物为主角，向观众展现了在民国时期小人物铸就的大时代。
+该剧改编自竹已的小说《折月亮》，属“南芜三部曲”终章。
 
-光鸭云盘：https://www.guangyapan.com/s/1964249828423958604_ad5KFI8EdLN_2Dyr
+夸克网盘：https://pan.quark.cn/s/3bad2b055f1d
 
-百度网盘：https://pan.baidu.com/s/1fwh_o_BDE40PJ91zKljv9g?pwd=1111 来自：综合网盘资源频道 [2026-11-07 12:34] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至15集]
+📁 大小：4.8 GB
 
-夸克网盘：https://pan.quark.cn/s/3037f180af06 来自：综合网盘资源频道 [2026-11-07 12:34] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至15集]
+🏷 标签：#折月亮 #剧情 #爱情 #4K #HDR #高码率 #60Fps #甜宠 #破镜重圆 #林一 #卢昱晓 #卢洋洋 #quark
 
-迅雷网盘：https://pan.xunlei.com/s/VP5f9lb0cgbNCyk2_TYx1bK_A1?pwd=vdd3 来自：综合网盘资源频道 [2026-11-07 12:34] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至15集]
+<img src="tg_media/2605109003/折月亮_2026_更新至_第_08_集.jpg" width="600" />
 
-光鸭云盘：https://www.guangyapan.com/s/1964246279816294429_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-07 12:34] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至15集]
 
-夸克网盘：https://pan.quark.cn/s/b39d06fea506 来自：最新电影,电视剧,动漫|夸克网盘资源 [2026-11-07 12:23] 名称：走马上任 (2026) 4K HDR 高码率 DDP2.0+HiFi 中字【3.4GB/集】更15集，王小利/赵本山
+## Doctor
+[2026-11-07 20:26] 来自：综合网盘资源频道
 
-迅雷网盘：https://pan.xunlei.com/s/VP5jnI-Rj-ZHa1rWQxUtoZVIA1?pwd=qfef 来自：综合网盘资源频道 [2026-11-07 07:22] 名称：走马上任 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至13集]
+名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026) 【更新至09集】【1080p】【韩语中字】【网飞韩剧】
 
-📁 大小：
+描述： 在一间充斥着自负与腐败的医院里，一名神秘却医术高超的外科医生现身。她不顾重重阻挠，接手一个又一个看似无解的病例。
 
-🏷 标签：#走马上任 #剧情 #喜剧 #4K #SDR #guangyapan
+该剧改编自日本电视剧《X医生：外科医生大门未知子》。
 
-<img src="tg_media/2605109003/走马上任_2026.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/bc65b13ec5d7
 
+百度网盘：https://pan.baidu.com/s/1FTZh5AJ6EjUh51BFoKeSFA?pwd=2gx7 来自：综合网盘资源频道 [2026-11-07 15:02] 名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026)【更09集】【NF.1080p】【内封简繁】【金智媛/李姃垠】【剧情】
 
-## 莫语者
-[2026-11-07 12:56] 来自：综合网盘资源频道
+夸克网盘：https://pan.quark.cn/s/bb80dc0cc82a 来自：综合网盘资源频道 [2026-11-07 15:02] 名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026)【更09集】【NF.1080p】【内封简繁】【金智媛/李姃垠】【剧情】
 
-名称：莫语者/非常营救(2026)【32集全】【4K.SDR】【黎明/张丰毅】【战争/悬疑】
+迅雷网盘：https://pan.xunlei.com/s/VP3efxIKnVklZ7RAIReHbKx_A1?pwd=bsic 来自：综合网盘资源频道 [2026-11-07 15:02] 名称：Doctor X：白色黑手党时代 DoctorX:하얀 마피아의 시대 (2026)【更09集】【NF.1080p】【内封简繁】【金智媛/李姃垠】【剧情】
 
-描述：卫天因恐怖袭击失去妻女后，隐姓埋名来到安提洛卡里斯，组建民间安保小队“莫语者”，为身处异国的华人同胞提供保护。
+📁 大小：NA
 
-链接：
+🏷 标签：#金智媛 #白色黑手党时代 #1080p #quark
 
-迅雷网盘：https://pan.xunlei.com/s/VP4SKBlqdzzQ9q6EkX7Q5r-_A1?pwd=q3cf
+<img src="tg_media/2605109003/Doctor_X_白色黑手党时代_DoctorX_2026.jpg" width="600" />
 
-百度网盘：https://pan.baidu.com/s/1g6yx003aw1_Iqju3P_mBGQ?pwd=yj7r
 
-夸克网盘：https://pan.quark.cn/s/ef74950fe48a
+## 伟大的长征
+[2026-11-07 20:22] 来自：综合网盘资源频道
 
-📁 大小：1G
+名称：伟大的长征 (2026) [WEB-4K] [国语中字] [更至53集]
 
-🏷 标签：#黎明 #李凯馨 #杨玏 #张丰毅 #莫语者 #4K #WEBDL #非常营救 #SDR #战争 #悬疑 #xunlei #baidu #quark
+描述：1934年，日本帝国主义加紧了对中国的侵略，而蒋介石不顾民族危亡，坚持“攘外必先安内”的政策，发动了规模最大的第五次“围剿”。生死存亡之际，中国工农红军主力被迫实行战略性转移，撤离长江南北各苏区。平均年龄不到30岁的红军队伍犹如一条条红色铁流，经过11个省，翻越18座大 山，跨过24条大河，走过荒草地，翻过雪山，行程二万五千里。直到1936年10月红军三大主力会师，红军长征胜利结束。
 
-<img src="tg_media/2605109003/莫语者_非常营救_2026.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/ee44d4695d12
 
+百度网盘：https://pan.baidu.com/s/1GWP8LAhO_rJVeGmrgbGXrg?pwd=1111
 
-## 择日飞升
-[2026-11-07 12:47] 来自：综合网盘资源频道
+迅雷网盘：https://pan.xunlei.com/s/VP5kW_M1WT-zHGFBjMns3kpEA1?pwd=sanm
 
-名称：择日飞升 (2026) 4K WEB-DL 2160p HDR 第19集
+光鸭云盘：https://www.guangyapan.com/s/1964687339159879695_aeWiyJwocgzRgCVm
 
-描述：乱世之下，妖祟横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间……
+百度网盘：https://pan.baidu.com/s/19tJ_a_TO1sFHEEpAQSdNoA?pwd=E9kx 来自：综合网盘资源频道 [2026-11-07 20:20] 名称：伟大的长征(2026)4K 10bit 60FPS FLAC无损HiFi声 更至EP53
 
-夸克网盘：https://pan.quark.cn/s/37df8294b943
+夸克网盘：https://pan.quark.cn/s/1db4de49913d 来自：综合网盘资源频道 [2026-11-07 20:20] 名称：伟大的长征(2026)4K 10bit 60FPS FLAC无损HiFi声 更至EP53
 
-百度网盘：https://pan.baidu.com/s/1y8JKmLwZG0VkNZBBnI7RcQ?pwd=Qiye
+📁 大小：N/A
 
-光鸭云盘：https://www.guangyapan.com/s/1946155150916444257_aeWYeSwV3ZOZlzEy
+🏷 标签：#剧情 #历史 #战争 #伟大的长征 #4K #国语中字 #quark #baidu #xunlei #guangyapan
 
-夸克网盘：https://pan.quark.cn/s/dead97b7c49c 来自：综合网盘资源频道 [2026-11-07 12:05] 名称：择日飞升 (2026) 4K.更新至19集
+<img src="tg_media/2605109003/伟大的长征_2026.jpg" width="600" />
 
-📁 大小：6.24GB
 
-🏷 标签：#择日飞升 #4K #WEBDL #2160p #HDR #quark #baidu #guangyapan
+## 谷雨
+[2026-11-07 20:01] 来自：综合网盘资源频道
 
-<img src="tg_media/2605109003/择日飞升_2026.jpg" width="600" />
+名称：谷雨(2026)4K 10bit 60FPS 内封简中 更至EP08
 
+描述：鹏州市一著名集团公司的财务人员，在电梯井“意外”坠亡了。她生前的最后联人——服装企业老板闫平安对此感到了极度恐慌。刑警出身的闫平安凭借直觉和经验，认定这场意外是该集团总裁何东平，对其二人展开灭口的信号……面对如困兽般的绝境，闫平安九死一生地逃到北京，寻找时任国税总局稽查处处长的旧...
 
-## 今天是太阳雨
-[2026-11-07 12:37] 来自：综合网盘资源频道
+夸克网盘：https://pan.quark.cn/s/dfce1e27bfe7
 
-名称：今天是太阳雨 (2026)剧情 爱情 杨超越 4K高码 更新06集
+百度网盘：https://pan.baidu.com/s/1xxpISRDnS9aWw3WMD8LYVA?pwd=g7fg
 
-描述：生活困苦的生物系学生郑雨为了能够摆脱生活困境，在辛苦兼职支付母亲药费和还债的同时，努力争取学校“生机奖”奖学金。然而大三新学期开学不久，因病休学一年的陈砚周空降成为了生物系的专业第一名。郑雨视他为竞争对手，却又不得不多次与他合作力求共赢。两人在相处过程中，逐渐感受到彼此看似冷漠的外表下包裹着温暖的心。
+阿里云盘：https://www.alipan.com/s/DrMZ3XEc4KR 来自：综合网盘资源频道 [2026-11-07 19:46] 名称：谷雨(2026) 4K 更新至08集
 
-夸克网盘：https://pan.quark.cn/s/b62d0966fa71
+夸克网盘：https://pan.quark.cn/s/6f9fa1aa49dc 来自：综合网盘资源频道 [2026-11-07 19:30] 名称：谷雨 (2026) 4K.更新至8集
 
-百度网盘：https://pan.baidu.com/s/1NOL6tu3lsFauWM00Z5DHuQ?pwd=6666
+百度网盘：https://pan.baidu.com/s/1qUxv8dwuQob6JAYxq6xi-w?pwd=4kH3 来自：综合网盘资源频道 [2026-11-07 19:19] 名称：谷雨(2026) 更新至08集
 
-提取码：6666
+光鸭云盘：https://www.guangyapan.com/s/1965385260482301998_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-11-07 18:38] 名称：谷雨 (2026)剧情 悬疑 犯罪 井柏然 孙艺洲 张颂文 4KHQHD60FPS 更新08集
 
-光鸭云盘：https://www.guangyapan.com/s/1965654854170177578_aeWnPia0Twth-NLu
+迅雷网盘：https://pan.xunlei.com/s/VP5ehSIRdDmTGQXKvbZy6gbLA1?pwd=26zs 来自：综合网盘资源频道 [2026-11-07 18:17] 名称：谷雨 (2026) [WEB-4K] [国语中字] [更至8集]
 
-百度网盘：https://pan.baidu.com/s/168fKRPzs7UF3TqL60mSKkQ?pwd=1111 来自：综合网盘资源频道 [2026-11-07 12:24] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [更至6集]
+光鸭云盘：https://www.guangyapan.com/s/1965349439733612612_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-07 18:17] 名称：谷雨 (2026) [WEB-4K] [国语中字] [更至8集]
 
-夸克网盘：https://pan.quark.cn/s/795b9ed24bad 来自：综合网盘资源频道 [2026-11-07 12:24] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [更至6集]
+📁 大小：1G/集
 
-迅雷网盘：https://pan.xunlei.com/s/VP5j99eSx37fwfLPlqsRQuz2A1?pwd=mpxa 来自：综合网盘资源频道 [2026-11-07 12:24] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [更至6集]
+🏷 标签：#谷雨 #井柏然 #张颂文 #剧情 #4K #10bit #60FPS #内封简中 #quark #baidu
 
-光鸭云盘：https://www.guangyapan.com/s/1965662144155742272_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-07 12:24] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [更至6集]
+<img src="tg_media/2605109003/谷雨_2026.jpg" width="600" />
 
-📁 大小：5G
 
-🏷 标签：#今天是太阳雨 #4K #剧情 #爱情 #杨超越 #4K高码 #quark #baidu #guangyapan
+## 尚公主
+[2026-11-07 19:59] 来自：综合网盘资源频道
 
-<img src="tg_media/2605109003/今天是太阳雨_2026.jpg" width="600" />
+名称：尚公主(2026)4K 10bit 60FPS 杜比全景声 更至EP31
 
+描述：剧集讲述了不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚携手共筑清平天下的故事，在层层爽点中打造极致人设，看乱世惊涛中少年人们搅动风云，奔赴理想。
 
-## 贵妃欺人太甚
-[2026-11-07 12:15] 来自：综合网盘资源频道
+夸克网盘：https://pan.quark.cn/s/f8db55e37171
 
-名称：贵妃欺人太甚 (2026) 4K SDR 更至EP15
+百度网盘：https://pan.baidu.com/s/1M-qFAAgHc4hbxAdRb9A53w?pwd=h5v8
 
-描述：傅容被迫入宫，诞下一名哑女，母女俩在深宫中相依为命。然而，女儿意外撞破贵妃秘辛而遭灭口，令傅容决心复仇。她借助昔日恋人太医的力量步步布局，将美嫔、贵妃乃至皇室卷入一场复仇之局。
+光鸭云盘：https://www.guangyapan.com/s/1962395903483527231_aeWyYGMH80b6bD4M 来自：光鸭云盘资源频道 [2026-11-07 19:46] 名称：尚公主(2026)【更至30集】【4K.HDR/4K】【内嵌简中】【孟子义/李昀锐】【剧情/古装】
 
-光鸭云盘：https://www.guangyapan.com/s/1964603414303547462_ad5KFI8EdLN_2Dyr
+阿里云盘：https://www.alipan.com/s/HHan9VcfAVS 来自：综合网盘资源频道 [2026-11-07 19:40] 名称：尚公主(2026) 4K 更新至30集
 
-📁 大小：
+夸克网盘：https://pan.quark.cn/s/1704f180480e 来自：综合网盘资源频道 [2026-11-07 19:31] 名称：尚公主 (2026) 4K SDR HDR DV杜比视界 高码率 DDP5.1+HiFi 中字 更31集，孟子义/李昀锐
 
-🏷 标签：#贵妃欺人太甚 #剧情 #4K #SDR #guangyapan
+百度网盘：https://pan.baidu.com/s/1Itm90xRcsfXT5mwjtPEWjg?pwd=Y25r 来自：百度网盘综合频道 [2026-11-07 18:47] 名称：尚公主（2026）4K 60FPS S01E01 - E30 杜比全景声 HIFI声
 
-<img src="tg_media/2605109003/贵妃欺人太甚_2026.jpg" width="600" />
+迅雷网盘：https://pan.xunlei.com/s/VP5pHWPI8RHPgq4pC4MUV3LHA1?pwd=yevd 来自：综合网盘资源频道 [2026-11-07 18:40] 名称：尚公主 (2026) [WEB-4K] [国语中字] [更至31集]
 
+光鸭云盘：https://www.guangyapan.com/s/1960678175483256861_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-07 18:40] 名称：尚公主 (2026) [WEB-4K] [国语中字] [更至31集]
 
-## 光阴之外
-[2026-11-07 12:15] 来自：夸克云盘影视资源频道
+📁 大小：2G/集
 
-名称：光阴之外（2025）4K HQ S01E01 - E47
+🏷 标签：#尚公主 #孟子义 #李昀锐 #剧情 #爱情 #古装 #4K #10bit #60FPS #杜比全景声 #quark #baidu
 
-描述：天地是万物众生的客舍，光阴是古往今来的过客。苍天残面张开诡异之眼，所视之处生灵涂炭，化为永恒的禁区。末世之中，因果随行，死地后生。
+<img src="tg_media/2605109003/尚公主_2026.jpg" width="600" />
 
-夸克网盘：https://pan.quark.cn/s/c0335c85e399
 
-夸克网盘：https://pan.quark.cn/s/c4c74ad5a741 来自：综合网盘资源频道 [2026-11-07 12:08] 名称：光阴之外 (2025) 4K.更新至47集
+## 玫瑰战争
+[2026-11-07 19:56] 来自：综合网盘资源频道
 
-百度网盘：https://pan.baidu.com/s/1Cq6P1zdglDcU2huDbDMGXg?pwd=6666 来自：综合网盘资源频道 [2026-11-07 10:38] 名称：光阴之外 (2025)奇幻 武侠 古装 4KHQHDR10 更新47集
+名称：玫瑰战争(2026)4K 10bit 60FPS 国粤双语 更至EP06
 
-光鸭云盘：https://www.guangyapan.com/s/1947869936860246085_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-11-07 10:38] 名称：光阴之外 (2025)奇幻 武侠 古装 4KHQHDR10 更新47集
+描述：影后关子盈(陈自瑶 饰)「自杀」七年后，其挚友夏无双(杨茜尧 饰)意外获得子盈的日记，惊悉她当年疑遭「好姊妹」黎绮云(林夏薇 饰)、蓝凤仪(姚子羚 饰)、梁菲雅(傅嘉莉 饰)、林安安(邝洁楹 饰)背叛与加害。
 
-📁 大小：6.9GB
+夸克网盘：https://pan.quark.cn/s/72e56a03bc70
 
-🏷 标签：#剧情 #光阴之外
+百度网盘：https://pan.baidu.com/s/1nq3qDR1OGD1yneFx4mJy9A?pwd=pjt2
 
-<img src="tg_media/1959723113/光阴之外_2025.jpg" width="600" />
+阿里云盘：https://www.alipan.com/s/iqaBvcdAw5H 来自：综合网盘资源频道 [2026-11-07 19:43] 名称：玫瑰战争(2026) 国粤双语 4K 更新至05集
 
+夸克网盘：https://pan.quark.cn/s/4e16cb4531cd 来自：综合网盘资源频道 [2026-11-07 19:31] 名称：玫瑰战争 (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 国粤双语 中字 更06集，杨茜尧/陈豪，玫瑰戰爭
 
-## 三十六计杀
-[2026-11-07 12:10] 来自：综合网盘资源频道
+百度网盘：https://pan.baidu.com/s/1TUGg49XeZyi-W_4D-nPlzg?pwd=6ihy 来自：百度网盘综合频道 [2026-11-07 19:02] 名称：玫瑰战争（2026）4K 60FPS S01E01 - E06 国粤双语
 
-名称：三十六计杀 (2026) 4K SDR 更至EP10
+光鸭云盘：https://www.guangyapan.com/s/1965853498638983213_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-07 18:50] 名称：玫瑰战争 (2026) 4K SDR 更至EP06
 
-描述：颜子洲奉命调查海峡指挥塔遭撞事件，却在此时得知妹妹小小意外坠楼。他与宗小权及小小失散多年的双胞胎姐姐黎璃联手协助警方调查，逐步揭开十八年前父母遇害案的真相，并将幕后主使绳之以法。
+迅雷网盘：https://pan.xunlei.com/s/VP5kk2N8p3s5ZzPewzjuxm6HA1?pwd=beyq 来自：影视动漫分享|SeedHub|夸克|网盘|🧲 [2026-11-07 15:10] 名称：玫瑰战争 (2026)
 
-光鸭云盘：https://www.guangyapan.com/s/1965411266077253709_ad5KFI8EdLN_2Dyr
+迅雷网盘：https://pan.xunlei.com/s/VP5ktMBFp3s5ZzPewzjv6AMFA1?pwd=54zk 来自：综合网盘资源频道 [2026-11-07 14:23] 名称：玫瑰战争 玫瑰戰爭 (2026)【更04集】【4K.HDR】【高码率】【内嵌简中】【国粤双语】
 
-📁 大小：
+📁 大小：1.5G/集
 
-🏷 标签：#三十六计杀 #4K #SDR #guangyapan
+🏷 标签：#玫瑰战争 #杨茜尧 #陈豪 #剧情 #4K #10bit #60FPS #国粤双语 #quark #baidu
 
-<img src="tg_media/2605109003/三十六计杀_2026.jpg" width="600" />
+<img src="tg_media/2605109003/玫瑰战争_2026.jpg" width="600" />
 
 
-## 续面BRAVO
-[2026-11-07 12:10] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
+## 折月亮
+[2026-11-07 19:55] 来自：综合网盘资源频道
 
-名称：续面BRAVO！ (2026)
+名称：折月亮(2026)IQ 4K 杜比全景声 内封简中 更至EP08
 
-#电视剧 #剧情 #夸克
+描述：人人都爱月亮，谁又曾摘取月光？外人面前严重社恐的少女云厘为向父亲证明自己能够独立生活，报考了南芜的研究生，并在开学前夕接受南芜当地一家VR体验馆的邀请，以视频UP主的身份参与体验活动，重遇高中时期被她当作白月光贴在床头的天才少年傅识则。
 
-主演: 北香那 天野花 驹木根葵汰 
+夸克网盘：https://pan.quark.cn/s/98deb33b1cbb
 
-豆瓣: [7.1](https://movie.douban.com/subject/37522831/)
+百度网盘：https://pan.baidu.com/s/10TXOK9sByDsng1gHG61ZpQ?pwd=j1B7
 
-本剧是由编剧岸本鮎佳以“友情”为主题创作的、略带暗黑风格的成人喜剧。故事描绘了在广告代理公司工作的千本佳里奈（北香那饰）与职业芭蕾舞者二木优美（天野花饰）之间的友情..
+阿里云盘：https://www.alipan.com/s/F9bsNLMbVpC 来自：综合网盘资源频道 [2026-11-07 19:42] 名称：折月亮(2026) 4K 更新至08集
 
-夸克网盘：https://pan.quark.cn/s/a76a96d7bedd
+光鸭云盘：https://www.guangyapan.com/s/1965474190049259580_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-07 18:50] 名称：折月亮 (2026) 4K SDR 更至EP08
 
-<img src="tg_media/2455883223/续面BRAVO_2026.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/225747c6d0b9 来自：夸克云盘影视资源频道 [2026-11-07 18:36] 名称：折月亮 (2026)剧情 爱情 林一 卢昱晓 4KHDR 更新08集
 
+百度网盘：https://pan.baidu.com/s/1q1SodX91YZgtEtXYoBMIIA?pwd=6666 来自：综合网盘资源频道 [2026-11-07 18:35] 名称：折月亮 (2026)剧情 爱情 林一 卢昱晓 4KHDR 更新08集
 
-## 巨蛇闯体校
-[2026-11-07 12:10] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
+光鸭云盘：https://www.guangyapan.com/s/1965385040654630917_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-11-07 18:35] 名称：折月亮 (2026)剧情 爱情 林一 卢昱晓 4KHDR 更新08集
 
-名称：巨蛇闯体校 (2026)
+迅雷网盘：https://pan.xunlei.com/s/VP5pGApuuQnEyDkXxGKQ_eApA1?pwd=pmda 来自：综合网盘资源频道 [2026-11-07 18:02] 名称：折月亮 (2026) [WEB-4K] [国语中字] [更至8集]
 
-#电影 #灾难 #剧情 #夸克 #迅雷 #百度
+迅雷网盘：https://pan.xunlei.com/s/VP5n8R5ukj3lyf0FXddU27hsA1?pwd=nqvz 来自：综合网盘资源频道 [2026-11-07 13:20] 名称：折月亮(2026)【更06集】【4K.HDR】【高码率】【内封简中】【剧情/爱情】【林一/卢昱晓】
 
-主演: 
+📁 大小：1.2G/集
 
-豆瓣: [0](https://movie.douban.com/subject/38433353/)
+🏷 标签：#折月亮 #林一 #卢昱晓 #剧情 #4K #杜比全景声 #内封简中 #quark #baidu
 
-黑市蛇酒厂活剥蛇胆，激起滔天蛇怨。一条变异双头巨蛇破缸而出，血洗为富不仁的权贵后，杀进附近的体育学校！看台变地狱，操场成猎场。曾因反抗不公被陷害退役的教练徐骆，与屡..
+<img src="tg_media/2605109003/折月亮_2026.jpg" width="600" />
 
-夸克网盘：https://pan.quark.cn/s/92daa5fe2b64
 
-迅雷网盘：https://pan.xunlei.com/s/VP5aTCX7ANBPCp8GZNh6AIPGA1?pwd=u8aa
+## 悬案解码
+[2026-11-07 19:55] 来自：光鸭云盘资源频道
 
-百度网盘：https://pan.baidu.com/s/1KJMZidgVAJOTjuBiL6twNg?pwd=9527
+名称：悬案解码 第一季(2025)【9集全】【4K.高码率】【杜比全景声】内封简繁英】
 
-<img src="tg_media/2455883223/巨蛇闯体校_2026.jpg" width="600" />
+描述：豆瓣8.5高分
+
+一场暴力事件使总警督Carl Morck（马修·古迪 饰）的人生天翻地覆，并留下精神创伤，他被委派去建立被称为"Department Q"的悬案小组。起初，理想破灭的他乐得在这里浪费时间，但作为警察的直觉最终觉醒，他的新部门深深吸引了很多不合群的人、特立独行者。
+
+光鸭云盘：https://www.guangyapan.com/s/1966134087464120354_aeWyYGMH80b6bD4M
+
+📁 大小：48GB
+
+🏷 标签：悬案解码 #4K #HDR #高码率 #杜比全景声
+
+<img src="tg_media/3823033527/悬案解码_第一季_2025.jpg" width="600" />
+
+
+## 谷雨2026
+[2026-11-07 19:40] 来自：综合网盘资源频道
+
+名称：《谷雨》2026 更新至 - 第 08 集 - [4K HDR 高码率] [60Fps] [井柏然 孙艺洲 张颂文] [犯罪 悬疑 涉税]
+
+描述：1994年，春江市税务局稽查员欧阳旭(井柏然饰)与刑警严平安(孙艺洲饰)、寻妻的周海洋(张颂文饰)三人因一起假发票案识于微时，携手屡破税案，但时代的发展和遭遇的不同，将三人推向不同的命运，三人也因各自的性格和追求作出了不同的选择，最终渐行渐远，由正邪的立场发展出迥异的命运轨迹。而今，他们的命运又因“谷雨”行动再次交汇，曾经的兄弟成为了如今的对手，在情与理之间，欧阳旭与以周海洋为首的骗税团伙以及深不见底的“保护伞”展开层层较量，由一张张小小发票，揭开贪婪私欲，最终以一场稽查风暴荡涤污秽，让正义重构社会清明。
+
+夸克网盘：https://pan.quark.cn/s/a09e7e3d374b
+
+📁 大小：5.1 GB
+
+🏷 标签：#谷雨 #剧情 #犯罪 #悬疑 #4K #HDR #高码率 #60Fps #井柏然 #孙艺洲 #张颂文 #quark
+
+<img src="tg_media/2605109003/谷雨_2026_更新至_第_08_集.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
