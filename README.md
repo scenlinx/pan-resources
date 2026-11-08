@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">245</td><td align="center">2026-11-08</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">802</td><td align="center">2026-11-08</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">102</td><td align="center">2026-11-08</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">28</td><td align="center">2026-11-08</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">305</td><td align="center">2026-11-08</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">815</td><td align="center">2026-11-08</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">113</td><td align="center">2026-11-08</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">29</td><td align="center">2026-11-08</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
 <tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">132</td><td align="center">2026-11-08</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">22</td><td align="center">2026-11-08</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">44</td><td align="center">2026-11-08</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1355</td><td align="center">2026-11-08</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">381</td><td align="center">2026-11-08</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">24</td><td align="center">2026-11-08</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">47</td><td align="center">2026-11-08</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1381</td><td align="center">2026-11-08</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">385</td><td align="center">2026-11-08</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,258 +24,284 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
+## 伟大的长征2026
+[2026-11-08 20:51] 来自：综合网盘资源频道
+
+名称：《伟大的长征》2026 更新至 - 第 54 集 - [4K HDR] [高码率] [于和伟 王劲松 何政军] [重大革命 历史史诗 红色主旋律]
+
+描述：该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温度的革命故事，弘扬伟大的长征精神。
+
+1934年，日本帝国主义加紧了对中国的侵略，而蒋介石不顾民族危亡，坚持“攘外必先安内”的政策，发动了规模最大的第五次“围剿”。生死存亡之际，中国工农红军主力被迫实行战略性转移，撤离长江南北各苏区。平均年龄不到30岁的红军队伍犹如一条条红色铁流，经过11个省，翻越18座大 山，跨过24条大河，走过荒草地，翻过雪山，行程二万五千里。直到1936年10月红军三大主力会师，红军长征胜利结束。
+
+夸克网盘：https://pan.quark.cn/s/215d2fe90b8c
+
+📁 大小：89.7 GB
+
+🏷 标签：#伟大的长征 #剧情 #历史 #战争 #红色 #革命 #4K #HDR #高码率 #于和伟 #王劲松 #何政军 #quark
+
+<img src="tg_media/2605109003/伟大的长征_2026_更新至_第_54_集.jpg" width="600" />
+
+
 ## 走马上任
-[2026-11-08 12:50] 来自：综合网盘资源频道
+[2026-11-08 20:51] 来自：光鸭云盘资源频道
 
-名称：走马上任 (2026) 4K SDR 更至EP17
+名称：走马上任 (2026)
 
-描述：该剧讲述了在民国时期，本是兽医的王老五意外成为伏虎县县长，上任后状况不断一路披荆斩棘的荒诞诙谐故事。剧中以小人物为主角，向观众展现了在民国时期小人物铸就的大时代。
+📁 类型：国产剧集
 
-光鸭云盘：https://www.guangyapan.com/s/1964249828423958604_ad5KFI8EdLN_2Dyr
+🖥️ 画质：2160p
 
-夸克网盘：https://pan.quark.cn/s/93cf7e515d35 来自：最新电影,电视剧,动漫|夸克网盘资源 [2026-11-08 12:25] 名称：走马上任 (2026) 4K HDR 高码率 DDP2.0+HiFi 中字【3.4GB/集】更17集，王小利/赵本山
+🎥 视频：WEB-DL.HDR.H.265
 
-百度网盘：https://pan.baidu.com/s/1wVHggco703HgoyyOOO9zEQ?pwd=1111 来自：综合网盘资源频道 [2026-11-08 12:16] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至17集]
+🔊 音频：AAC
 
-夸克网盘：https://pan.quark.cn/s/b35dd354786c 来自：综合网盘资源频道 [2026-11-08 12:16] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至17集]
+📦 大小：32.2 GB
 
-迅雷网盘：https://pan.xunlei.com/s/VP5tMK3XZrvB4oVbTp2oXZ1_A1?pwd=djcx 来自：综合网盘资源频道 [2026-11-08 12:16] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至17集]
+📼 集数：E01-E16
 
-光鸭云盘：https://www.guangyapan.com/s/1964246279816294429_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-08 12:16] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至17集]
+🔄 状态：更新中
 
-百度网盘：https://pan.baidu.com/s/1dRRLKaigB1BdIgndCDT7Dg?pwd=rd6i 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-08 12:09] 名称：走马上任（2026） 更新至1集 王小利 赵本山 程野
+🔗 链接：
 
-阿里云盘：https://www.alipan.com/s/PDsCBXAXHhR 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-08 12:09] 名称：走马上任（2026） 更新至1集 王小利 赵本山 程野
+光鸭云盘：https://www.guangyapan.com/s/1965038043581968476_adyPbY8EdLN_2AZv
 
-UC网盘：https://drive.uc.cn/s/080fee9d9d534 来自：综合网盘资源频道 [2026-11-08 11:35] 名称：走马上任 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP15】【王小利/蒋依杉】又名：小五当官之走马上任
+百度网盘：https://pan.baidu.com/s/16_mYGPnyrPd3mcM4yKyH7A?pwd=Qiye 来自：综合网盘资源频道 [2026-11-08 20:35] 名称：走马上任(2026)4k WEB-DL 60Fps MAXPLUS HDRVivid简体字幕 第17集
 
-📁 大小：
+夸克网盘：https://pan.quark.cn/s/6e3209be7817 来自：综合网盘资源频道 [2026-11-08 20:35] 名称：走马上任(2026)4k WEB-DL 60Fps MAXPLUS HDRVivid简体字幕 第17集
 
-🏷 标签：#走马上任 #剧情 #喜剧 #4K #SDR #guangyapan
+光鸭云盘：https://www.guangyapan.com/s/1964599959170117643_aeWYeSwV3ZOZlzEy 来自：综合网盘资源频道 [2026-11-08 20:35] 名称：走马上任(2026)4k WEB-DL 60Fps MAXPLUS HDRVivid简体字幕 第17集
 
-<img src="tg_media/2605109003/走马上任_2026.jpg" width="600" />
+阿里云盘：https://www.alipan.com/s/qUmw57iEiEQ 来自：综合网盘资源频道 [2026-11-08 20:22] 名称：走马上任(2026) 4K 更新至17集
+
+百度网盘：https://pan.baidu.com/s/1pjUjZiQZIE8xJUiQmcZSiQ?pwd=8bRe 来自：综合网盘资源频道 [2026-11-08 17:23] 名称：走马上任(2026) 4K 更新至17集
+
+迅雷网盘：https://pan.xunlei.com/s/VP5q8ugcgESwDbYxe-4BYfPdA1?pwd=dc7e 来自：综合网盘资源频道 [2026-11-08 17:11] 名称：走马上任(2026) 4K 更新至17集
+
+夸克网盘：https://pan.quark.cn/s/ab83620cf8d0 来自：综合网盘资源频道 [2026-11-08 16:02] 名称：走马上任 (2026) 4K HDR 高码率 DDP2.0+HiFi 中字 更17集，王小利/赵本山
+
+迅雷网盘：https://pan.xunlei.com/s/VP5jUZLpx37fwfLPlqsRmW81A1?pwd=e4td 来自：综合网盘资源频道 [2026-11-08 15:52] 名称：走马上任 小五当官之走马上任(2026)【4K.HDR.60fps】【内封简中】【更17集】【剧情/喜剧】【王小利/蒋依杉】
+
+阿里云盘：https://www.alipan.com/s/YCX5uwXexmz 来自：综合网盘资源频道 [2026-11-08 15:21] 名称：走马上任 (2026) 4K HDR Vivid 60FPS 高码率 [内封中字] [更新17集]
+
+<img src="tg_media/3667471790/走马上任_2026.jpg" width="600" />
 
 
 ## 玫瑰战争
-[2026-11-08 12:44] 来自：综合网盘资源频道
+[2026-11-08 20:50] 来自：综合网盘资源频道
 
-名称：玫瑰战争 玫瑰戰爭 (2026)【更06集】【4K.HDR】【高码率】【内嵌简中】【国粤双语】
+名称：玫瑰战争 (2026) 4K SDR 更至EP07
 
-描述： 一宗骇人的碎尸案，警察刘少杰发现自己太太夏无双是最大嫌疑犯，质疑她杀害富豪李耀天。随着刘少杰深入调查，偶像新星关子盈、金牌经理人苏嘉年、演员安安、名模富太梁菲雅，四位女明星同样有杀人嫌疑。夏无双望着李耀天的遗照，脸上只有冷冽的笑容，只道出一切是他咎由自取。
+描述：影后关子盈(陈自瑶 饰)「自杀」七年后，其挚友夏无双(杨茜尧 饰)意外获得子盈的日记，惊悉她当年疑遭「好姊妹」黎绮云(林夏薇 饰)、蓝凤仪(姚子羚 饰)、梁菲雅(傅嘉莉 饰)、林安安(邝洁楹 饰)背叛与加害。为追查背后真相及复仇，无双以合拍电影《玫瑰》作诱饵，博取娱乐公司老板陈云生(陈豪 饰)的信任，拉拢四女参演。无双连手子盈的秘密情人李德龙(马国明 饰)，并藉复制子盈曾遭遇的连串「意外」，挑起四女互撕……随着子盈被资本势力胁迫致死的真相逐渐浮现，众人光鲜亮丽的伪装瞬间粉碎，暴露出最不堪的人性阴暗面。
 
-原来李耀天在幕后主使其同父异母弟弟李耀诚藉经营酒吧为名，威逼利诱女明星，为富豪贵宾提供性招待服务，满足自己丑陋变态的私欲。
+光鸭云盘：https://www.guangyapan.com/s/1965853498638983213_ad5KFI8EdLN_2Dyr
 
-链接：
+百度网盘：https://pan.baidu.com/s/1KD1w6AoFme4rInQVYt5Kbw?pwd=yptv 来自：综合网盘资源频道 [2026-11-08 20:37] 名称：玫瑰战争 玫瑰的战争 玫瑰戰爭(2026)【4K.HDR.60fps】【国粤双语】【内封简中】【更08集】【剧情】【杨茜尧/陈豪】
 
-百度网盘：https://pan.baidu.com/s/18dYPAKQVlAL3sSD-wYquUQ?pwd=gs60
+夸克网盘：https://pan.quark.cn/s/32f372da5b61 来自：综合网盘资源频道 [2026-11-08 20:37] 名称：玫瑰战争 玫瑰的战争 玫瑰戰爭(2026)【4K.HDR.60fps】【国粤双语】【内封简中】【更08集】【剧情】【杨茜尧/陈豪】
 
-迅雷网盘：https://pan.xunlei.com/s/VP5ktMBFp3s5ZzPewzjv6AMFA1?pwd=54zk
+迅雷网盘：https://pan.xunlei.com/s/VP5qmom97MJJvY0KFSr5kHDjA1?pwd=j4yp 来自：综合网盘资源频道 [2026-11-08 20:37] 名称：玫瑰战争 玫瑰的战争 玫瑰戰爭(2026)【4K.HDR.60fps】【国粤双语】【内封简中】【更08集】【剧情】【杨茜尧/陈豪】
 
-夸克网盘：https://pan.quark.cn/s/5989f0042314
+迅雷网盘：https://pan.xunlei.com/s/VP5q9O99_7rf2TM3Soc4IVXxA1?pwd=uczs 来自：综合网盘资源频道 [2026-11-08 20:37] 名称：玫瑰战争(2026) 国粤双语 4K 更新至07集
 
-📁 大小：5G
+光鸭云盘：https://www.guangyapan.com/s/1965949162727276612_aeAefI8EdLN_2GRB 来自：综合网盘资源频道 [2026-11-08 20:37] 名称：玫瑰战争(2026) 国粤双语 4K 更新至07集
 
-🏷 标签：#玫瑰战争 #玫瑰戰爭 #4K #HDR #高码率 #内嵌简中 #国粤双语 #baidu #xunlei #quark
+阿里云盘：https://www.alipan.com/s/iqaBvcdAw5H 来自：综合网盘资源频道 [2026-11-08 20:26] 名称：玫瑰战争(2026) 国粤双语 4K 更新至07集
 
-<img src="tg_media/2605109003/玫瑰战争_玫瑰戰爭_2026.jpg" width="600" />
+百度网盘：https://pan.baidu.com/s/1TUGg49XeZyi-W_4D-nPlzg?pwd=6ihy 来自：百度网盘综合频道 [2026-11-08 19:12] 名称：玫瑰战争（2026）4K 60FPS S01E01 - E07 国粤双语
 
+夸克网盘：https://pan.quark.cn/s/77e80d21a58c 来自：夸克云盘影视资源频道 [2026-11-08 19:07] 名称：玫瑰战争（2026）4K 60FPS S01E01 - E07 国粤双语
 
-## 娃娃
-[2026-11-08 12:44] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
+📁 大小：
 
-名称：娃娃 (2026)
+🏷 标签：#玫瑰战争 #剧情 #4K #SDR #guangyapan
 
-#电视剧 #爱情 #剧情 #夸克 #百度
-
-主演: 桑德拉·德拉兹马尔斯卡 托马斯·舒查特 马格达莱娜·切莱茨卡 
-
-豆瓣: [0](https://movie.douban.com/subject/37438766/)
-
-故事置于十九世纪末的华沙。满怀勃勃野心的富商斯坦尼斯瓦夫·沃库尔斯基一心向上攀登社会阶梯，对伊莎贝拉·伦茨卡萌生了近乎执迷的爱恋，这份痴恋成为他叩响上流世界大门的契..
-
-夸克网盘：https://pan.quark.cn/s/d3140fad4647
-
-百度网盘：https://pan.baidu.com/s/1eX7XCeXkhvNdQRPsuM_EoA?pwd=68rr
-
-<img src="tg_media/2455883223/娃娃_2026.jpg" width="600" />
-
-
-## 伏魔战神
-[2026-11-08 12:44] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
-
-名称：伏魔战神 (2026)
-
-#电影 #奇幻 #夸克 #迅雷 #百度
-
-主演: 佟乐 裴兴雷 管金麟 
-
-豆瓣: [0](https://movie.douban.com/subject/38187350/)
-
-联盟首领李玄痴迷于斩妖除魔、追求永生，坚信所有凡间妖魔皆为邪恶。一次误伤善良妖魔后，他的永生之路受阻。受邀前往巨克城驱魔，却被魔界九冥神欺骗，九冥神执意要伤害善良妖..
-
-夸克网盘：https://pan.quark.cn/s/65f1e19fc204
-
-迅雷网盘：https://pan.xunlei.com/s/VP-FBY00Opf7wejCSGetg7S4A1?pwd=69t9
-
-百度网盘：https://pan.baidu.com/s/1yV9fBE2DJVBv0WMKLXt14Q?pwd=9527
-
-<img src="tg_media/2455883223/伏魔战神_2026.jpg" width="600" />
-
-
-## 度假法则
-[2026-11-08 12:44] 来自：影视动漫分享|SeedHub|夸克|网盘|🧲
-
-名称：度假法则 (2026)
-
-#电视剧 #剧情 #夸克 #迅雷 #百度
-
-主演: 桥本环奈 蔡钟协 
-
-豆瓣: [0](https://movie.douban.com/subject/38422799/)
-
-在美容诊所高强度工作、身心俱疲的星野绿（桥本环奈饰），因诊所突然倒闭而失业。在哥哥的建议下，她来到已故祖母留下的海边别墅，开启了一段治愈身心的“人生假期”。
-
-..
-
-夸克网盘：https://pan.quark.cn/s/519d787c5ec6
-
-迅雷网盘：https://pan.xunlei.com/s/VOyunsTyaOLvjvdGF9Vu8p1gA1?pwd=g77d
-
-百度网盘：https://pan.baidu.com/s/1V9KrJG6uPaqUAk8theBKRQ?pwd=1111
-
-<img src="tg_media/2455883223/度假法则_2026.jpg" width="600" />
-
-
-## 谷雨
-[2026-11-08 12:43] 来自：综合网盘资源频道
-
-名称：谷雨(2026)4k WEB-DL.DoVi HQ 2160p 杜比视界 简体字幕 第8集
-
-描述：鹏州市一著名集团公司的财务人员，在电梯井“意外”坠亡了。她生前的最后联人——服装企业老板闫平安对此感到了极度恐慌。
-
-夸克网盘：https://pan.quark.cn/s/9b786ef51069
-
-百度网盘：https://pan.baidu.com/s/1DNzHZjNGeImFxaq0ABJpAg?pwd=Qiye
-
-光鸭云盘：https://www.guangyapan.com/s/1965409127129030665_aeWYeSwV3ZOZlzEy
-
-百度网盘：https://pan.baidu.com/s/1XAoklm2_6Qpi9-AN15dwbw?pwd=3t1w 来自：综合网盘资源频道 [2026-11-08 11:38] 名称：谷雨(2026)【更08集】【4K.HDR.HQ】【高码率】【内封简中】【犯罪/悬疑】【井柏然/孙艺洲】
-
-夸克网盘：https://pan.quark.cn/s/d537350d992f 来自：综合网盘资源频道 [2026-11-08 11:38] 名称：谷雨(2026)【更08集】【4K.HDR.HQ】【高码率】【内封简中】【犯罪/悬疑】【井柏然/孙艺洲】
-
-迅雷网盘：https://pan.xunlei.com/s/VP5f_6j7H2C5y6S0-bfKnJMtA1?pwd=nv82 来自：综合网盘资源频道 [2026-11-08 11:38] 名称：谷雨(2026)【更08集】【4K.HDR.HQ】【高码率】【内封简中】【犯罪/悬疑】【井柏然/孙艺洲】
-
-UC网盘：https://drive.uc.cn/s/240118f35b804 来自：综合网盘资源频道 [2026-11-08 11:26] 名称：谷雨 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP08】【井柏然/孙艺洲】
-
-📁 大小：5GB
-
-🏷 标签：#谷雨 #4k #WEBDL #2160p #杜比视界 #简体字幕 #quark #baidu #guangyapan
-
-<img src="tg_media/2605109003/谷雨_2026.jpg" width="600" />
-
-
-## 花开锦绣
-[2026-11-08 12:40] 来自：综合网盘资源频道
-
-名称：花开锦绣 (2026) 4K 全36完结
-
-描述： 豪爽重情、出身草莽却心怀壮志的私盐贩子赵凌，与被诬陷私通而被迫逃亡的世家名媛小姐傅庭芸相识相爱，两人历经家族权谋、朝廷纷争与生死考验，赵凌从江湖草莽成长为朝廷命官，傅庭芸则在逆境中坚守初心。面对家族恩怨、盐政改革危机，他们携手共进，成就一段跨越身份与命运的传奇良缘。
-
-百度网盘：https://pan.baidu.com/s/1uYT8FK_T0i_ceE5Z2tlfeA?pwd=798q
-
-夸克网盘：https://pan.quark.cn/s/b67f71f00c57
-
-迅雷网盘：https://pan.xunlei.com/s/VP5tQAYLccBVDZfizBhNqnCoA1?pwd=k9f4
-
-📁 大小：1.5G＼集
-
-🏷 标签：#古装 #花开锦绣 #4K #全36完结 #baidu #quark #xunlei
-
-<img src="tg_media/2605109003/花开锦绣_2026.jpg" width="600" />
-
-
-## 北境往事
-[2026-11-08 12:36] 来自：综合网盘资源频道
-
-名称：北境往事(2026)【24集全】【4K.SDR】【内嵌简中】【剧情/冒险】
-
-描述：改编自孔二狗的作品《黑道悲情》。
-
-北境双雄，陌路相交，亦敌亦友！刘海柱一腔热血闯江湖，冯子文立足刀尖守道义，周萌乱世寻归途，陈白鸽孤身护挚爱。情义与抉择摆在眼前，是低头求生，还是挺身硬扛？
-
-迅雷网盘：https://pan.xunlei.com/s/VP5dLxgE_RpFKHj3dmO6qoO7A1?pwd=dxac
-
-百度网盘：https://pan.baidu.com/s/17N30mEPKR2HmCx_MHTBQFg?pwd=k2n3
-
-夸克网盘：https://pan.quark.cn/s/21f02f1be4ac
-
-📁 大小：1G
-
-🏷 标签：#北境往事 #4K #SDR #内嵌简中 #剧情 #冒险 #xunlei #baidu #quark
-
-<img src="tg_media/2605109003/北境往事_2026.jpg" width="600" />
+<img src="tg_media/2605109003/玫瑰战争_2026.jpg" width="600" />
 
 
 ## 尚公主
-[2026-11-08 12:34] 来自：综合网盘资源频道
+[2026-11-08 20:40] 来自：综合网盘资源频道
 
-名称：尚公主 (2026) [WEB-4K] [国语中字] [更至31集]
+名称：尚公主 (2026) 4K SDR 更至EP33
 
-描述：该剧改编自伊人睽睽的同名小说。不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚在岭南相逢、于盛安入局，携手步步破局，共筑清平天下的故事。一群少年各怀心事、各有所求，在乱世惊涛中搅动风云，奔赴理想。
+描述：剧集讲述了不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚携手共筑清平天下的故事，在层层爽点中打造极致人设，看乱世惊涛中少年人们搅动风云，奔赴理想。
 
-夸克网盘：https://pan.quark.cn/s/ce31338bede9
+光鸭云盘：https://www.guangyapan.com/s/1960688376844259422_ad5KFI8EdLN_2Dyr
 
-百度网盘：https://pan.baidu.com/s/1NRPQZsZapRaJ_eweW5Acag?pwd=1111
+迅雷网盘：https://pan.xunlei.com/s/VP5e_qs08BJYWnam0MI4iJoBA1?pwd=auuj 来自：综合网盘资源频道 [2026-11-08 20:34] 名称：尚公主(2026) 4K 更新至32集
 
-迅雷网盘：https://pan.xunlei.com/s/VP5pHWPI8RHPgq4pC4MUV3LHA1?pwd=yevd
+光鸭云盘：https://www.guangyapan.com/s/1960729153448316954_aeAefI8EdLN_2GRB 来自：综合网盘资源频道 [2026-11-08 20:34] 名称：尚公主(2026) 4K 更新至32集
 
-光鸭云盘：https://www.guangyapan.com/s/1960678175483256861_aeWiyJwocgzRgCVm
+夸克网盘：https://pan.quark.cn/s/236adc0a7d6a 来自：综合网盘资源频道 [2026-11-08 20:29] 名称：尚公主 (2026) 4K SDR HDR DV杜比视界 高码率 DDP5.1+HiFi 中字 更33集，孟子义/李昀锐
 
-UC网盘：https://drive.uc.cn/s/3c85c9bc72db4 来自：综合网盘资源频道 [2026-11-08 11:26] 名称：尚公主 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP31】【孟子义/李昀锐】
+阿里云盘：https://www.alipan.com/s/C1btCEEik6c 来自：综合网盘资源频道 [2026-11-08 20:19] 名称：尚公主(2026) 4K 更新至32集
 
-百度网盘：https://pan.baidu.com/s/1e9SA0wkEPMlVg7UGVvvIIw?pwd=8888 来自：综合网盘资源频道 [2026-11-08 11:26] 名称：尚公主 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP31】【孟子义/李昀锐】
+百度网盘：https://pan.baidu.com/s/1pSkQ6SF_NI12RFZFHhQNeg?pwd=Qiye 来自：综合网盘资源频道 [2026-11-08 19:03] 名称：尚公主(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第32集
 
-夸克网盘：https://pan.quark.cn/s/b32ba6a0eaaf 来自：综合网盘资源频道 [2026-11-08 11:26] 名称：尚公主 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP31】【孟子义/李昀锐】
+夸克网盘：https://pan.quark.cn/s/e341b873fe0a 来自：综合网盘资源频道 [2026-11-08 19:03] 名称：尚公主(2026)4k WEB-DL.DoVi 2160p 杜比视界 简体字幕 第32集
 
-📁 大小：N/A
+百度网盘：https://pan.baidu.com/s/15TJcLzw9HGQWc19iNq9gDg?pwd=6666 来自：综合网盘资源频道 [2026-11-08 18:58] 名称：尚公主 (2026)剧情 爱情 古装 孟子义 4KHD60FPS 更新32集
 
-🏷 标签：#剧情 #爱情 #古装 #尚公主 #4K #国语中字 #quark #baidu #xunlei #guangyapan
+迅雷网盘：https://pan.xunlei.com/s/VP5kP_-QH2C5y6S0-bfPOGO8A1?pwd=xq6p 来自：综合网盘资源频道 [2026-11-08 18:34] 名称：尚公主(2026)【4K.HDR.60fps】【内封简中】【更33集】【爱情/古装】【孟子义/李昀锐】
+
+阿里云盘：https://www.alipan.com/s/6cBJ3Aan3CN 来自：综合网盘资源频道 [2026-11-08 14:11] 名称：尚公主 (2026) 4K 高码率 [DV&HDR] [更新31集]
+
+📁 大小：233.4G
+
+🏷 标签：#尚公主 #剧情 #4K #SDR #guangyapan
 
 <img src="tg_media/2605109003/尚公主_2026.jpg" width="600" />
 
 
-## 今天是太阳雨
-[2026-11-08 12:26] 来自：综合网盘资源频道
+## 谷雨
+[2026-11-08 20:40] 来自：综合网盘资源频道
 
-名称：今天是太阳雨 (2026)剧情 爱情 杨超越 4K高码 更新08集
+名称：谷雨(2026) 4K 更新至10集
 
-描述：生活困苦的生物系学生郑雨为了能够摆脱生活困境，在辛苦兼职支付母亲药费和还债的同时，努力争取学校“生机奖”奖学金。然而大三新学期开学不久，因病休学一年的陈砚周空降成为了生物系的专业第一名。郑雨视他为竞争对手，却又不得不多次与他合作力求共赢。两人在相处过程中，逐渐感受到彼此看似冷漠的外表下包裹着温暖的心。
+描述：1994年，春江市税务局稽查员欧阳旭(井柏然饰)与刑警严平安(孙艺洲饰)、寻妻的周海洋(张颂文饰)三人因一起假发票案识于微时，携手屡破税案，但时代的发展和遭遇的不同，将三人推向不同的命运，三人也因各自的性格和追求作出了不同的选择，最终渐行渐远，由正邪的立场发展出迥异的命运轨迹。而今，他们的命运又因“谷雨”行动再次交汇，曾经的兄弟成为了如今的对手，在情与理之间，欧阳旭与以周海洋为首的骗税团伙以及深不见底的“保护伞”展开层层较量，由一张张小小发票，揭开贪婪私欲，最终以一场稽查风暴荡涤污秽，让正义重构社会清明。
 
-夸克网盘：https://pan.quark.cn/s/b62d0966fa71
+迅雷网盘：https://pan.xunlei.com/s/VP5gBvHv4n5gyxsNhujS4u5_A1?pwd=2bi6
 
-百度网盘：https://pan.baidu.com/s/1NOL6tu3lsFauWM00Z5DHuQ?pwd=6666
+光鸭云盘：https://www.guangyapan.com/s/1965454530486591500_aeAefI8EdLN_2GRB
 
-提取码：6666
+阿里云盘：https://www.alipan.com/s/DrMZ3XEc4KR 来自：综合网盘资源频道 [2026-11-08 20:28] 名称：谷雨(2026) 4K 更新至10集
 
-光鸭云盘：https://www.guangyapan.com/s/1965654854170177578_aeWnPia0Twth-NLu
+光鸭云盘：https://www.guangyapan.com/s/1965410006204792895_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-08 20:20] 名称：谷雨 (2026) 4K SDR 更至EP10
 
-百度网盘：https://pan.baidu.com/s/1UuugXLKwWl_lj3nVx0XOzg?pwd=1Bva 来自：综合网盘资源频道 [2026-11-08 12:21] 名称：今天是太阳雨(2026) 更新至08集
+百度网盘：https://pan.baidu.com/s/1CurELYfe1qXCBruNM2sSqA?pwd=6666 来自：综合网盘资源频道 [2026-11-08 19:45] 名称：谷雨 (2026)剧情 悬疑 犯罪 井柏然 孙艺洲 张颂文 4KHQHD60FPS 更新10集
 
-夸克网盘：https://pan.quark.cn/s/795b9ed24bad 来自：综合网盘资源频道 [2026-11-08 12:12] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [更至8集]
+夸克网盘：https://pan.quark.cn/s/fe2274c6b39e 来自：综合网盘资源频道 [2026-11-08 19:45] 名称：谷雨 (2026)剧情 悬疑 犯罪 井柏然 孙艺洲 张颂文 4KHQHD60FPS 更新10集
 
-迅雷网盘：https://pan.xunlei.com/s/VP5j99eSx37fwfLPlqsRQuz2A1?pwd=mpxa 来自：综合网盘资源频道 [2026-11-08 12:12] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [更至8集]
+百度网盘：https://pan.baidu.com/s/1X2N46vAAmuzFND82fyeK2Q?pwd=yptv 来自：综合网盘资源频道 [2026-11-08 19:29] 名称：谷雨(2026)【4K.HDR.60fps】【内封简中】【更10集】【犯罪/悬疑】【井柏然/孙艺洲】
 
-光鸭云盘：https://www.guangyapan.com/s/1965662144155742272_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-08 12:12] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [更至8集]
+夸克网盘：https://pan.quark.cn/s/1e8c5e37cf5e 来自：综合网盘资源频道 [2026-11-08 19:29] 名称：谷雨(2026)【4K.HDR.60fps】【内封简中】【更10集】【犯罪/悬疑】【井柏然/孙艺洲】
 
-迅雷网盘：https://pan.xunlei.com/s/VP5jnM5-ddQHGb4sNHV89jPRA1?pwd=96s8 来自：综合网盘资源频道 [2026-11-08 11:38] 名称：今天是太阳雨(2026)【更06集】【4K.高码率】【内嵌简中】【剧情/爱情】【杨超越/董思成】
+迅雷网盘：https://pan.xunlei.com/s/VP5fLC0kyiQ7zf0XFptHsLMTA1?pwd=rmbw 来自：综合网盘资源频道 [2026-11-08 19:29] 名称：谷雨(2026)【4K.HDR.60fps】【内封简中】【更10集】【犯罪/悬疑】【井柏然/孙艺洲】
 
-UC网盘：https://drive.uc.cn/s/b5b0b144a5b84 来自：综合网盘资源频道 [2026-11-08 11:22] 名称：今天是太阳雨 (2026) 4K 芒臻 高码率 国语中字【更新EP06】【杨超越/董思成】
+阿里云盘：https://www.alipan.com/s/1on2U5iyuTY 来自：综合网盘资源频道 [2026-11-08 14:08] 名称：谷雨 (2026) 4K HQ 高码率 60FPS [DV&HDR] [更新08集]
 
-📁 大小：5G
+📁 大小：X
 
-🏷 标签：#今天是太阳雨 #4K #剧情 #爱情 #杨超越 #4K高码 #quark #baidu #guangyapan
+🏷 标签：#剧情 #悬疑 #犯罪 #谷雨 #4K #xunlei #guangyapan
 
-<img src="tg_media/2605109003/今天是太阳雨_2026.jpg" width="600" />
+<img src="tg_media/2605109003/谷雨_2026.jpg" width="600" />
+
+
+## 伟大的长征
+[2026-11-08 20:37] 来自：综合网盘资源频道
+
+名称：伟大的长征(2026)【4K.HDR.60fps】【内封简中】【更54集】【历史/战争】【于和伟/曹磊】
+
+描述：该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温度的革命故事，弘扬伟大的长征精神。
+
+1934年，日本帝国主义加紧了对中国的侵略，而蒋介石不顾民族危亡，坚持“攘外必先安内”的政策，发动了规模最大的第五次“围剿”。生死存亡之际，中国工农红军主力被迫实行战略性转移，撤离长江南北各苏区。平均年龄不到30岁的红军队伍犹如一条条红色铁流，经过11个省，翻越18座大 山，跨过24条大河，走过荒草地，翻过雪山，行程二万五千里。直到1936年10月红军三大主力会师，红军长征胜利结束。
+
+夸克网盘：https://pan.quark.cn/s/8646160b62d1
+
+百度网盘：https://pan.baidu.com/s/11-Wzx8oR3jf8R27X7RQSoA?pwd=yptv
+
+迅雷网盘：https://pan.xunlei.com/s/VP4YXlxsmtc9i0VztGRjH_XZA1?pwd=4wt9
+
+百度网盘：https://pan.baidu.com/s/13rCnHPstcH5UZ8g5AQRQWQ?pwd=Qiye 来自：综合网盘资源频道 [2026-11-08 20:33] 名称：伟大的长征(2026)4k WEB-DL.HDR 2160p 简体字幕 第54集
+
+夸克网盘：https://pan.quark.cn/s/e40bc3becc20 来自：综合网盘资源频道 [2026-11-08 20:33] 名称：伟大的长征(2026)4k WEB-DL.HDR 2160p 简体字幕 第54集
+
+迅雷网盘：https://pan.xunlei.com/s/VP5kW_M1WT-zHGFBjMns3kpEA1?pwd=sanm 来自：综合网盘资源频道 [2026-11-08 20:21] 名称：伟大的长征 (2026) [WEB-4K] [国语中字] [更至54集]
+
+光鸭云盘：https://www.guangyapan.com/s/1964687339159879695_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-08 20:21] 名称：伟大的长征 (2026) [WEB-4K] [国语中字] [更至54集]
+
+阿里云盘：https://www.alipan.com/s/wnfgELMr9Xw 来自：综合网盘资源频道 [2026-11-08 14:12] 名称：伟大的长征 (2026) 4K HDR Vivid 高码率 [内封中字] [更新53集]
+
+📁 大小：NG
+
+🏷 标签：#国剧 #剧情 #历史 #战争 #伟大的长征 #4K #HDR #60fps #内封简中 #于和伟 #曹磊 #quark #baidu #xunlei
+
+<img src="tg_media/2605109003/伟大的长征_2026.jpg" width="600" />
+
+
+## 现在就出发
+[2026-11-08 20:35] 来自：夸克云盘影视资源频道
+
+名称：现在就出发 第四季（2026）4K 更新至 第五期
+
+描述：出发团再度开启全球快乐野游，抽象派旅居4.0
+
+夸克网盘：https://pan.quark.cn/s/b4ebc2e2c947
+
+📁 大小：4GB
+
+🏷 标签：#剧情 #现在就出发
+
+<img src="tg_media/1959723113/现在就出发_第四季_2026.jpg" width="600" />
+
+
+## 折月亮
+[2026-11-08 20:24] 来自：综合网盘资源频道
+
+名称：折月亮(2026) 4K 更新至10集
+
+描述：傅识则(林一饰)与云厘(卢昱晓饰)在南芜重逢，作为社恐少女的云厘面对自己的高中"白月光”，在一干人等的助攻下，突破社恐追求傅识则，凭“小太阳”般的光芒打动他，两人甜蜜相恋。后又因认知分歧阴差阳错二人分手，云厘出国，傅识则选择重振旗鼓带队登顶科研领域，待云厘回国后花式追妻，二人终解芥蒂、再续前缘。
+
+阿里云盘：https://www.alipan.com/s/F9bsNLMbVpC
+
+光鸭云盘：https://www.guangyapan.com/s/1965513557929226291_aeWw8Ru726g3wcPx 来自：综合网盘资源频道 [2026-11-08 20:13] 名称：折月亮(2026)【更10集】【4K.HDR】【内嵌简中】【林一/卢昱晓】【杜比全景声】
+
+百度网盘：https://pan.baidu.com/s/1BxiSM1XtZJroZGQJABdZtw?pwd=Y6j8 来自：百度网盘综合频道 [2026-11-08 19:21] 名称：折月亮(2026） 更新至10集
+
+光鸭云盘：https://www.guangyapan.com/s/1966229733550452758_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-11-08 19:19] 名称：折月亮 (2026)
+
+百度网盘：https://pan.baidu.com/s/1fVUvkCkxMgDgyrN3TDjN7Q?pwd=gcih 来自：综合网盘资源频道 [2026-11-08 19:14] 名称：折月亮 (2026) 4K HDR 内封字幕至10
+
+夸克网盘：https://pan.quark.cn/s/fa9793207c5d 来自：综合网盘资源频道 [2026-11-08 19:14] 名称：折月亮 (2026) 4K HDR 内封字幕至10
+
+迅雷网盘：https://pan.xunlei.com/s/VP5pzniJfDY_V6Vm3MTdeoTKA1?pwd=3yju 来自：综合网盘资源频道 [2026-11-08 19:14] 名称：折月亮 (2026) 4K HDR 内封字幕至10
+
+夸克网盘：https://pan.quark.cn/s/225747c6d0b9 来自：综合网盘资源频道 [2026-11-08 18:57] 名称：折月亮 (2026)剧情 爱情 林一 卢昱晓 4KHDR 更新10集
+
+迅雷网盘：https://pan.xunlei.com/s/VP5qJU7F7LSaJX4MOEgHhx_RA1?pwd=wqdb 来自：综合网盘资源频道 [2026-11-08 18:35] 名称：折月亮(2026)【4K.HDR.60fps】【内封简中】【更10集】【剧情/爱情】【林一/卢昱晓】
+
+阿里云盘：https://www.alipan.com/s/1tBrMG2Y95Z 来自：综合网盘资源频道 [2026-11-08 14:57] 名称：折月亮 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新08集]
+
+📁 大小：X
+
+🏷 标签：#剧情 #爱情 #折月亮 #4K #ali
+
+<img src="tg_media/2605109003/折月亮_2026.jpg" width="600" />
+
+
+## Final
+[2026-11-08 20:10] 来自：综合网盘资源频道
+
+名称：Final Table 最后一桌 더 파이널 테이블 (2026) 【更新至05集】【1080p】【韩语中字】【韩剧】
+
+描述：是为了选出最好的韩国厨师而进行的生存“The Table: K Chef 2026”大赛，描绘了来自世界各地的韩国厨师们的奇妙食物和故事盛宴的电视剧。
+
+夸克网盘：https://pan.quark.cn/s/bc4f7b892f6c
+
+📁 大小：NA
+
+🏷 标签：#Final #Table #最后一桌 #1080p #韩语中字 #quark
+
+<img src="tg_media/2605109003/Final_Table_最后一桌_2026.jpg" width="600" />
+
+
+## 不着边际的你
+[2026-11-08 20:09] 来自：综合网盘资源频道
+
+名称：不着边际的你 밑도 끝도 없이 너다 (2026)  【更新至05集】【1080p】【韩语中字】【韩剧】
+
+描述：郑容和剧中饰演韩流大明星严太丰一角，脸是脸，演技是演技，非常谦虚，他与相信自己是电视剧女主的一个女人相遇后，面临着被揭短的危机。
+
+此剧讲述了有着致命瑕疵的爱情剧匠人男演员和相信自己是电视剧女主的奇怪女人相遇而展开的不着边际前所未有不可预测的浪漫爱情故事。
+
+链接：
+
+夸克网盘：https://pan.quark.cn/s/039bface7850
+
+📁 大小：NA
+
+🏷 标签：#不着边际的你 #1080p #韩语中字 #韩剧 #quark
+
+<img src="tg_media/2605109003/不着边际的你_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
