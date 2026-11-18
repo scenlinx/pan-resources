@@ -8,14 +8,14 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">1348</td><td align="center">2026-11-17</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">1058</td><td align="center">2026-11-17</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">666</td><td align="center">2026-11-17</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">1375</td><td align="center">2026-11-18</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">1064</td><td align="center">2026-11-18</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">676</td><td align="center">2026-11-18</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">134</td><td align="center">2026-11-17</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">183</td><td align="center">2026-11-17</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">82</td><td align="center">2026-11-17</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">236</td><td align="center">2026-11-17</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1936</td><td align="center">2026-11-17</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">185</td><td align="center">2026-11-17</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">86</td><td align="center">2026-11-18</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">242</td><td align="center">2026-11-18</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">1937</td><td align="center">2026-11-17</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
 <tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">581</td><td align="center">2026-11-17</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
@@ -24,272 +24,238 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 谷雨
-[2026-11-17 23:31] 来自：夸克云盘影视资源频道
+## 我的有罪之人
+[2026-11-18 08:23] 来自：肯德基の4K影视综合电影云盘站
 
-名称：谷雨（2026）4K 10bit 60FPS 全30集[修复EP30音轨]
+名称：我的有罪之人 나의 유죄인간 (2026) [1080P] [内封多国字幕] [更至10集]
 
-描述：1994年，春江市税务稽查欧阳煦、刑警严平安与寻妻的周海洋，因一桩假发票案相识。时代浪潮之下，三人境遇迴异，命运逐渐分化。多年后，谷雨行动让他们再度相逢，昔日兄弟已然站在对立面。欧阳煦直面以周海洋为首骗税团伙及其背后保护伞，在情与法理之间艰难抉择。
+描述：杀人案头号嫌疑人、泰江集团三代继承人尹伊俊，引来特种部队出身的刑警姜在熙。她女扮男装，伪装成贴身秘书潜入调查。在熙一边查案，一边与刻薄敏感的伊俊不断交锋，二人渐生情愫。
 
-夸克网盘：https://pan.quark.cn/s/72adfa7ddce3
+夸克网盘：https://pan.quark.cn/s/800693f77ce3
 
-百度网盘：https://pan.baidu.com/s/1ua35wgE3O5FXrHEGlUZidQ?pwd=j5eh 来自：肯德基の4K影视综合电影云盘站 [2026-11-17 23:25] 名称：谷雨（2026）4K 10bit 60FPS 全30集[修复EP30音轨]
+百度网盘：https://pan.baidu.com/s/1lnX7GZlHuwoUOcmRJsqObg?pwd=1111
 
-百度网盘：https://pan.baidu.com/s/1X2N46vAAmuzFND82fyeK2Q?pwd=yptv 来自：综合网盘资源频道 [2026-11-17 23:23] 名称：谷雨(2026)【4K.HDR.60fps】【内封简中】【30集全】【犯罪/悬疑】【井柏然/孙艺洲】
+迅雷网盘：https://pan.xunlei.com/s/VP6XdHozvCxIoq4dyn7UhDxEA1?pwd=4m6p
 
-夸克网盘：https://pan.quark.cn/s/1e8c5e37cf5e 来自：综合网盘资源频道 [2026-11-17 23:23] 名称：谷雨(2026)【4K.HDR.60fps】【内封简中】【30集全】【犯罪/悬疑】【井柏然/孙艺洲】
+光鸭云盘：https://www.guangyapan.com/s/1969285533093740630_aeWiyJwocgzRgCVm
 
-迅雷网盘：https://pan.xunlei.com/s/VP5fLC0kyiQ7zf0XFptHsLMTA1?pwd=rmbw 来自：综合网盘资源频道 [2026-11-17 23:23] 名称：谷雨(2026)【4K.HDR.60fps】【内封简中】【30集全】【犯罪/悬疑】【井柏然/孙艺洲】
+夸克网盘：https://pan.quark.cn/s/f590bd3ad53e 来自：综合网盘资源频道 [2026-11-18 01:19] 名称：我的有罪之人 [AMZN][内封简繁字幕][更新至10集]
 
-迅雷网盘：https://pan.xunlei.com/s/VP5ehSIRdDmTGQXKvbZy6gbLA1?pwd=26zs 来自：肯德基の4K影视综合电影云盘站 [2026-11-17 22:33] 名称：谷雨 (2026) [WEB-4K] [国语中字] [全30集]
+迅雷网盘：https://pan.xunlei.com/s/VP4KT-SM-OKqemOGK8wdxRKvA1?pwd=uc9w 来自：综合网盘资源频道 [2026-11-18 01:19] 名称：我的有罪之人 [AMZN][内封简繁字幕][更新至10集]
 
-光鸭云盘：https://www.guangyapan.com/s/1965349439733612612_aeWiyJwocgzRgCVm 来自：肯德基の4K影视综合电影云盘站 [2026-11-17 22:33] 名称：谷雨 (2026) [WEB-4K] [国语中字] [全30集]
+百度网盘：https://pan.baidu.com/s/1PcnfKf4kQimLk4Srl81-hw?pwd=m82x 来自：肯德基の4K影视综合电影云盘站 [2026-11-18 00:52] 名称：我的有罪之人（2026）AMZN 1080p 内封简中 S01E01-E10
 
-光鸭云盘：https://www.guangyapan.com/s/1965410006204792895_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-17 22:27] 名称：谷雨 (2026) 4K SDR 更至EP30
-
-阿里云盘：https://www.alipan.com/s/DrMZ3XEc4KR 来自：综合网盘资源频道 [2026-11-17 22:04] 名称：谷雨(2026) 4K 全30集
-
-UC网盘：https://drive.uc.cn/s/240118f35b804 来自：综合网盘资源频道 [2026-11-17 11:42] 名称：谷雨 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP26】【井柏然/孙艺洲】
-
-📁 大小：25.8G
-
-🏷 标签：#谷雨 #井柏然 #张颂文 #剧情
-
-<img src="tg_media/1959723113/谷雨_2026.jpg" width="600" />
-
-
-## 走马上任
-[2026-11-17 23:06] 来自：综合网盘资源频道
-
-名称：走马上任 小五当官之走马上任(2026)【4K.HDR.60fps】【内封简中】【更35集】【剧情/喜剧】【王小利/蒋依杉】
-
-描述：该剧讲述了在民国时期，本是兽医的王老五意外成为伏虎县县长，怎知伏虎县诸般势力云集，事情朝着失控的方向不断发展，由此引发了一系列啼笑皆非却又真实动人、别有深意的故事。剧中以小人物为主角，向观众展现了在民国时期小人物铸就的大时代。
-
-夸克网盘：https://pan.quark.cn/s/c8929e1ea649
-
-百度网盘：https://pan.baidu.com/s/1PxEyTfF5FcKM0Pci8aQT-w?pwd=yptv
-
-迅雷网盘：https://pan.xunlei.com/s/VP6OjhwmdgytlFWnxNz3TITOA1?pwd=9whv
-
-夸克网盘：https://pan.quark.cn/s/eab3bfcf39e3 来自：综合网盘资源频道 [2026-11-17 22:31] 名称：走马上任 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至35集]
-
-迅雷网盘：https://pan.xunlei.com/s/VP63qcWiyn1PAKub8T_6k93yA1?pwd=77t2 来自：综合网盘资源频道 [2026-11-17 22:31] 名称：走马上任 4K臻彩MAX [HDR60fps][内封简繁字幕][更新至35集]
-
-阿里云盘：https://www.alipan.com/s/4Vg9GSXTALf 来自：综合网盘资源频道 [2026-11-17 20:12] 名称：走马上任(2026) 4K 更新至35集
-
-百度网盘：https://pan.baidu.com/s/1CO7U0P0zCA5wGhzqVqAZqA?pwd=57nd 来自：综合网盘资源频道 [2026-11-17 20:09] 名称：走马上任(2026)4K 10bit 60FPS 更至EP35
-
-光鸭云盘：https://www.guangyapan.com/s/1964246279816294429_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-17 15:56] 名称：走马上任 (2026) [WEB-4K] [国语中字] [更至35集]
-
-光鸭云盘：https://www.guangyapan.com/s/1964249828423958604_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-17 12:41] 名称：走马上任 (2026) 4K SDR 更至EP35
-
-📁 大小：NG
-
-🏷 标签：#国剧 #剧情 #喜剧 #走马上任 #4K #HDR #60fps #小五当官之走马上任 #内封简中 #王小利 #quark #baidu #xunlei
-
-<img src="tg_media/2605109003/走马上任_小五当官之走马上任_2026.jpg" width="600" />
-
-
-## 今天是太阳雨
-[2026-11-17 23:06] 来自：肯德基の4K影视综合电影云盘站
-
-名称：今天是太阳雨（2026）【4K.高码率&1080p】【内封简中】【24集全】【剧情/爱情】【杨超越/董思成】
-
-描述：生活困苦的生物系学生郑雨为了能够摆脱生活困境，在辛苦兼职支付母亲药费和还债的同时，努力争取学校“生机奖”奖学金。然而大三新学期开学不久，因病休学一年的陈砚周空降成为了生物系的专业第一名。郑雨视他为竞争对手，却又不得不多次与他合作力求共赢。两人在相处过程中，逐渐感受到彼此看似冷漠的外表下包裹着温暖的心。
-
-夸克网盘：https://pan.quark.cn/s/5cbb6f68eed9
-
-百度网盘：https://pan.baidu.com/s/1edlQX-9z4DJ5m9Kmk9WQgw?pwd=yptv
-
-迅雷网盘：https://pan.xunlei.com/s/VP5jVNlWZJLPGUjTb8wwm9wEA1?pwd=5aff
-
-百度网盘：https://pan.baidu.com/s/11z0jmReC3egsx2KPV7xWRA?pwd=vdji 来自：百度网盘综合频道 [2026-11-17 20:30] 名称：今天是太阳雨（2026）NF 1080p 内封简中 全24集
-
-夸克网盘：https://pan.quark.cn/s/e620461ca2a7 来自：夸克云盘影视资源频道 [2026-11-17 20:30] 名称：今天是太阳雨（2026）NF 1080p 内封简中 全24集
-
-光鸭云盘：https://www.guangyapan.com/s/1969443615232909394_adyPbY8EdLN_2AZv 来自：光鸭云盘资源频道 [2026-11-17 14:49] 名称：今天是太阳雨 (2026)
-
-光鸭云盘：https://www.guangyapan.com/s/1965654854170177578_aeWnPia0Twth-NLu 来自：肯德基の4K影视综合电影云盘站 [2026-11-17 14:24] 名称：今天是太阳雨 (2026)剧情 爱情 杨超越 4K高码 超前更新24集完结
-
-迅雷网盘：https://pan.xunlei.com/s/VP5j99eSx37fwfLPlqsRQuz2A1?pwd=mpxa 来自：综合网盘资源频道 [2026-11-17 12:25] 名称：今天是太阳雨 (2026) [1080P] [国语中字] [全24集]
-
-📁 大小：NG
-
-🏷 标签：#国剧 #剧情 #爱情 #今天是太阳雨 #4K #高码率
-
-<img src="tg_media/2710552707/今天是太阳雨_2026.jpg" width="600" />
-
-
-## 基督山伯爵夫人
-[2026-11-17 22:52] 来自：综合网盘资源频道
-
-名称：基督山伯爵夫人 The Countess of Monte Cristo (2026) S01E01-E02 1080P SDR 内封中法双语字幕
-
-描述：1815 年，当她的未婚夫被错误地监禁并且她的营救尝试以悲剧告终时，梅塞德斯发誓要向那些毁掉她生活的人报仇。
-
-夸克网盘：https://pan.quark.cn/s/e768e53e4ed8
-
-百度网盘：https://pan.baidu.com/s/1O_GEzFVpkbdR59BT7Oboew?pwd=h827
-
-📁 大小：3.77 GB
-
-🏷 标签：#基督山伯爵夫人 #剧情 #quark #baidu
-
-<img src="tg_media/2605109003/基督山伯爵夫人_The_Countess_of_Monte_Cristo_2026.jpg" width="600" />
-
-
-## LOST10
-[2026-11-17 22:49] 来自：肯德基の4K影视综合电影云盘站
-
-名称：LOST10 (2026) [1080P] [内封简繁] [更至5集]
-
-描述：以北海道严酷的大自然为舞台，一场名为「支樺岳事件」的登山遇难事故揭开故事的序幕。 刑警小驹与保险调查员联手追查事故真相。 然而，幸存游客、导游及相关人士的证词却相互矛盾。 这起意外背后，隐藏着错综复杂的背叛、巨大权力介入与人性的严峻考验。 面对各怀鬼胎的关键人物，两人能否在层层「迷失」中拼凑出残酷真相？
-
-夸克网盘：https://pan.quark.cn/s/5f98ea12d240
-
-百度网盘：https://pan.baidu.com/s/1jonx1-VqPG-oaTvo2cR_tA?pwd=1111
-
-迅雷网盘：https://pan.xunlei.com/s/VP4gxp5O460ykxv8rA9mgiTnA1?pwd=4fgr
-
-光鸭云盘：https://www.guangyapan.com/s/1961004592540557331_aeWiyJwocgzRgCVm
-
-百度网盘：https://pan.baidu.com/s/1W6Cdo8JP7ELlqF7joDxS1g?pwd=Qiye 来自：肯德基の4K影视综合电影云盘站 [2026-11-17 14:40] 名称：LOST10(2026)1080P WEB-DL FRIDAY 简繁字幕 第5集
-
-夸克网盘：https://pan.quark.cn/s/de8e46a796df 来自：肯德基の4K影视综合电影云盘站 [2026-11-17 14:40] 名称：LOST10(2026)1080P WEB-DL FRIDAY 简繁字幕 第5集
-
-光鸭云盘：https://www.guangyapan.com/s/1963640704900247553_aeWYeSwV3ZOZlzEy 来自：肯德基の4K影视综合电影云盘站 [2026-11-17 14:40] 名称：LOST10(2026)1080P WEB-DL FRIDAY 简繁字幕 第5集
+光鸭云盘：https://www.guangyapan.com/s/1959419759842242631_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-18 00:03] 名称：我的有罪之人 (2026) 1080p S01E01-E10 内封简繁
 
 📁 大小：N/A
 
-🏷 标签：#剧情 #悬疑 #LOST10
+🏷 标签：#剧情 #喜剧 #爱情 #我的有罪之人
 
-<img src="tg_media/2710552707/LOST10_2026.jpg" width="600" />
+<img src="tg_media/2710552707/我的有罪之人_2026.jpg" width="600" />
 
 
 ## 多喜一家人
-[2026-11-17 22:43] 来自：综合网盘资源频道
+[2026-11-18 08:03] 来自：光鸭云盘资源频道
 
-名称：多喜一家人 4K臻彩MAX [2026][HDR][60fps][内封简繁字幕][更新至06集]
+名称：多喜一家人 (2026)
 
-描述：2008年中国经济腾飞的时代，生活在胶东半岛的赛多喜一家迎来了生活剧变，一笔不菲的拆迁款将赛家原本的沉疴旧疾放到了台面上：跋扈专制的父亲赛多喜为维护自己的家庭统治地位搅得儿女鸡飞狗跳，赛家的五对儿女又是五幅众生相，而突如其来的变故让赛多喜“一家之主”的统治地位被动摇，同时五对子女也开始审视赛家的代际关系，各自直面自己的人生困境。最终，赛家人逐渐懂得，有平等尊严的地方才是家，家人之间的相聚团圆才叫爱。
+📁 类型：国产剧集
 
-夸克网盘：https://pan.quark.cn/s/e2dcc6ef63e5
+🖥️ 画质：2160p
 
-迅雷网盘：https://pan.xunlei.com/s/VP6ZbFA5MbJMMYgNLFOeV_HeA1?pwd=fg3x
+🎥 视频：WEB-DL.HDR.H.265
 
-百度网盘：https://pan.baidu.com/s/1HJ3LUJWU0oDLZKPPCZYsiA?pwd=4xiq 来自：百度网盘综合频道 [2026-11-17 22:27] 名称：多喜一家人（2026）4K 60FPS S01E01 - E06
+🔊 音频：DDP 5.1
 
-夸克网盘：https://pan.quark.cn/s/fdbf52c534ce 来自：夸克云盘影视资源频道 [2026-11-17 22:26] 名称：多喜一家人（2026）4K 60FPS S01E01 - E06
+📦 大小：28.5 GB
 
-阿里云盘：https://www.alipan.com/s/Kro6zhDqAh1 来自：综合网盘资源频道 [2026-11-17 22:01] 名称：多喜一家人(2026) 4K 更新至06集
+📼 集数：E01-E06
 
-百度网盘：https://pan.baidu.com/s/1QjHsWu9Yi0hwLDpfEkZbcg?pwd=65AD 来自：百度网盘综合频道 [2026-11-17 21:54] 名称：多喜一家人（2026） 4K 更新至06集
+🔄 状态：更新中
 
-迅雷网盘：https://pan.xunlei.com/s/VP6ZLqVlcEwb-TpEtUe72Gu7A1?pwd=xvgp 来自：综合网盘资源频道 [2026-11-17 20:18] 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至6集]
+🔗 链接：
 
-光鸭云盘：https://www.guangyapan.com/s/1969406158730866760_aeWiyJwocgzRgCVm 来自：综合网盘资源频道 [2026-11-17 20:18] 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至6集]
+光鸭云盘：https://www.guangyapan.com/s/1969473767451021338_adyPbY8EdLN_2AZv
 
-光鸭云盘：https://www.guangyapan.com/s/1969406051553804288_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-11-17 19:02] 名称：多喜一家人 (2026)家庭 4KHDR60FPS 更新06集
+夸克网盘：https://pan.quark.cn/s/13062896188b 来自：综合网盘资源频道 [2026-11-18 07:47] 名称：多喜一家人 (2026) 4K SDR 更至EP06
 
-UC网盘：https://drive.uc.cn/s/362cb15017554 来自：综合网盘资源频道 [2026-11-17 11:41] 名称：多喜一家人 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP04】又名：荷风吹
+光鸭云盘：https://www.guangyapan.com/s/1969431274835566686_ad5KFI8EdLN_2Dyr 来自：综合网盘资源频道 [2026-11-18 07:47] 名称：多喜一家人 (2026) 4K SDR 更至EP06
 
-📁 大小：N G
+UC网盘：https://drive.uc.cn/s/3712cc769ecb4 来自：综合网盘资源频道 [2026-11-18 00:37] 名称：多喜一家人 (2026) 更至06集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
 
-🏷 标签：#盘酱酱 #PanWEB #国产剧 #多喜一家人 #4K臻彩MAX #HDR #60fps #内封简繁字幕 #quark #xunlei
+百度网盘：https://pan.baidu.com/s/1cCC8ZpqNXDs0rYF5MBm4NA?pwd=1116 来自：综合网盘资源频道 [2026-11-18 00:37] 名称：多喜一家人 (2026) 更至06集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
 
-<img src="tg_media/2605109003/多喜一家人_4K臻彩MAX.jpg" width="600" />
+夸克网盘：https://pan.quark.cn/s/e62bc58bd120 来自：综合网盘资源频道 [2026-11-18 00:37] 名称：多喜一家人 (2026) 更至06集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
 
+迅雷网盘：https://pan.xunlei.com/s/VP6Z6-P5kVAoOP9QNtAhD-c8A1?pwd=k9wa 来自：综合网盘资源频道 [2026-11-18 00:37] 名称：多喜一家人 (2026) 更至06集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
 
-## 凤起微月
-[2026-11-17 22:38] 来自：综合网盘资源频道
-
-名称：凤起微月 4K臻彩MAX [2026][HDR][60fps][更新至06集]
-
-描述：空间科研组长凤微月与同事叶长久、上司君清夜在实验事故后穿越到胤北王朝，她成为太傅府嫡女，并意外卷入容王墨玉琊与星照阁阁主顾南柯之间的纷争。凭借随身穿越而来的空间手链，她逐渐揭开自己与顾南柯之间的秘密。
-
-夸克网盘：https://pan.quark.cn/s/f0ee32c8618a
-
-迅雷网盘：https://pan.xunlei.com/s/VP6dvrsi9qohqKmobSdOPMMMA1?pwd=u2ge
-
-📁 大小：0.5 G
-
-🏷 标签：#盘酱酱 #PanWEB #国产剧 #凤起微月 #4K臻彩MAX #HDR #60fps #quark #xunlei
-
-<img src="tg_media/2605109003/凤起微月_4K臻彩MAX.jpg" width="600" />
+<img src="tg_media/3667471790/多喜一家人_2026.jpg" width="600" />
 
 
-## 一念永恒
-[2026-11-17 22:29] 来自：夸克云盘影视资源频道
+## 折月亮
+[2026-11-18 07:31] 来自：综合网盘资源频道
 
-名称：一念永恒 完结季（2026） 4K 臻彩 S01E01 - E20 HIFI声
+名称：折月亮 (2026) 4K HDR 内封字幕全27
 
-描述：为苍生大义，白小纯不得不与通天道人展开决战。随着旧世界破碎，众人流落天外的永恒大陆。而在这里白小纯将面对更严峻的挑战，更强大的敌人……
+描述：傅识则(林一饰)与云厘(卢昱晓饰)在南芜重逢，作为社恐少女的云厘面对自己的高中"白月光”，在一干人等的助攻下，突破社恐追求傅识则，凭“小太阳”般的光芒打动他，两人甜蜜相恋。
 
-夸克网盘：https://pan.quark.cn/s/63da8899ccf3
+百度网盘：https://pan.baidu.com/s/1McjSQZnYwxrgvDsDesz3eQ?pwd=mdwk
 
-百度网盘：https://pan.baidu.com/s/1_88QSr0wwBTeayFd1CHy4w?pwd=Qiye 来自：综合网盘资源频道 [2026-11-17 20:58] 名称：一念永恒 完结季(2026) 4K WEB-DL 2160p 第20集
+夸克网盘：https://pan.quark.cn/s/69bdd9b42cfb
 
-夸克网盘：https://pan.quark.cn/s/8f26d03574a0 来自：综合网盘资源频道 [2026-11-17 20:58] 名称：一念永恒 完结季(2026) 4K WEB-DL 2160p 第20集
+UC网盘：https://drive.uc.cn/s/9ba2e30a6be74 来自：综合网盘资源频道 [2026-11-18 00:30] 名称：折月亮 (2026) 全27集完结 [4K][都市爱情][林一/卢昱晓]
 
-光鸭云盘：https://www.guangyapan.com/s/1951860770043834399_aeWYeSwV3ZOZlzEy 来自：综合网盘资源频道 [2026-11-17 20:58] 名称：一念永恒 完结季(2026) 4K WEB-DL 2160p 第20集
+百度网盘：https://pan.baidu.com/s/1jb1Qs7_Zjb0oxDwVICPekg?pwd=1118 来自：综合网盘资源频道 [2026-11-18 00:30] 名称：折月亮 (2026) 全27集完结 [4K][都市爱情][林一/卢昱晓]
 
-百度网盘：https://pan.baidu.com/s/1K_PfPVUyzEJK78oR18VCmA?pwd=6666 来自：综合网盘资源频道 [2026-11-17 19:39] 名称：一念永恒 完结季(2026)4K更新20集
+夸克网盘：https://pan.quark.cn/s/baa79a3ba49c 来自：综合网盘资源频道 [2026-11-18 00:30] 名称：折月亮 (2026) 全27集完结 [4K][都市爱情][林一/卢昱晓]
 
-光鸭云盘：https://www.guangyapan.com/s/1947618664580108383_aeWnPia0Twth-NLu 来自：综合网盘资源频道 [2026-11-17 19:39] 名称：一念永恒 完结季(2026)4K更新20集
+迅雷网盘：https://pan.xunlei.com/s/VP6eL01dNN9QDCos-3Rg4jQnA1?pwd=u43e 来自：综合网盘资源频道 [2026-11-18 00:30] 名称：折月亮 (2026) 全27集完结 [4K][都市爱情][林一/卢昱晓]
 
-阿里云盘：https://www.alipan.com/s/s8sEUu1W92d 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-17 19:01] 名称：一念永恒 完结季（2026） 4K 更新至20集
-
-迅雷网盘：https://pan.xunlei.com/s/VOy6ppyTCu9xVlwdYQF7uITYA1?pwd=8h9r 来自：综合网盘资源频道 [2026-11-17 18:59] 名称：一念永恒 完结季(2026) 4K 更新至20集
-
-📁 大小：1.6GB
-
-🏷 标签：#剧情 #一念永恒
-
-<img src="tg_media/1959723113/一念永恒_完结季_2026.jpg" width="600" />
-
-
-## 兰香如故
-[2026-11-17 22:27] 来自：综合网盘资源频道
-
-名称：兰香如故 (2026) 4K  全47完结
-
-描述：  大学士府长孙女沈嘉兰与吏部尚书林家的长孙林锦楼订下婚约，然而朝堂风云突变，祖父沈大学士被判谋逆之罪，沈家惨遭灭门。
-
-百度网盘：https://pan.baidu.com/s/1eaSMq3pbQ5HqIYDs_IOuBw?pwd=s3ze
-
-夸克网盘：https://pan.quark.cn/s/d8a19f340ab0
-
-夸克网盘：https://pan.quark.cn/s/7f04a21edf21 来自：最新电影,电视剧,动漫|夸克网盘资源 [2026-11-17 22:21] 名称：兰香如故 (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 中字【5GB/集】全47集，谭松韵/刘学义
-
-百度网盘：https://pan.baidu.com/s/1BR7eXQyoobnp61peKkIkfw?pwd=v4pd 来自：综合网盘资源频道 [2026-11-17 22:02] 名称：兰香如故 (2026) 4K
+光鸭云盘：https://www.guangyapan.com/s/1965470949819408437_ao--TrOR7sKiY7EK?code=1105 来自：综合网盘资源频道 [2026-11-18 00:30] 名称：折月亮 (2026) 全27集完结 [4K][都市爱情][林一/卢昱晓]
 
 📁 大小：2G＼集
 
-🏷 标签：#古装 #兰香如故 #4K #全47完结 #baidu #quark
+🏷 标签：#爱情 #折月亮 #4K #HDR #内封字幕全27 #baidu #quark
 
-<img src="tg_media/2605109003/兰香如故_2026.jpg" width="600" />
+<img src="tg_media/2605109003/折月亮_2026.jpg" width="600" />
 
 
-## 一马当先
-[2026-11-17 22:26] 来自：综合网盘资源频道
+## 最好的时光文艺经典十一讲
+[2026-11-18 06:24] 来自：夸克云盘影视资源频道
 
-名称：一马当先 4K臻彩MAX [2026][HDR][60fps][更新至14集]
+名称：《最好的时光：文艺经典十一讲》（azw3+epub+mobi+pdf)
 
-描述：马大为前世因陷害而身陷囹圄，家道中落，意外重生后回到命运的转折点。他决心避开过去的陷阱，把握时代机遇，在商海中应对各方算计，同时守护家人与亲友，开创全新的人生。
+描述：跟随九位名师重读经典，在陀翁、托尔斯泰、卡夫卡、费里尼等作品里看见人生与时代。文本细读、背景分析、方法引导，带你找回阅读经典的力量。
 
-夸克网盘：https://pan.quark.cn/s/fd767d31d587
+夸克网盘：https://pan.quark.cn/s/150ee1adb157
 
-迅雷网盘：https://pan.xunlei.com/s/VP6E9Lu5Oo5rH7FrstIo9T0tA1?pwd=zmga
+百度网盘：https://pan.baidu.com/s/1Igjc-Wgf0lBSWH4N6bfngg?pwd=2534 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《最好的时光：文艺经典十一讲》（azw3+epub+mobi+pdf)
 
-百度网盘：https://pan.baidu.com/s/16I8wozvl9qtrz3ycMP4TcA?pwd=8w5m 来自：百度网盘综合频道 [2026-11-17 15:50] 名称：一马当先（2026）4K S01E01 - E14
+阿里云盘：https://www.alipan.com/s/YL32aSXMy62 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《最好的时光：文艺经典十一讲》（azw3+epub+mobi+pdf)
 
-夸克网盘：https://pan.quark.cn/s/1af1d96d0828 来自：夸克云盘影视资源频道 [2026-11-17 15:49] 名称：一马当先（2026）4K S01E01 - E14
+📁 大小：N
 
-📁 大小：0.4 GB
+🏷 标签：#外国文学 #影视经典 #文学导读 #文化研究
 
-🏷 标签：#盘酱酱 #PanWEB #国产剧 #一马当先 #4K臻彩MAX #HDR #60fps #quark #xunlei
+<img src="tg_media/1959723113/最好的时光_文艺经典十一讲_azw3_epub_mobi_pdf.jpg" width="600" />
 
-<img src="tg_media/2605109003/一马当先_4K臻彩MAX.jpg" width="600" />
+
+## 权力之路三部曲
+[2026-11-18 06:24] 来自：夸克云盘影视资源频道
+
+名称：《权力之路三部曲》（azw3+epub+mobi+pdf)
+
+描述：一个奴隶出身的老人，用最后的声音揭开西塞罗的登顶与坠落。没有血统、没有军队、没有财富，他仅凭一条嗓子搅动罗马风云。四十年权力之路，辉煌、流放、孤注一掷与血色终局，让人读得屏息。
+
+夸克网盘：https://pan.quark.cn/s/1577cc5febc7
+
+百度网盘：https://pan.baidu.com/s/1nhq4CcGpgGp-zkHIdmU09w?pwd=2534 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《权力之路三部曲》（azw3+epub+mobi+pdf)
+
+阿里云盘：https://www.alipan.com/s/24Fo5M2FYXH 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《权力之路三部曲》（azw3+epub+mobi+pdf)
+
+📁 大小：N
+
+🏷 标签：#历史小说 #罗马史 #政治权谋 #人物传记
+
+<img src="tg_media/1959723113/权力之路三部曲_azw3_epub_mobi_pdf.jpg" width="600" />
+
+
+## 毕生发展心理学
+[2026-11-18 06:24] 来自：夸克云盘影视资源频道
+
+名称：《毕生发展心理学（第七版）》（azw3+epub+mobi+pdf)
+
+描述：从婴儿到暮年，这本书像一条温柔而有力的时间之河，带你看懂身体、情绪、关系与心智如何一路生长。它把科学讲得鲜活，把人生讲得通透，让你更懂自己，也更懂身边人。
+
+夸克网盘：https://pan.quark.cn/s/673d01b16e13
+
+百度网盘：https://pan.baidu.com/s/1pm44bE_gvrI1be46xqc5rA?pwd=2534 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《毕生发展心理学（第七版）》（azw3+epub+mobi+pdf)
+
+阿里云盘：https://www.alipan.com/s/d9zEvo5FMpt 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《毕生发展心理学（第七版）》（azw3+epub+mobi+pdf)
+
+📁 大小：N
+
+🏷 标签：#心理学 #发展心理学 #人生阶段 #科普
+
+<img src="tg_media/1959723113/毕生发展心理学_第七版.jpg" width="600" />
+
+
+## 第一性原理思考法
+[2026-11-18 06:24] 来自：夸克云盘影视资源频道
+
+名称：《第一性原理思考法》（azw3+epub+mobi+pdf)
+
+描述：别再被别人的标准推着走！王晓辉把马斯克推崇的第一性原理拆成普通人能用的思考系统，从职场、副业到教育焦虑，3步击碎惯性，直抵本质，帮你重新定义问题，找到属于自己的答案。
+
+夸克网盘：https://pan.quark.cn/s/ae81151efe5c
+
+百度网盘：https://pan.baidu.com/s/1dWpOmv-KzlmfddGRMij4QA?pwd=2534 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《第一性原理思考法》（azw3+epub+mobi+pdf)
+
+阿里云盘：https://www.alipan.com/s/FZRpjKVrBPY 来自：阿里、夸克、百度网盘4K影视资源 [2026-11-18 06:24] 名称：《第一性原理思考法》（azw3+epub+mobi+pdf)
+
+📁 大小：N
+
+🏷 标签：#思维方法 #自我成长 #职场决策 #实用手册
+
+<img src="tg_media/1959723113/第一性原理思考法_azw3_epub_mobi_pdf.jpg" width="600" />
+
+
+## 何以世界透过地理看人类文明
+[2026-11-18 06:23] 来自：综合网盘资源频道
+
+名称：《何以世界：透过地理看人类文明》(azw3+epub+mobi+pdf)
+
+描述：山川、气候、海陆如何塑造文明？葛剑雄以地理之眼重读人类历史，从良渚、三星堆到尼罗河、地中海，打通中西，带你回到古文明现场，看见世界何以成为世界。
+
+百度网盘：https://pan.baidu.com/s/1CIfXfafsSJe4amF8dm4CpQ?pwd=2534
+
+夸克网盘：https://pan.quark.cn/s/1e08ce1fceea
+
+阿里云盘：https://www.alipan.com/s/hMp8pE67v4x
+
+📁 大小：N
+
+🏷 标签：#历史 #人文地理 #世界文明 #通俗科普 #何以世界 #透过地理看人类文明 #azw3 #epub #mobi #baidu #quark #ali
+
+<img src="tg_media/2605109003/何以世界_透过地理看人类文明_azw3_epub_mobi_pdf.jpg" width="600" />
+
+
+## 妈妈发疯了
+[2026-11-18 04:27] 来自：肯德基の4K影视综合电影云盘站
+
+名称：妈妈发疯了（2026）1080P 简中字幕 更新37集
+
+描述：讲述了一位为家人奉献一生的母亲（金熙贞 饰）决定开启独立人生，与她那群不断闯祸、“如同仇人般”的孩子们之间发生的激烈冲突与搞笑日常。
+
+链接：
+
+夸克网盘：https://pan.quark.cn/s/d63027b53b46
+
+UC网盘：https://drive.uc.cn/s/69a871fe50334
+
+📁 大小：1GB/一集
+
+🏷 标签：#妈妈发疯了 #日日剧 #郑敏儿 #董夏  #quark #uc
+
+<img src="tg_media/2710552707/妈妈发疯了_2026.jpg" width="600" />
+
+
+## 欲望的陷阱
+[2026-11-18 04:22] 来自：综合网盘资源频道
+
+名称：欲望的陷阱(2026)1080P 简中字幕 更新59集
+
+描述：剧集讲述遭诬陷杀人而人生被夺走的女人，对抗巨大的欲望，并复原人生的复仇剧
+
+夸克网盘：https://pan.quark.cn/s/99df1d3749d6
+
+UC网盘：https://drive.uc.cn/s/297ead31568a4
+
+📁 大小：540MB
+
+🏷 标签：#欲望的陷阱 #日日剧 #张瑞希 #全惠媛 #quark #uc #1080P #简中字幕
+
+<img src="tg_media/2605109003/欲望的陷阱_2026.jpg" width="600" />
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
