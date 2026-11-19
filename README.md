@@ -216,7 +216,7 @@ UC网盘：https://drive.uc.cn/s/b1d80f8474314 名称：十万狂花入梦来 (2
 
 ## QQ 交流群
 
-<img src="https://raw.githubusercontent.com/scenlinx/panws.net/main/public/cover.png" width="600" />
+<img src="https://raw.githubusercontent.com/scenlinx/panws.net/main/public/4k.webp" />
 
 ## 盘万搜(百万搜索) | panws.net
 
