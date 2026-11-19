@@ -2,21 +2,21 @@
 
 > 📢 TG 频道：[https://t.me/wangpan_HD](https://t.me/wangpan_HD)
 
-本仓库持续收录并整理TG公开网络频道的网盘资源，覆盖 **综合、综艺、动漫、软件游戏、纪录片、音乐、教程学习、怀旧剧场、海外剧场** 等 9 大分类。每个条目包含资源名称、简介、网盘下载链接（夸克网盘、百度网盘、迅雷网盘、阿里云盘）与标签，方便检索、转存与分享。内容由自动化任务定期抓取更新，收录量持续增长。
+本仓库持续收录并整理TG公开网络频道的网盘资源，覆盖 **综合、综艺、动漫、软件游戏、纪录片、音乐、教程学习、怀旧剧场、海外剧场** 等 9 大分类。每个条目包含资源名称、简介、网盘下载链接（夸克网盘、百度网盘、迅雷网盘、阿里云盘、光鸭云盘）与标签，方便检索、转存与分享。内容由自动化任务定期抓取更新，收录量持续增长。
 
 ## 分类目录
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>综合：电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里）</td><td align="center">293</td><td align="center">2026-11-19</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>综艺：热门综艺节目完整资源，持续更新</td><td align="center">92</td><td align="center">2026-11-19</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>动漫：番剧、动画电影与二次元资源</td><td align="center">147</td><td align="center">2026-11-19</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>软件游戏：Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">35</td><td align="center">2026-11-18</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>纪录片：人文、美食、历史、自然与科普纪录片</td><td align="center">16</td><td align="center">2026-11-19</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>音乐：无损音乐、专辑与 MV 资源</td><td align="center">20</td><td align="center">2026-11-19</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>教程学习：课程、教程与学习资料合集</td><td align="center">61</td><td align="center">2026-11-19</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>怀旧剧场：经典老剧、老电影与怀旧影视</td><td align="center">200</td><td align="center">2026-11-19</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>海外剧场：美剧、日韩剧等海外剧集</td><td align="center">72</td><td align="center">2026-11-19</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里/光鸭）</td><td align="center">293</td><td align="center">2026-11-19</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>热门综艺节目完整资源，持续更新</td><td align="center">92</td><td align="center">2026-11-19</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>番剧、动画电影与二次元资源</td><td align="center">147</td><td align="center">2026-11-19</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">35</td><td align="center">2026-11-18</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>人文、美食、历史、自然与科普纪录片</td><td align="center">16</td><td align="center">2026-11-19</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>无损音乐、专辑与 MV 资源</td><td align="center">20</td><td align="center">2026-11-19</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>课程、教程与学习资料合集</td><td align="center">61</td><td align="center">2026-11-19</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>经典老剧、老电影与怀旧影视</td><td align="center">200</td><td align="center">2026-11-19</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>美剧、日韩剧等海外剧集</td><td align="center">72</td><td align="center">2026-11-19</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
