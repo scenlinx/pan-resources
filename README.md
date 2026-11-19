@@ -218,6 +218,12 @@ UC网盘：https://drive.uc.cn/s/b1d80f8474314 名称：十万狂花入梦来 (2
 
 <img src="https://raw.githubusercontent.com/scenlinx/panws.net/main/public/4k.webp" />
 
+https://i.newmt.fun/
+
+https://my.feishu.cn/wiki/HazawjO0Jitk5cklbutcblkDn9l
+
+https://www.kdocs.cn/l/cdYpZDyr3XAt
+
 ## 盘万搜(百万搜索) | panws.net
 
 百万搜索是免费网盘搜索引擎，聚合百度网盘、夸克网盘、UC网盘、迅雷云盘、阿里云盘、115网盘等多平台网盘资源，支持网盘搜索与资源下载，一键获取资源链接，覆盖电影、电视剧、动漫、软件、学习资料、音乐、电子书等，无需登录注册，作为网盘资源搜索神器与资源网站，快速无广告，每日更新。
