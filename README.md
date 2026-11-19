@@ -218,11 +218,11 @@ UC网盘：https://drive.uc.cn/s/b1d80f8474314 名称：十万狂花入梦来 (2
 
 <img src="https://raw.githubusercontent.com/scenlinx/panws.net/main/public/4k.webp" />
 
-https://i.newmt.fun/
+备用网站：https://i.newmt.fun/
 
-https://my.feishu.cn/wiki/HazawjO0Jitk5cklbutcblkDn9l
+AI教程/副业项目/素材模板：https://my.feishu.cn/wiki/HazawjO0Jitk5cklbutcblkDn9l
 
-https://www.kdocs.cn/l/cdYpZDyr3XAt
+热门资源合集：https://www.kdocs.cn/l/cdYpZDyr3XAt
 
 ## 盘万搜(百万搜索) | panws.net
 
