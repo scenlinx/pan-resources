@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里/光鸭）</td><td align="center">374</td><td align="center">2026-11-20</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>热门综艺节目完整资源，持续更新</td><td align="center">108</td><td align="center">2026-11-20</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>番剧、动画电影与二次元资源</td><td align="center">181</td><td align="center">2026-11-20</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里/光鸭）</td><td align="center">418</td><td align="center">2026-11-20</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>热门综艺节目完整资源，持续更新</td><td align="center">116</td><td align="center">2026-11-20</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>番剧、动画电影与二次元资源</td><td align="center">191</td><td align="center">2026-11-20</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">35</td><td align="center">2026-11-18</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>人文、美食、历史、自然与科普纪录片</td><td align="center">21</td><td align="center">2026-11-19</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>无损音乐、专辑与 MV 资源</td><td align="center">23</td><td align="center">2026-11-20</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>课程、教程与学习资料合集</td><td align="center">68</td><td align="center">2026-11-19</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>经典老剧、老电影与怀旧影视</td><td align="center">230</td><td align="center">2026-11-20</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>美剧、日韩剧等海外剧集</td><td align="center">78</td><td align="center">2026-11-19</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>人文、美食、历史、自然与科普纪录片</td><td align="center">22</td><td align="center">2026-11-20</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>无损音乐、专辑与 MV 资源</td><td align="center">28</td><td align="center">2026-11-20</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>课程、教程与学习资料合集</td><td align="center">75</td><td align="center">2026-11-20</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>经典老剧、老电影与怀旧影视</td><td align="center">251</td><td align="center">2026-11-20</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>美剧、日韩剧等海外剧集</td><td align="center">80</td><td align="center">2026-11-20</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,256 +24,214 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 妈妈发疯了
-[2026-11-20 03:08]
+## 四渡2026
+[2026-11-20 14:01]
 
-名称：妈妈发疯了(2026)1080P 简中字幕 更新39集
+名称：《四渡》2026 [4K HDR 60Fps] [高码率] [刘烨 王雷 于适] [历史 战争 主旋律]
 
-描述：讲述了一位为家人奉献一生的母亲(金熙贞 饰)决定开启独立人生，与她那群不断闯祸、“如同仇人般”的孩子们之间发生的激烈冲突与搞笑日常。
+描述：长征时期，红军身处绝境。四渡赤水堪称红军的绝地反击之战。在毛泽东(刘烨 饰)的带领下，红军一渡赤水时形势所迫、实属无奈；二渡赤水出其不意，打了敌人个措手不及；三渡赤水堪称精妙之笔，尽显战略智慧；四渡赤水更是神来之笔，操作令人叫绝。这一系列军事行动创造了战争史上的经典战例，成为运动战的传奇典范。
 
-夸克网盘：https://pan.quark.cn/s/d63027b53b46
+夸克网盘：https://pan.quark.cn/s/bfd5cf42d59c
 
-UC网盘：https://drive.uc.cn/s/69a871fe50334
+📁 大小：877.98 MB
 
-夸克网盘：https://pan.quark.cn/s/a39bfba730cb 名称：妈妈发疯了 [1080p][内封简繁英字幕][更新至38集]
+🏷 标签：#四渡 #历史 #战争 #4K #HDR #高码率 #60Fps #刘烨 #王雷 #于适 #主旋律 #quark
 
-迅雷网盘：https://pan.xunlei.com/s/VP38TG--XoC-KIE_MpqX08_gA1?pwd=5hqq 名称：妈妈发疯了 [1080p][内封简繁英字幕][更新至38集]
 
-📁 大小：1GB/一集
+## 相遇骤雨中温柔的细雨
+[2026-11-20 13:55]
 
-🏷 标签：#妈妈发疯了 #日日剧 #郑敏儿 #董夏 #quark #uc #1080P #简中字幕
+名称：相遇骤雨中：温柔的细雨 相遇骤雨中 第二季 ふったらどしゃぶり メロウレイン (2026) 【更新至03集】【1080p】【日语中字】【附第一季】【BL日剧】
 
+描述：因一通错发的邮件而开始分享彼此“性烦恼”的萩原一显(武藤润 饰)与半井整(伊藤明日阳 饰)，在冲动之下发生关系后，两人各自与伴侣分手，终于确认了彼此的心意——
 
-## 欲望的陷阱
-[2026-11-20 03:07]
+那之后四个月，从大阪外派归来的一显，前往开始独居的整的新居，两人终于以“恋人”的身份在一起。
 
-名称：欲望的陷阱(2026)1080P 简中字幕 更新61集
+共同围坐的餐桌边、不经意的对话——在充满爱意又又有些错位的日常中，一显对前恋人未了的念想，整心中悄然滋长的小小嫉妒，以及彼此与家族的关系和过往的记忆，静静地撼动着两个人的心。
 
-描述：剧集讲述遭诬陷杀人而人生被夺走的女人，对抗巨大的欲望，并复原人生的复仇剧
+这是一个关于跳过了“恋爱顺序”的两人，正一步步编织出“只属于他们自己的爱的形态”的故事。
 
-夸克网盘：https://pan.quark.cn/s/99df1d3749d6
+夸克网盘：https://pan.quark.cn/s/db975a1f7ba7
 
-UC网盘：https://drive.uc.cn/s/297ead31568a4
+📁 大小：NA
 
-夸克网盘：https://pan.quark.cn/s/c3c6e3b0d080 名称：欲望的陷阱 [1080p][内封简繁英字幕][更新至60集]
+🏷 标签：#爱情 #同性 #相遇骤雨中 #温柔的细雨 #quark
 
-迅雷网盘：https://pan.xunlei.com/s/VOzjCKofo4d3aCcnD5agM6tEA1?pwd=8g6y 名称：欲望的陷阱 [1080p][内封简繁英字幕][更新至60集]
 
-📁 大小：540MB
+## 霓裳尽欢
+[2026-11-20 13:47]
 
-🏷 标签：#欲望的陷阱 #日日剧 #张瑞希 #全惠媛 #quark #uc #1080P #简中字幕
+名称：霓裳尽欢（2026）4K S01 杜比音效
 
+描述：霓裳楼新主人萧渺渺，长相美艳舞姿翩然，一举赢得了京城首富节度使韦易安的芳心，引发韦府三夫人薛桃儿的妒杀之心。却由此揭开了一个惊天秘密——萧渺渺的真实身份是当年镇远军萧将军嫡女萧眉儿。十年前她为父复仇失败，是少年崔十郎出手相救才得以活命。这一次，她改头换面从西域再度归来，与已经是大理寺少卿的崔十郎产生了命运的纠葛，携手开始了华丽的复仇。
 
-## 尤金尼亚之谜
-[2026-11-20 01:34]
+百度网盘：https://pan.baidu.com/s/1K83sx3o5RbTLqYwmJddv4g?pwd=mw3a
 
-名称：尤金尼亚之谜 (2026) 1080P 高码率 中文字幕【更新EP02】
+夸克网盘：https://pan.quark.cn/s/370e1de197af 名称：霓裳尽欢（2026）4K S01 杜比音效
 
-描述：故事以发生在北陆K市名门望族、造成17人死亡的“中大垣町大规模毒杀案”揭开序幕。围绕这起震惊全国的案件，曾作为第一发现者并将事件写成小说的作家、幸存下来的失明少女，以及持续追查真相的女记者等三位女性，与其他相关人物一起，即使在案件发生30年后，依然无法摆脱这起毒杀事件的阴影，并不断被其命运所牵引。
+📁 大小：5GB
 
-本剧改编自恩田陆的同名原作小说。
+🏷 标签：#剧情 #霓裳尽欢
 
-夸克网盘：https://pan.quark.cn/s/d5e255189271
 
-百度网盘：https://pan.baidu.com/s/1bmWyWU64u0uURJDu7kPTNg?pwd=8888
+## 罪恶拼图
+[2026-11-20 13:46]
 
-UC网盘：https://drive.uc.cn/s/ca83fdc49d934
+名称：罪恶拼图（2026）4K S01E01 - E16 杜比音效
 
-📁 大小：3.5G/集
+描述：溪州市刑警副队长秦月见拥有罕见的过目不忘能力，她能记住经历过的每一个细节，凭借这项天赋，她屡破奇案，却也在反复回溯的记忆中承受着常人难以想象的压力。新调任来的女警梁晚成为秦月见的新搭档，两人从最初的磨合与猜疑，到逐渐建立信任，在一桩桩离奇诡异的案件中并肩作战，抽丝剥茧追查真相。随着调查深入，她们不仅要面对外部的犯罪阴影，还要直面各自内心深处不愿触碰的记忆与秘密。
 
-🏷 标签：#尤金尼亚之谜 #剧情 #战争 #惊悚 #1080P #高码率 #中文字幕 #quark #baidu #uc
+百度网盘：https://pan.baidu.com/s/164HskSx8aoTsPyflobRZ2A?pwd=eub3
 
+夸克网盘：https://pan.quark.cn/s/c0a0a925f501 名称：罪恶拼图（2026）4K S01E01 - E16 杜比音效
 
-## 谷雨
-[2026-11-20 01:31]
+📁 大小：4GB
 
-名称：谷雨 (2026) 4K HQ HDR 60帧率 高码率 国语中字【全30集】【井柏然/孙艺洲】
+🏷 标签：#剧情 #罪恶拼图
 
-描述：1994年，春江市税务局稽查员欧阳旭(井柏然饰)与刑警严平安(孙艺洲饰)、寻妻的周海洋(张颂文饰)三人因一起假发票案识于微时，携手屡破税案，但时代的发展和遭遇的不同，将三人推向不同的命运，三人也因各自的性格和追求作出了不同的选择，最终渐行渐远，由正邪的立场发展出迥异的命运轨迹。而今，他们的命运又因“谷雨”行动再次交汇，曾经的兄弟成为了如今的对手，在情与理之间，欧阳旭与以周海洋为首的骗税团伙以及深不见底的“保护伞”展开层层较量，由一张张小小发票，揭开贪婪私欲，最终以一场稽查风暴荡涤污秽，让正义重构社会清明。
 
-夸克网盘：https://pan.quark.cn/s/1ac040e9f067
+## 十万狂花入梦来
+[2026-11-20 13:21]
 
-百度网盘：https://pan.baidu.com/s/1vdTzTGK-ZpwZhyNozPIpIw?pwd=8888
+名称：十万狂花入梦来（2026） 4K 更新至15集
 
-UC网盘：https://drive.uc.cn/s/240118f35b804
+描述：“万恶之源”的魔头岐凤殷邂逅“唐僧肉”体质的少女鸭毛，被迫绑定的二人相互厌弃又相互救赎，历经长发枯骨、昼人夜妖、化蛟为龙、血池还魂、红妆剜心、金鱼花火六件诡案，破解幕后阴谋，终洗清彼此污名，还此间世界自由，令有情人得以相守。
 
-光鸭云盘：https://www.guangyapan.com/s/1966152327468806203_aeWyYGMH80b6bD4M 名称：谷雨（2026）4K 10bit 60FPS 内封简中 全EP30
+百度网盘：https://pan.baidu.com/s/1rgP2EscIj4v27-bUlKpo1g?pwd=9FF9
 
-📁 大小：5G/集
+百度网盘：https://pan.baidu.com/s/1H_5M_4dHWo1PrnJK98i_ng?pwd=6666 名称：十万狂花入梦来 (2026)剧情 爱情 古装 4KHQHDR60FPS 更新15集
 
-🏷 标签：#谷雨 #剧情 #犯罪 #悬疑 #井柏然 #孙艺洲 #4K #HDR #60帧率 #高码率 #国语中字 #quark #baidu #uc
+夸克网盘：https://pan.quark.cn/s/6a46ffa2e90f 名称：十万狂花入梦来 (2026)剧情 爱情 古装 4KHQHDR60FPS 更新15集
 
+光鸭云盘：https://www.guangyapan.com/s/1968891708894507062_aeWnPia0Twth-NLu 名称：十万狂花入梦来 (2026)剧情 爱情 古装 4KHQHDR60FPS 更新15集
 
-## 我和妈妈的长征
-[2026-11-20 01:27]
+百度网盘：https://pan.baidu.com/s/1VCUFsynVZQOJM8NoNN49VQ?pwd=1111 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至15集]
 
-名称：我和妈妈的长征 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP14】【童蕾/张桐】又名：我和妈妈走长征
+夸克网盘：https://pan.quark.cn/s/5b93c9a17597 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至15集]
 
-描述：1934年，苏区红军进行战略转移前夕，去南昌探亲的水葱意外卷入一场对南昌地下党的阴谋屠杀。杀戮中，水葱被侦查员陈子明所救，而她的老公徐广轩被同志掩护，也成了这场阴谋中活下来的人。回到中央苏区，专办此案的潘秀山一口咬定徐广轩是贪生怕死的叛徒，幸亏陈子明带回铁证，从枪口下救出徐广轩，原来潘秀山才是真正的叛徒。第五次反围剿开始，红军迅速转移，徐广轩临危受命，要赶赴湘江战场，夫妻别过。掉队的水葱与陈子明决定追赶大部队。一路上，他们误入土匪窝、遭遇当地军阀、水葱女儿被抓，历经重重危险。千钧一发时刻，徐广轩带团四渡赤水，兵临城下，与军阀郭孝峰对峙，经过一番激烈较量，徐广轩救下妻女，一家团聚，最后率领部队，克服无数艰难险阻，终于到达陕北吴起。
+迅雷网盘：https://pan.xunlei.com/s/VP6TTaWO518tg-II5HwZwjceA1?pwd=2yai 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至15集]
 
-夸克网盘：https://pan.quark.cn/s/d5aaf84e9e99
+光鸭云盘：https://www.guangyapan.com/s/1968992058792099913_aeWiyJwocgzRgCVm 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至15集]
 
-百度网盘：https://pan.baidu.com/s/1fPEqNTwJ9Yu_tFFgGr-LJw?pwd=8888
+夸克网盘：https://pan.quark.cn/s/d1ff8db00651 名称：十万狂花入梦来 (2026) 4K SDR 高码率 AAC2.0 中字【5.6GB/集】更15集，李宏毅/孙珍妮
 
-UC网盘：https://drive.uc.cn/s/2176b148228f4
+📁 大小：7.2GB
 
-📁 大小：4.5G/集
+🏷 标签：#剧情 #爱情 #古装 #十万狂花入梦来
 
-🏷 标签：#我和妈妈的长征 #剧情 #童蕾 #张桐 #4K #HDR #高码率 #60帧率 #国语中字 #quark #baidu #uc
 
+## 宝珠
+[2026-11-20 13:19]
 
-## 多喜一家人
-[2026-11-20 01:27]
+名称：《宝珠 》2026 更新至 - 第 08 集 - [4K] [AAC] [代露娃 赖伟明 何洛洛] [古装 爱情 先婚后爱]
 
-名称：多喜一家人 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP10】又名：荷风吹
+描述：屠户之女金宝珠是个俗人，贪财好色，锱铢必较，毕生梦想不过穿金佩银，享尽荣华。父亲病故，家人的压榨更加变本加厉。金宝珠为摆脱剥削，毛遂自荐嫁与漕运世家嫡子谢砚为妾，本以为自此便能享尽富贵，谁知谢砚最恨俗物。
 
-描述：2008年中国经济腾飞的时代，生活在胶东半岛的赛多喜一家迎来了生活剧变，一笔不菲的拆迁款将赛家原本的沉疴旧疾放到了台面上：跋扈专制的父亲赛多喜为维护自己的家庭统治地位搅得儿女鸡飞狗跳，赛家的五对儿女又是五幅众生相，而突如其来的变故让赛多喜“一家之主”的统治地位被动摇，同时五对子女也开始审视赛家的代际关系，各自直面自己的人生困境。最终，赛家人逐渐懂得，有平等尊严的地方才是家，家人之间的相聚团圆才叫爱。
+谢砚年少成名，恃才傲物，却因一场意外双腿尽废，声名狼藉。此后谢砚自暴自弃，常年与纨绔子弟厮混，为让谢砚收心立业，家中强将金宝珠嫁与谢砚，岂料事与愿违，两人此后日日针锋相对。
 
-夸克网盘：https://pan.quark.cn/s/65b0d9c5615c
+初入谢家，金宝珠腹背受敌：丈夫顽劣不堪，打！亲戚野心勃勃，斗！权贵冷嘲热讽，争！日子危机四伏，过！金宝珠与谢砚朝夕共处，同仇敌忾，渐渐暗生情愫……各方势力轮番登场，谢家岌岌可危，金宝珠与谢砚奋力一搏，终为谢家谋得生机，两人终成眷属。
 
-百度网盘：https://pan.baidu.com/s/18Yte0nDQ7DPxYhq5emnlbQ?pwd=8888
+谢砚，你可知我当年为何毛遂自荐？
 
-UC网盘：https://drive.uc.cn/s/8b829f591ef84
+你是俗人，贪财好色。
 
-光鸭云盘：https://www.guangyapan.com/s/1969473767451021338_adyPbY8EdLN_2AZv 名称：多喜一家人 (2026)
+普年你骑马游街，我在街边摆摊，匆匆一督。
 
-百度网盘：https://pan.baidu.com/s/1iMrR9ZEc9F2KRJDA1c4Drg?pwd=Qiye 名称：多喜一家人(2026)4k DoVi WEB-DL 60Fps HDR 杜比视界 简体字幕 第10集
+只此一眼，一眼万年。
 
-夸克网盘：https://pan.quark.cn/s/47582ebcdaf5 名称：多喜一家人(2026)4k DoVi WEB-DL 60Fps HDR 杜比视界 简体字幕 第10集
+夸克网盘：https://pan.quark.cn/s/1e5aa8d3c2bd
 
-光鸭云盘：https://www.guangyapan.com/s/1969431511658565694_aeWYeSwV3ZOZlzEy 名称：多喜一家人(2026)4k DoVi WEB-DL 60Fps HDR 杜比视界 简体字幕 第10集
+百度网盘：https://pan.baidu.com/s/1ihkUkUQqC88GBjvj9njgaQ?pwd=6F4v 名称：宝珠（2026） 更新至08集
 
-UC网盘：https://drive.uc.cn/s/953b96919eff4 名称：多喜一家人 (2026) 更至10集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
+百度网盘：https://pan.baidu.com/s/1hhwZs95CrWYrackBJn8gQw?pwd=2hq7 名称：宝珠（2026）4K S01E01 - E08
 
-百度网盘：https://pan.baidu.com/s/1KNJGFsfiKKbC-7WApL0rnA?pwd=1119 名称：多喜一家人 (2026) 更至10集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
+夸克网盘：https://pan.quark.cn/s/f84897c5f2ff 名称：宝珠（2026）4K S01E01 - E08
 
-夸克网盘：https://pan.quark.cn/s/ae2f4346f6b3 名称：多喜一家人 (2026) 更至10集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
+百度网盘：https://pan.baidu.com/s/1EH5_-wqG05PKyn2h2sgvIQ?pwd=6666 名称：宝珠 (2026)爱情 古装 代露娃 4K 更新08集
 
-迅雷网盘：https://pan.xunlei.com/s/VP6oMSMRhcHAdGx4dPAFcIV5A1?pwd=h4i5 名称：多喜一家人 (2026) 更至10集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
+夸克网盘：https://pan.quark.cn/s/ef34dd56d718 名称：宝珠 (2026)爱情 古装 代露娃 4K 更新08集
 
-光鸭云盘：https://www.guangyapan.com/s/1969388673105293384_ao--TrOR7sKiY7EK?code=1116 名称：多喜一家人 (2026) 更至10集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
+光鸭云盘：https://www.guangyapan.com/s/1970010846296043576_aeWnPia0Twth-NLu 名称：宝珠 (2026)爱情 古装 代露娃 4K 更新08集
 
-百度网盘：https://pan.baidu.com/s/1Vo0RT7TKGuIv_hBVVcbzzA?pwd=6666 名称：多喜一家人 (2026) 4K 高码率 [DV&HDR] [更新10集]
+百度网盘：https://pan.baidu.com/s/16VDbSebGFWdsarTgb0qCMg?pwd=u8wh 名称：宝珠（2026）Disney+ 1080p 内封简中 更至EP08
 
-夸克网盘：https://pan.quark.cn/s/e5c51c44e4dc 名称：多喜一家人 (2026) 4K 高码率 [DV&HDR] [更新10集]
+夸克网盘：https://pan.quark.cn/s/448196738b7b 名称：宝珠（2026）Disney+ 1080p 内封简中 更至EP08
 
-阿里云盘：https://www.alipan.com/s/H3f7VzyehMR 名称：多喜一家人 (2026) 4K 高码率 [DV&HDR] [更新10集]
+夸克网盘：https://pan.quark.cn/s/f355edffbef2 名称：宝珠 (2026) 4K SDR 高码率 AAC2.0 中字【3.3GB/集】更08集，代露娃/赖伟明
 
-夸克网盘：https://pan.quark.cn/s/4801f659eaa9 名称：多喜一家人 (2026) 更至10集 [4K][类型: 家庭][主演: 梁冠华/蒋欣/李光洁/杨采钰]
+百度网盘：https://pan.baidu.com/s/1jSnwITZVzEsvpue2k26Qng?pwd=1111 名称：宝珠 (2026) [1080P] [国语中字] [更至8集]
 
-夸克网盘：https://pan.quark.cn/s/a3c84685a882 名称：多喜一家人 (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 中字【4.9GB/集】更09集，梁冠华/蒋欣
+夸克网盘：https://pan.quark.cn/s/f06b83a79257 名称：宝珠 (2026) [1080P] [国语中字] [更至8集]
 
-夸克网盘：https://pan.quark.cn/s/930de15adda8 名称：多喜一家人 4K臻彩MAX [2026][HDR][60fps][内封简繁字幕][更新至10集]
+迅雷网盘：https://pan.xunlei.com/s/VP6gwQQWl7PoG9Dg87_v95C3A1?pwd=dfa6 名称：宝珠 (2026) [1080P] [国语中字] [更至8集]
 
-迅雷网盘：https://pan.xunlei.com/s/VP6ntDrVuuI8VIGqIzKNPGG5A1?pwd=mxx9 名称：多喜一家人 4K臻彩MAX [2026][HDR][60fps][内封简繁字幕][更新至10集]
+光鸭云盘：https://www.guangyapan.com/s/1970010257780650070_aeWiyJwocgzRgCVm 名称：宝珠 (2026) [1080P] [国语中字] [更至8集]
 
-百度网盘：https://pan.baidu.com/s/1j7rjg_QAT5nl9Lbdo7wkIQ?pwd=1111 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至10集]
+📁 大小：24.38 GB
 
-夸克网盘：https://pan.quark.cn/s/858fa9ef8193 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至10集]
+🏷 标签：#宝珠 #爱情 #古装 #4K #AAC #先婚后爱 #代露娃 #赖伟明 #何洛洛 #quark
 
-迅雷网盘：https://pan.xunlei.com/s/VP6iAngJwJrj5_9Ix2wlKYt8A1?pwd=s9gt 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至10集]
 
-光鸭云盘：https://www.guangyapan.com/s/1969406158730866760_aeWiyJwocgzRgCVm 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至10集]
+## 热烈的告别
+[2026-11-20 13:11]
 
-百度网盘：https://pan.baidu.com/s/13QhAcHsKe3pMcPoWVBk8kw?pwd=8bfv 名称：多喜一家人 (2026) 4K HDR 内嵌中字至10
+名称：热烈的告别 (2026) S01E01-E04 1080P SDR高码率 内封简中字幕
 
-夸克网盘：https://pan.quark.cn/s/3ad84f257c97 名称：多喜一家人 (2026) 4K HDR 内嵌中字至10
+描述：改编自日本电视台经典日剧《喜剧开场》； 故事描述三个出道 10 年却始终默默无名的搞笑艺人组成搞笑三人组“阿修罗”，在面临生活与梦想的交叉路口时，遇见了一名身份神秘的女性，彼此治愈并重新寻找未来方向的青春成长喜剧。
 
-阿里云盘：https://www.alipan.com/s/VgVVEUP93zF 名称：多喜一家人(2026) 4K 更新至10集
+夸克网盘：https://pan.quark.cn/s/05bd73b12154
 
-百度网盘：https://pan.baidu.com/s/127eiPKMCJ8YZtNpE_WDHnw?pwd=hh8c 名称：多喜一家人（2026）4K 60FPS S01E01 - E10
+百度网盘：https://pan.baidu.com/s/1eyHUK2pa1GfXp-Q3S5aOYg?pwd=cY23
 
-夸克网盘：https://pan.quark.cn/s/b45fedee3521 名称：多喜一家人（2026）4K 60FPS S01E01 - E10
+📁 大小：16.00 GB
 
-百度网盘：https://pan.baidu.com/s/1QjHsWu9Yi0hwLDpfEkZbcg?pwd=65AD 名称：多喜一家人（2026） 4K 更新至10集
+🏷 标签：#热烈的告别 #剧情 #喜剧 #1080P #SDR高码率 #内封简中字幕 #quark #baidu
 
-百度网盘：https://pan.baidu.com/s/1ljHMkfwKbiLdtQM6Obkfqg?pwd=yptv 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更10集】【家庭】【梁冠华/蒋欣】
 
-夸克网盘：https://pan.quark.cn/s/1d51efb650f3 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更10集】【家庭】【梁冠华/蒋欣】
+## 镶金理想
+[2026-11-20 13:06]
 
-迅雷网盘：https://pan.xunlei.com/s/VP6nJAsqCoeKaf6VoqMFZIIFA1?pwd=nkmc 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更10集】【家庭】【梁冠华/蒋欣】
+名称：镶金理想(2026)NF 4K DV&HDR 内封官中 全08集
 
-夸克网盘：https://pan.quark.cn/s/d371cb93f2d8 名称：多喜一家人 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP09】又名：荷风吹
+描述：在这个取材于真实诈骗案的有毒爱情故事中，理想主义的年轻人突然间坐拥亿万身家，而本欲行善的他们却释放出彼此最丑恶的一面。
 
-夸克网盘：https://pan.quark.cn/s/50ecd737fadc 名称：多喜一家人 (2026) 4K SDR 更至EP09
+夸克网盘：https://pan.quark.cn/s/cef0056a0ff8
 
-光鸭云盘：https://www.guangyapan.com/s/1969431274835566686_ad5KFI8EdLN_2Dyr 名称：多喜一家人 (2026) 4K SDR 更至EP09
+百度网盘：https://pan.baidu.com/s/1PnCIDbAD3-dULXAXaCP9Sg?pwd=22k4
 
-夸克网盘：https://pan.quark.cn/s/ca2c4455595e 名称：多喜一家人 (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 中字 更09集，梁冠华/蒋欣
+📁 大小：61.45G
 
-百度网盘：https://pan.baidu.com/s/1mm6TdjEW2Rx7ETz6r_sEUA?pwd=6666 名称：多喜一家人 (2026)家庭 4KHDR60FPS 更新09集
+🏷 标签：#镶金理想 #犯罪 #剧情 #NF #4K #DV #HDR #内封官中 #quark #baidu
 
-夸克网盘：https://pan.quark.cn/s/988864f3fb0d 名称：多喜一家人 (2026)家庭 4KHDR60FPS 更新09集
 
-光鸭云盘：https://www.guangyapan.com/s/1969406051553804288_aeWnPia0Twth-NLu 名称：多喜一家人 (2026)家庭 4KHDR60FPS 更新09集
+## 兰香如故
+[2026-11-20 13:06]
 
-📁 大小：5G/集
+名称：兰香如故 (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 中字【5GB/集】全47集，谭松韵/刘学义
 
-🏷 标签：#多喜一家人 #家庭 #梁冠华 #蒋欣 #4K #HDR #60帧率 #高码率 #国语中字 #荷风吹 #quark #baidu #uc
+描述： 该剧根据禾晏山小说《兰香缘》改编。 大学士府长孙女沈嘉兰与吏部尚书林家的长孙林锦楼订下婚约，然而朝堂风云突变，祖父沈大学士被判谋逆之罪，沈家惨遭灭门。林家为了自保，与沈家退婚，另与御前新贵赵家结亲。沈嘉兰母亲崔氏曾接济过的林家家奴许万全夫妇用刚病亡的女儿许兰香替下嘉兰。嘉兰从此顶着许 兰香的身份，成为林府的一名三等丫鬟。在艰难的境遇中，兰香没有向命运低头，始终为自己和家人的幸福生活努力着，反抗一切不公与压迫。最终，兰香凭借自己的善良与聪慧，突破阶级身份的束缚，赢得林锦楼倾心的同时也获得了林家上下的信服与尊重，成为林家的当家人，将命运牢牢掌控在自己的手中，为沈家洗刷冤屈讨回公道。 又名： 兰香缘
 
+夸克网盘：https://pan.quark.cn/s/b298b0861f44
 
-## 分手代理GL百合泰国
-[2026-11-20 01:24]
+📁 大小：5GB/集
 
-名称：分手代理GL百合泰国(2026)1080P 简中字幕 更新6集
+🏷 标签：#兰香如故  #剧情 #爱情 #古装
 
-描述：Thitinan ("Jayna" Angelina Stevens 饰) 什么工作都接——假扮女友、拆散别人的关系；或者，只为 Chat 小姐 ("Ginny" Natnicha Pratipnatsiri 饰) 特别服务——当一名“卧室陪练”。~~改编自 Yuufuku 的小说《Love on Hire》(รับจ้าง(เลิก)รัก) ~~
 
-夸克网盘：https://pan.quark.cn/s/aef3ba64c94a
+## 赢的诡辩术在交锋中占上风的诡辩实战技巧
+[2026-11-20 12:46]
 
-UC网盘：https://drive.uc.cn/s/b5d65ddcbe554
+名称：《赢的诡辩术》：在交锋中占上风的诡辩实战技巧
 
-📁 大小：540MB
+描述：为什么有人总能在争论中占上风，你却事后才想起怎么反驳？差别就在诡辩的功夫。本书系统讲解辩论交锋中的诡辩技巧——如何偷换概念让对方接不上话、如何以退为进化解刁难、如何借力打力把攻击弹回去。
 
-🏷 标签：#分手代理 #百合 #GL #泰百 #quark #uc #分手代理GL百合泰国 #1080P #简中字幕
+夸克网盘：https://pan.quark.cn/s/b2426fc5f6e0
 
+百度网盘：https://pan.baidu.com/s/1c8Bn7a_WKEMWn44PAHogcg?pwd=3seh
 
-## 步步惊心泰版
-[2026-11-20 01:22]
+📁 大小：NG
 
-名称：步步惊心泰版(2026)1080P 简中字幕 更新06集
-
-描述：故事讲述现代女子 Naboon 意外穿越到架空历史背景的虚构城邦“乌拉维”(Ullavee)，并附身在贵族千金 Fongnuan 的身上。她除了要在完全陌生的古代环境中生存、卷入多位个性迥异的皇子之间的情感纠葛外，还必须面对夺嫡之争的残酷政治风暴
-
-夸克网盘：https://pan.quark.cn/s/d29f0762e3d1
-
-UC网盘：https://drive.uc.cn/s/259c8fc4a8bc4
-
-📁 大小：1.3GB
-
-🏷 标签：#泰剧 #步步惊心泰版 #肥皂剧 #1080P #简中字幕 #quark #uc
-
-
-## 田园恋曲
-[2026-11-20 01:22]
-
-名称：田园恋曲(2026)1080P 简中字幕 更新17集
-
-描述：父亲去世后，Auemdao 背负债务，不得不忍痛卖掉家里心爱的水牛。随后，她与一位魅力十足的养殖者携手，努力把它们买回来。
-
-夸克网盘：https://pan.quark.cn/s/f060155bc3d2
-
-UC网盘：https://drive.uc.cn/s/b9a9ee3a6dc74
-
-📁 大小：1.3GB
-
-🏷 标签：#泰剧 #田园恋曲 #肥皂剧 #1080P #简中字幕 #quark #uc
-
-
-## 保卫国土
-[2026-11-20 01:22]
-
-名称：保卫国土(2026)1080P 简中字幕 更新09集
-
-描述：From war-torn Kasay, Mintada and Siplai are sent to Thailand to study hoping to bring back knowledge to aid their homeland. There, Mintada falls for affluent Punpasa, facing opposition from her family and Siplai over their romance.
-
-夸克网盘：https://pan.quark.cn/s/36965df3caa4
-
-UC网盘：https://drive.uc.cn/s/d10cf7df406a4
-
-📁 大小：3.1GB
-
-🏷 标签：#泰剧 #保卫国土 #肥皂剧 #1080P #简中字幕 #quark #uc
+🏷 标签：#辩论技巧 #以巧破局 #以言制胜 #化解刁难 #偷换概念 #赢的诡辩术 #在交锋中占上风的诡辩实战技巧 #quark #baidu
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
