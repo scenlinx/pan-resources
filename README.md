@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里/光鸭）</td><td align="center">550</td><td align="center">2026-11-21</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>热门综艺节目完整资源，持续更新</td><td align="center">154</td><td align="center">2026-11-21</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>番剧、动画电影与二次元资源</td><td align="center">259</td><td align="center">2026-11-21</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里/光鸭）</td><td align="center">580</td><td align="center">2026-11-22</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>热门综艺节目完整资源，持续更新</td><td align="center">165</td><td align="center">2026-11-22</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>番剧、动画电影与二次元资源</td><td align="center">273</td><td align="center">2026-11-22</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
 <tr><td align="center">4</td><td><b>软件游戏</b><br>Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">35</td><td align="center">2026-11-18</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>人文、美食、历史、自然与科普纪录片</td><td align="center">29</td><td align="center">2026-11-21</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>人文、美食、历史、自然与科普纪录片</td><td align="center">31</td><td align="center">2026-11-21</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
 <tr><td align="center">6</td><td><b>音乐</b><br>无损音乐、专辑与 MV 资源</td><td align="center">37</td><td align="center">2026-11-21</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>课程、教程与学习资料合集</td><td align="center">101</td><td align="center">2026-11-21</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>经典老剧、老电影与怀旧影视</td><td align="center">331</td><td align="center">2026-11-21</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>美剧、日韩剧等海外剧集</td><td align="center">97</td><td align="center">2026-11-21</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>课程、教程与学习资料合集</td><td align="center">102</td><td align="center">2026-11-22</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>经典老剧、老电影与怀旧影视</td><td align="center">348</td><td align="center">2026-11-22</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>美剧、日韩剧等海外剧集</td><td align="center">101</td><td align="center">2026-11-22</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,432 +24,238 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 重生密码
-[2026-11-21 22:29]
+## 爱情来了
+[2026-11-22 04:53]
 
-名称：重生密码 (2026)  更至11集 [4K][中国台湾][悬疑/科幻][邱泽/陈意涵]
+名称：爱情来了(2026)1080P 简中字幕 更新32集
 
-描述：1956年，一场神秘的冷冻实验，让码头工会首领周亦白从此消失。多年后奇迹苏醒，容貌未曾改变，世界却早已面目全非。失去的家庭、遭抹除的身份，以及一桩毫无记忆的纵火杀人案……究竟是谁，让他被时间遗忘？
+描述：该剧讲述收集破碎的家庭碎片，准备世界上最温暖的人生一桌的两位男女的家庭剧。
 
-夸克网盘：https://pan.quark.cn/s/c63d7b9af960
+夸克网盘：https://pan.quark.cn/s/5888b5d316a3
 
-百度网盘：https://pan.baidu.com/s/1j4gAO0t143LUu2cC39uljQ?pwd=1113
+UC网盘：https://drive.uc.cn/s/04e8f5774a9a4
 
-迅雷网盘：https://pan.xunlei.com/s/VP6K8G0e16pot0Eo3fvC7872A1?pwd=cj24
+光鸭云盘：https://www.guangyapan.com/s/1971254712173408265_adyLT48EdLN_2AYh 名称：爱情来了 (2026)
 
-光鸭云盘：https://www.guangyapan.com/s/1968335541541707803_ao--TrOR7sKiY7EK?code=1113
+📁 大小：1.6GB
 
-UC网盘：https://drive.uc.cn/s/095355d5bd734
-
-UC网盘：https://drive.uc.cn/s/066a432b76bb4 名称：重生密码 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP11】【邱泽/陈意涵】又名：-197℃ / 零下一九七 / 永生密码一九七
-
-百度网盘：https://pan.baidu.com/s/15OV_Mgt9o06Kh-mzqWtDhg?pwd=8888 名称：重生密码 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP11】【邱泽/陈意涵】又名：-197℃ / 零下一九七 / 永生密码一九七
-
-夸克网盘：https://pan.quark.cn/s/a136e10b9f2c 名称：重生密码 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP11】【邱泽/陈意涵】又名：-197℃ / 零下一九七 / 永生密码一九七
-
-百度网盘：https://pan.baidu.com/s/10tmzsy08ZbidCdFbu0TOAA?pwd=dg7m 名称：重生密码（2026）4K 臻彩MAX+ 60FPS 高码率 更至EP11
-
-夸克网盘：https://pan.quark.cn/s/70c856c23aaf 名称：重生密码（2026）4K 臻彩MAX+ 60FPS 高码率 更至EP11
-
-夸克网盘：https://pan.quark.cn/s/ec461b3793aa 名称：重生密码 (2026) 4K SDR 更至EP11
-
-光鸭云盘：https://www.guangyapan.com/s/1968550444818935845_ad5KFI8EdLN_2Dyr 名称：重生密码 (2026) 4K SDR 更至EP11
-
-百度网盘：https://pan.baidu.com/s/1jXwquYIMW0dvkfWapoT9JQ?pwd=tbdr 名称：重生密码（2026）4K 60FPS S01E01 - E09
-
-夸克网盘：https://pan.quark.cn/s/86e3c63e0ede 名称：重生密码（2026）4K 60FPS S01E01 - E09
-
-📁 大小：NG
-
-🏷 标签：#重生密码 #剧集 #4K #中国台湾 #悬疑 #科幻 #邱泽 #quark #baidu #xunlei #guangyapan #uc
-
-
-## 两京十五日
-[2026-11-21 22:27]
-
-名称：两京十五日 (2026) 更至06集 [4K][古装/剧情][成毅/林更新]
-
-描述：讲述了大明洪熙元年，太子朱瞻基在南京遭遇爆炸案后，与小捕快吴定缘、女医苏荆溪、小官于谦结伴，沿京杭大运河躲避层层追捕，在十五日内奔袭两千两百余里返回北京继承皇位的惊险历程 。历经水牢危机、民众风波与幕后黑手围剿，朱瞻基在极限逃亡中完成自我觉醒与命运抗争。
-
-夸克网盘：https://pan.quark.cn/s/82788d6fa9d6
-
-百度网盘：https://pan.baidu.com/s/1LM3xnnGLCHn8Fv1J-BigfQ?pwd=1120
-
-迅雷网盘：https://pan.xunlei.com/s/VP6slXxnuQ63cAmTgVLj_nKQA1?pwd=8zsz
-
-光鸭云盘：https://www.guangyapan.com/s/1970842840433487878_ao--TrOR7sKiY7EK?code=1120
-
-UC网盘：https://drive.uc.cn/s/b25cb582263a4
-
-光鸭云盘：https://www.guangyapan.com/s/1970886149260533800_adyLT48EdLN_2AYh 名称：两京十五日 (2026)
-
-光鸭云盘：https://www.guangyapan.com/s/1970898732805865518_adyPbY8EdLN_2AZv 名称：两京十五日 (2026)
-
-百度网盘：https://pan.baidu.com/s/1s4hvPfS00b98dM3W6SEJ9Q?pwd=11c7 名称：两京十五日（2026）NF 1080p 内封简中 更至EP06
-
-夸克网盘：https://pan.quark.cn/s/898346f7cfdc 名称：两京十五日（2026）NF 1080p 内封简中 更至EP06
-
-阿里云盘：https://www.alipan.com/s/N4UBF57rZM4 名称：两京十五日（2026） 4K 更新至06集
-
-UC网盘：https://drive.uc.cn/s/17cb002aa4604 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP06】【成毅/林更新】
-
-百度网盘：https://pan.baidu.com/s/1t2PFiVHSWcLZsBO4HEueKw?pwd=8888 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP06】【成毅/林更新】
-
-夸克网盘：https://pan.quark.cn/s/8793fb7e09dc 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP06】【成毅/林更新】
-
-百度网盘：https://pan.baidu.com/s/1M8Xd1wsM_DBh8dy9pFB0sQ?pwd=8y84 名称：两京十五日（2026）4K 60FPS S01E01 - E06 杜比音效
-
-夸克网盘：https://pan.quark.cn/s/26d9fe8afc00 名称：两京十五日（2026）4K 60FPS S01E01 - E06 杜比音效
-
-夸克网盘：https://pan.quark.cn/s/3f1e6f3d3f46 名称：两京十五日 (2026) 4K.更新至6集
-
-夸克网盘：https://pan.quark.cn/s/a2dfa1934ba8 名称：两京十五日 更至06集 (2026) [4K][类型: 剧情/古装][主演: 成毅/林更新/姜珮瑶/吴幸键]
-
-夸克网盘：https://pan.quark.cn/s/be165905b03d 名称：两京十五日 (2026) 4K SDR 更至EP06
-
-光鸭云盘：https://www.guangyapan.com/s/1970902263587729508_ad5KFI8EdLN_2Dyr 名称：两京十五日 (2026) 4K SDR 更至EP06
-
-百度网盘：https://pan.baidu.com/s/17dcOaDDy-4bQf0B7wRf2EA?pwd=6666 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新06集
-
-夸克网盘：https://pan.quark.cn/s/489a93c7d0ca 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新06集
-
-光鸭云盘：https://www.guangyapan.com/s/1970834764980633627_aeWnPia0Twth-NLu 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新06集
-
-百度网盘：https://pan.baidu.com/s/1ailJgzlXBzC2n03qSKr3xQ?pwd=yptv 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更06集】【剧情/古装】【成毅/林更新】
-
-夸克网盘：https://pan.quark.cn/s/ea0db11a5a9a 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更06集】【剧情/古装】【成毅/林更新】
-
-迅雷网盘：https://pan.xunlei.com/s/VP6skc0bFtBsrgDqLDz8-8pGA1?pwd=6b2v 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更06集】【剧情/古装】【成毅/林更新】
-
-百度网盘：https://pan.baidu.com/s/1jJtC9r_n3F2oBFjVJZQLdw?pwd=1111 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至6集]
-
-夸克网盘：https://pan.quark.cn/s/7be488346035 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至6集]
-
-迅雷网盘：https://pan.xunlei.com/s/VP6sLQqzxykw4C_rz6RF6v4aA1?pwd=xein 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至6集]
-
-光鸭云盘：https://www.guangyapan.com/s/1970813000921686101_aeWiyJwocgzRgCVm 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至6集]
-
-夸克网盘：https://pan.quark.cn/s/89a324651007 名称：两京十五日 (2026) 4K HDR DV杜比视界 高码率 DDP5.1 中字【4.8GB/集】更06集，成毅/林更新/姜珮瑶
-
-百度网盘：https://pan.baidu.com/s/1u3_FDTKGFQHCS9CfY2dEtg?pwd=vy6i 名称：两京十五日 (2026)
-
-夸克网盘：https://pan.quark.cn/s/04a4c3059593 名称：两京十五日 (2026)
-
-📁 大小：NG
-
-🏷 标签：#两京十五日 #剧集 #4K #古装 #剧情 #成毅 #林更新 #quark #baidu #xunlei #guangyapan #uc
-
-
-## 多喜一家人
-[2026-11-21 22:25]
-
-名称：多喜一家人 (2026) 更至14集 [4K][剧情/家庭][梁冠华/蒋欣/李光洁/杨采钰/任重]
-
-描述：2008年中国经济腾飞的时代，生活在胶东半岛的赛多喜一家迎来了生活剧变，一笔不菲的拆迁款将赛家原本的沉疴旧疾放到了台面上：跋扈专制的父亲赛多喜为维护自己的家庭统治地位搅得儿女鸡飞狗跳，赛家的五对儿女又是五幅众生相，各自直面自己的人生困境。最终，赛家人逐渐懂得，有平等尊严的地方才是家，家人之间的相聚团圆才叫爱。
-
-夸克网盘：https://pan.quark.cn/s/b35b92a1fb32
-
-百度网盘：https://pan.baidu.com/s/1KNJGFsfiKKbC-7WApL0rnA?pwd=1119
-
-迅雷网盘：https://pan.xunlei.com/s/VP6yUgROX-iMMJYZ0Vv0_R3hA1?pwd=n27a
-
-光鸭云盘：https://www.guangyapan.com/s/1969388673105293384_ao--TrOR7sKiY7EK?code=1116
-
-UC网盘：https://drive.uc.cn/s/2c52391a1e4e4
-
-UC网盘：https://drive.uc.cn/s/c1453837ddb44 名称：多喜一家人 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP13】又名：荷风吹
-
-百度网盘：https://pan.baidu.com/s/1D-B88Gcsz3gejJxAHlFnaQ?pwd=8888 名称：多喜一家人 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP13】又名：荷风吹
-
-夸克网盘：https://pan.quark.cn/s/ba774d70776f 名称：多喜一家人 (2026) 4K HDR 60帧率 高码率 国语中字【更新EP13】又名：荷风吹
-
-百度网盘：https://pan.baidu.com/s/1dtW0KIyN6MXfjnDVSgwqFg?pwd=u27n 名称：多喜一家人 (2026) 4K HDR 内嵌中字至14
-
-夸克网盘：https://pan.quark.cn/s/3ad84f257c97 名称：多喜一家人 (2026) 4K HDR 内嵌中字至14
-
-夸克网盘：https://pan.quark.cn/s/ce22b31957a3 名称：多喜一家人 (2026) 更至13集 [4K][类型: 家庭][主演: 梁冠华/蒋欣/李光洁/杨采钰]
-
-阿里云盘：https://www.alipan.com/s/Yx5vUqytGkD 名称：多喜一家人(2026) 4K 更新至14集
-
-百度网盘：https://pan.baidu.com/s/1uzIX56QbeX5SuF_-ozoOmA?pwd=PKc6 名称：多喜一家人（2026） 4K 更新至14集
-
-夸克网盘：https://pan.quark.cn/s/82fcea9fe212 名称：多喜一家人 (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 中字【4.9GB/集】更14集，梁冠华/蒋欣
-
-百度网盘：https://pan.baidu.com/s/1dhadNJh477pMAngx90LKIw?pwd=yptv 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更13集】【家庭】【梁冠华/蒋欣】
-
-夸克网盘：https://pan.quark.cn/s/f91b35e5f3c9 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更13集】【家庭】【梁冠华/蒋欣】
-
-迅雷网盘：https://pan.xunlei.com/s/VP6nJAsqCoeKaf6VoqMFZIIFA1?pwd=nkmc 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更13集】【家庭】【梁冠华/蒋欣】
-
-百度网盘：https://pan.baidu.com/s/14AIdwSR4fJEKDVLPCVtu7A?pwd=uxs5 名称：多喜一家人（2026）4K 60FPS S01E01 - E13
-
-夸克网盘：https://pan.quark.cn/s/ccaca4bd4fa4 名称：多喜一家人（2026）4K 60FPS S01E01 - E13
-
-百度网盘：https://pan.baidu.com/s/1DS6qINr0awB5cZK9FxAPBA?pwd=6666 名称：多喜一家人 (2026)家庭 4KHDR60FPS 更新14集
-
-夸克网盘：https://pan.quark.cn/s/d3f377c9dab4 名称：多喜一家人 (2026)家庭 4KHDR60FPS 更新14集
-
-光鸭云盘：https://www.guangyapan.com/s/1969406051553804288_aeWnPia0Twth-NLu 名称：多喜一家人 (2026)家庭 4KHDR60FPS 更新14集
-
-百度网盘：https://pan.baidu.com/s/1UGrhHHVB5BSpnEbzhx7eZA?pwd=1111 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至13集]
-
-夸克网盘：https://pan.quark.cn/s/07795d623b22 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至13集]
-
-迅雷网盘：https://pan.xunlei.com/s/VP6xaD3BonAyDLKWVoth00iOA1?pwd=pyuj 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至13集]
-
-光鸭云盘：https://www.guangyapan.com/s/1969406158730866760_aeWiyJwocgzRgCVm 名称：多喜一家人 (2026) [WEB-4K] [国语中字] [更至13集]
-
-📁 大小：NG
-
-🏷 标签：#多喜一家人 #剧集 #4K #剧情 #家庭 #梁冠华 #蒋欣 #quark #baidu #xunlei #guangyapan #uc
-
-
-## 繁华落尽
-[2026-11-21 22:25]
-
-名称：繁华落尽 4K臻彩MAX [2026][HDR][60fps][更新至10集]
-
-描述：图嘉盛被判终身监禁，入狱寻找关键神秘人老鬼。六弟赵陆劫囚被他拦下，繁花内部遭四哥聂峰和心腹白茹雪搅乱几乎瓦解，苏雨念、白曼妮暗中坚守。海风监狱里，图嘉盛与狱警夏雨嫣结盟，拉拢狱内势力取得老鬼信任。聂锋为竞选议长大肆作恶，策划灭口繁花少女。图嘉盛假意归顺，于关键时刻曝光聂家全部罪案。最终老鬼遗物揭露，幕后主使暴露，新的对决已经开始。
-
-夸克网盘：https://pan.quark.cn/s/eeaa376a3785
-
-迅雷网盘：https://pan.xunlei.com/s/VP6npSHd2svKC9EElTiIoVv-A1?pwd=nwbh
-
-百度网盘：https://pan.baidu.com/s/1UCAMr1WKRLK4uBtiLVMjYw?pwd=hggm 名称：繁华落尽 第二季（2026）4K S01E01 - E10
-
-夸克网盘：https://pan.quark.cn/s/1626eec440ea 名称：繁华落尽 第二季（2026）4K S01E01 - E10
-
-📁 大小：0.3 G
-
-🏷 标签：#盘酱酱 #PanWEB #国产剧 #繁华落尽 #4K臻彩MAX #HDR #60fps #quark #xunlei
-
-
-## 宝珠
-[2026-11-21 22:22]
-
-名称：宝珠 (2026) 更至09集 [4K][古装爱情][赖伟明/代露娃]
-
-描述：漕运朝堂风云迭起，屠户女金宝珠嫁蒙冤致残的漕运嫡子谢砚。二人先对立后携手，历经风波彼此救赎，揭开党争阴谋，终相守圆满。
-
-夸克网盘：https://pan.quark.cn/s/87b40daea120
-
-百度网盘：https://pan.baidu.com/s/1OaZtnS6YmMs5ZNm8QZ6Yrg?pwd=1118
-
-迅雷网盘：https://pan.xunlei.com/s/VP6hOYxY4MaN5bM2sguAwdvvA1?pwd=vr72
-
-光鸭云盘：https://www.guangyapan.com/s/1970042379291664406_ao--TrOR7sKiY7EK?code=1118
-
-UC网盘：https://drive.uc.cn/s/318fb789c0704
-
-光鸭云盘：https://www.guangyapan.com/s/1970069813965647907_adyLT48EdLN_2AYh 名称：宝珠 (2026)
-
-百度网盘：https://pan.baidu.com/s/1IeN8kTo-LuOFQ7yt2qKEDw?pwd=m67u 名称：宝珠 (2026)【更09集】【4K.高码率】【内封简中】【代露娃/赖伟明】【爱情/古装】
-
-夸克网盘：https://pan.quark.cn/s/ffcfb90652d8 名称：宝珠 (2026)【更09集】【4K.高码率】【内封简中】【代露娃/赖伟明】【爱情/古装】
-
-迅雷网盘：https://pan.xunlei.com/s/VP6r385gDMNS_bi2MeJOEpqoA1?pwd=4ivz 名称：宝珠 (2026)【更09集】【4K.高码率】【内封简中】【代露娃/赖伟明】【爱情/古装】
-
-百度网盘：https://pan.baidu.com/s/16VDbSebGFWdsarTgb0qCMg?pwd=u8wh 名称：宝珠（2026）Disney+ 1080p 内封简中 更至EP09
-
-夸克网盘：https://pan.quark.cn/s/448196738b7b 名称：宝珠（2026）Disney+ 1080p 内封简中 更至EP09
-
-百度网盘：https://pan.baidu.com/s/1hhwZs95CrWYrackBJn8gQw?pwd=2hq7 名称：宝珠（2026）4K S01E01 - E09
-
-夸克网盘：https://pan.quark.cn/s/f84897c5f2ff 名称：宝珠（2026）4K S01E01 - E09
-
-UC网盘：https://drive.uc.cn/s/5b2993121e664 名称：宝珠 (2026) 4K 芒臻 国语中字【更新EP09】【代露娃/赖伟明 】又名：宝珠之驯夫记
-
-百度网盘：https://pan.baidu.com/s/1bNJOZAmlf788MTr8w9EQyg?pwd=8888 名称：宝珠 (2026) 4K 芒臻 国语中字【更新EP09】【代露娃/赖伟明 】又名：宝珠之驯夫记
-
-夸克网盘：https://pan.quark.cn/s/557bfbee0dd1 名称：宝珠 (2026) 4K 芒臻 国语中字【更新EP09】【代露娃/赖伟明 】又名：宝珠之驯夫记
-
-百度网盘：https://pan.baidu.com/s/1dkalSOcMLuXHcG2DVnYuBA?pwd=6666 名称：宝珠 (2026) 4K 高码率 [更新09集]
-
-夸克网盘：https://pan.quark.cn/s/25420162ea1b 名称：宝珠 (2026) 4K 高码率 [更新09集]
-
-阿里云盘：https://www.alipan.com/s/dMZhpNXacLA 名称：宝珠 (2026) 4K 高码率 [更新09集]
-
-📁 大小：NG
-
-🏷 标签：#宝珠 #剧集 #4K #古装爱情 #赖伟明 #代露娃 #quark #baidu #xunlei #guangyapan #uc
+🏷 标签：#韩剧 #爱情来了 #1080P #简中字幕 #quark #uc
 
 
 ## 十万狂花入梦来
-[2026-11-21 22:19]
+[2026-11-22 04:27]
 
-名称：十万狂花入梦来 (2026) 更至17集 [4K][古装/奇幻/爱情][李宏毅/孙珍妮]
+名称：十万狂花入梦来 (2026)
 
-描述：“万恶之源”的魔头岐凤殷邂逅“唐僧肉”体质的少女鸭毛，被迫绑定的二人相互厌弃又相互救赎，历经长发枯骨、昼人夜妖、化蛟为龙、血池还魂、红妆剜心、金鱼花火六件诡案，破解幕后阴谋，终洗清彼此污名，还此间世界自由，令有情人得以相守。
+📁 类型：国产剧集
 
-夸克网盘：https://pan.quark.cn/s/45a6906e62d0
+🖥️ 画质：2160p
 
-百度网盘：https://pan.baidu.com/s/1oey0WH-npuFu4FRr-tMs3A?pwd=1115
+🎥 视频：WEB-DL.H.265
 
-迅雷网盘：https://pan.xunlei.com/s/VP6taB4QTLFMB5NnI7W7Z0XWA1?pwd=xegk
+🔊 音频：AAC
 
-光鸭云盘：https://www.guangyapan.com/s/1969243917222039594_ao--TrOR7sKiY7EK?code=1116
+📦 大小：89.4 GB
 
-UC网盘：https://drive.uc.cn/s/b1d80f8474314
+📼 集数：E01-E17
+
+🔄 状态：更新中
+
+🔗 链接：
+
+光鸭云盘：https://www.guangyapan.com/s/1970922802238799941_adyPbY8EdLN_2AZv
+
+夸克网盘：https://pan.quark.cn/s/422d55cd55b3 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新17集]
+
+百度网盘：https://pan.baidu.com/s/1nPGxvlvsNYUBpLhCcO-M8g?pwd=6666 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新17集]
+
+阿里云盘：https://www.alipan.com/s/29kDtLmEV4S 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新17集]
 
 光鸭云盘：https://www.guangyapan.com/s/1970407511792517131_adyLT48EdLN_2AYh?code=CHUN 名称：十万狂花入梦来 (2026)
 
-UC网盘：https://drive.uc.cn/s/81e40f7c92d94 名称：十万狂花入梦来 (2026) 4K HQ SDR 60帧率 高码率 国语中字【更新EP17】【李宏毅/孙珍妮】又名：万花灼灼
+百度网盘：https://pan.baidu.com/s/146padStZFZBum_feJ5o48Q?pwd=Qiye 名称：十万狂花入梦来(2026)4k YOUKU WEB-DL HQ 2160p 简体字幕  第17集
 
-百度网盘：https://pan.baidu.com/s/1R7TQbywQI_rcM9QeFLh2qg?pwd=8888 名称：十万狂花入梦来 (2026) 4K HQ SDR 60帧率 高码率 国语中字【更新EP17】【李宏毅/孙珍妮】又名：万花灼灼
+夸克网盘：https://pan.quark.cn/s/91769821bd2d 名称：十万狂花入梦来(2026)4k YOUKU WEB-DL HQ 2160p 简体字幕  第17集
 
-夸克网盘：https://pan.quark.cn/s/479c7f16d06f 名称：十万狂花入梦来 (2026) 4K HQ SDR 60帧率 高码率 国语中字【更新EP17】【李宏毅/孙珍妮】又名：万花灼灼
+光鸭云盘：https://www.guangyapan.com/s/1969064371336142922_aeWYeSwV3ZOZlzEy 名称：十万狂花入梦来(2026)4k YOUKU WEB-DL HQ 2160p 简体字幕  第17集
 
-阿里云盘：https://www.alipan.com/s/nLpyEme4LXp 名称：十万狂花入梦来(2026) 4K 更新至17集
+百度网盘：https://pan.baidu.com/s/1bs9v2xYlTpk_kyZcxrnMHA?pwd=xdw9 名称：十万狂花入梦来(2026)4K 10bit 60FPS 内封简中 更至E17
 
-百度网盘：https://pan.baidu.com/s/1gZUPM_DOyyz_FHypS6-2Sg?pwd=yptv 名称：十万狂花入梦来 万花灼灼(2026)【4K.60fps】【内封简中】【更17集】【爱情/古装】【李宏毅/孙珍妮】
-
-夸克网盘：https://pan.quark.cn/s/44db7299ecb4 名称：十万狂花入梦来 万花灼灼(2026)【4K.60fps】【内封简中】【更17集】【爱情/古装】【李宏毅/孙珍妮】
-
-迅雷网盘：https://pan.xunlei.com/s/VP6T-G0S_b20_XOAA8qdPcIMA1?pwd=g5im 名称：十万狂花入梦来 万花灼灼(2026)【4K.60fps】【内封简中】【更17集】【爱情/古装】【李宏毅/孙珍妮】
-
-夸克网盘：https://pan.quark.cn/s/31fe6ae2a9c4 名称：十万狂花入梦来 (2026) 4K SDR 更至EP17
-
-光鸭云盘：https://www.guangyapan.com/s/1968999665447628812_ad5KFI8EdLN_2Dyr 名称：十万狂花入梦来 (2026) 4K SDR 更至EP17
-
-百度网盘：https://pan.baidu.com/s/1CWZvn_EnXxkZOco0xDCxFQ?pwd=284W 名称：十万狂花入梦来（2026）4K 60FPS S01E01 - E17
-
-夸克网盘：https://pan.quark.cn/s/da7975aaa2b4 名称：十万狂花入梦来（2026）4K 60FPS S01E01 - E17
-
-百度网盘：https://pan.baidu.com/s/1bs9v2xYlTpk_kyZcxrnMHA?pwd=xdw9 名称：十万狂花入梦来（2026）4K 10bit 60FPS 内封简中 更至E17
-
-夸克网盘：https://pan.quark.cn/s/13c69ff144d0 名称：十万狂花入梦来（2026）4K 10bit 60FPS 内封简中 更至E17
-
-夸克网盘：https://pan.quark.cn/s/06daab0a8edf 名称：十万狂花入梦来 (2026) 4K HQ SDR 60帧率 高码率 国语中字【更新EP17】【李宏毅/孙珍妮】又名：万花灼灼
-
-百度网盘：https://pan.baidu.com/s/1nPGxvlvsNYUBpLhCcO-M8g?pwd=6666 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新16集]
-
-夸克网盘：https://pan.quark.cn/s/f954c1c75be8 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新16集]
-
-阿里云盘：https://www.alipan.com/s/29kDtLmEV4S 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新16集]
-
-📁 大小：NG
-
-🏷 标签：#十万狂花入梦来 #剧集 #4K #古装 #奇幻 #爱情 #李宏毅 #quark #baidu #xunlei #guangyapan #uc
+夸克网盘：https://pan.quark.cn/s/13c69ff144d0 名称：十万狂花入梦来(2026)4K 10bit 60FPS 内封简中 更至E17
 
 
-## 无声的回响
-[2026-11-21 22:16]
+## 两京十五日
+[2026-11-22 01:46]
 
-名称：无声的回响 (2026) 更至04集 [4K][刑侦][罗晋/张国强/王锵]
+名称：两京十五日 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新06集]
 
-描述：2011年，西平市九菇湖发生一起命案。刑警马雪松与新人女警孟雯展开调查，发现案件与骆雪失踪案存在关联，并牵涉德利集团等多方人员。随着多起命案浮出水面，一个涉及毒品、洗钱及虐待的犯罪网络逐渐显现。两人在侦查过程中不断接近真相，也各自经历成长与考验。
+描述：该剧改编自马伯庸的同名小说，讲述了大明洪熙元年，当朝太子朱瞻基必须在15天内跑完两千两百余里路，从南京赶至北京去拯救自己，拯救大明的历史传奇故事。
 
-夸克网盘：https://pan.quark.cn/s/211ad3aaa8e1
+夸克网盘：https://pan.quark.cn/s/46386b7564fd
 
-百度网盘：https://pan.baidu.com/s/1za8BqvxWJ32_1tku2reGpg?pwd=1120
+百度网盘：https://pan.baidu.com/s/1yuknEUOucLNaUQd2-LSluw?pwd=6666
 
-迅雷网盘：https://pan.xunlei.com/s/VP6sPNH6Y8LL17B9cqBXq26HA1?pwd=qbw7
+阿里云盘：https://www.alipan.com/s/YEYdBRmHeVE
 
-光鸭云盘：https://www.guangyapan.com/s/1970817506682159178_ao--TrOR7sKiY7EK?code=1120
+百度网盘：https://pan.baidu.com/s/1s4hvPfS00b98dM3W6SEJ9Q?pwd=11c7 名称：两京十五日(2026)NF 1080p 内封简中 更至EP06
 
-UC网盘：https://drive.uc.cn/s/340e0adff0304
+夸克网盘：https://pan.quark.cn/s/898346f7cfdc 名称：两京十五日(2026)NF 1080p 内封简中 更至EP06
 
-夸克网盘：https://pan.quark.cn/s/f1d0f916d445 名称：无声的回响 (2026) 更至04集 [4K 60帧][类型: 剧情/犯罪][主演: 罗晋/王锵/张国强/陈雨锶]
+夸克网盘：https://pan.quark.cn/s/89a324651007 名称：两京十五日 (2026) 4K HDR DV杜比视界 高码率 DDP5.1 中字 更06集，成毅/林更新/姜珮瑶
 
-阿里云盘：https://www.alipan.com/s/u1hCX1gjZGm 名称：无声的回响(2026) 4K 更新至04集
+百度网盘：https://pan.baidu.com/s/15V0UFSxNfISJOVbEJhQ_xA?pwd=Qiye 名称：两京十五日(2026)4k iQIYI WEB-DL DoVi 杜比视界 简体字幕 第6集
 
-百度网盘：https://pan.baidu.com/s/1t4SIs2XUFzefXL2m0fXJUg?pwd=6hkq 名称：无声的回响（2026）4K 60FPS S01E01 - E04 DTS音轨
+夸克网盘：https://pan.quark.cn/s/02ccb7e35e9c 名称：两京十五日(2026)4k iQIYI WEB-DL DoVi 杜比视界 简体字幕 第6集
 
-夸克网盘：https://pan.quark.cn/s/3c3b8fde58fb 名称：无声的回响（2026）4K 60FPS S01E01 - E04 DTS音轨
+光鸭云盘：https://www.guangyapan.com/s/1970852156599242764_aeWYeSwV3ZOZlzEy 名称：两京十五日(2026)4k iQIYI WEB-DL DoVi 杜比视界 简体字幕 第6集
 
-百度网盘：https://pan.baidu.com/s/1OAPRuByIFuhIOMEuOcDMrQ?pwd=Yu88 名称：无声的回响(2026)【更新中】【WEB-4K】【内嵌简中】【剧情/犯罪】【罗晋/王锵】
+光鸭云盘：https://www.guangyapan.com/s/1970886149260533800_adyLT48EdLN_2AYh 名称：两京十五日 (2026)
 
-夸克网盘：https://pan.quark.cn/s/5c20c8f186a3 名称：无声的回响(2026)【更新中】【WEB-4K】【内嵌简中】【剧情/犯罪】【罗晋/王锵】
+百度网盘：https://pan.baidu.com/s/1HJ7cyLlU0WVr42c3xPYDNw?pwd=w3b6 名称：两京十五日 (2026) 4K内封中字至06
 
-迅雷网盘：https://pan.xunlei.com/s/VP6xMtukwPMtycbmTZ4XAqcWA1?pwd=44jz 名称：无声的回响(2026)【更新中】【WEB-4K】【内嵌简中】【剧情/犯罪】【罗晋/王锵】
+夸克网盘：https://pan.quark.cn/s/65f55104d945 名称：两京十五日 (2026) 4K内封中字至06
 
-夸克网盘：https://pan.quark.cn/s/bb29250bc408 名称：无声的回响 (2026) 4K SDR HDR DV杜比视界 高码率 DTS5.1+DDP5.1 中字【4.7GB/集】更04集，罗晋/王锵
+📁 大小：单集4.5GB左右
 
-UC网盘：https://drive.uc.cn/s/202f166cc7904 名称：无声的回响 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP04】【罗晋/王锵】
+🏷 标签：#两京十五日 #剧情 #4K #高码率 #DV #HDR #内封中字 #quark #baidu #ali
 
-百度网盘：https://pan.baidu.com/s/196KkTt1pI2xeSd3GuLoIeQ?pwd=8888 名称：无声的回响 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP04】【罗晋/王锵】
 
-夸克网盘：https://pan.quark.cn/s/b3336351b93c 名称：无声的回响 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP04】【罗晋/王锵】
+## 重生密码
+[2026-11-22 01:35]
 
-百度网盘：https://pan.baidu.com/s/1s_pguHyoVwBYw-akR-Z3Ng?pwd=z4vf 名称：无声的回响 (2026)
+名称：重生密码 (2026) 4K HDR Vivid 60FPS 高码率 [内封中字] [更新11集]
 
-夸克网盘：https://pan.quark.cn/s/420c1a319e52 名称：无声的回响 (2026)
+描述：海底火山爆发后，海面浮出一个休眠舱，沉睡的周亦白从舱中醒来，记忆停留在1955年。周亦白来到当初的周宅大院，却已物是人非，与孙子周末相遇，意外引来杀机，性格迥异的两人究竟是敌还是友？车祸后的拳王陆霏，脑中一直浮现一个陌生男人，伴随着熟悉的琴声，冰封的记忆即将重启。究竟深海之下藏了什么秘密？
 
-迅雷网盘：https://pan.xunlei.com/s/VP6rz_xhrwU2Yxkdge6Pq3n5A1?pwd=ixhh 名称：无声的回响 (2026)
+夸克网盘：https://pan.quark.cn/s/bf04f2077d01
 
-百度网盘：https://pan.baidu.com/s/1s2SsWkGx_1WgRj__GuGTlg?pwd=6666 名称：无声的回响 (2026) 4K HQ 高码率 60FPS [DV&HDR] [DTS环绕声] [更新04集]
+百度网盘：https://pan.baidu.com/s/1PSSzTMQMIpKDJ8aPQYJW2Q?pwd=6666 名称：重生密码 (2026) 4K HDR Vivid 60FPS 高码率 [内封中字] [更新11集]
 
-夸克网盘：https://pan.quark.cn/s/0f6232b70d73 名称：无声的回响 (2026) 4K HQ 高码率 60FPS [DV&HDR] [DTS环绕声] [更新04集]
+阿里云盘：https://www.alipan.com/s/NX1nFy1w8w9 名称：重生密码 (2026) 4K HDR Vivid 60FPS 高码率 [内封中字] [更新11集]
 
-阿里云盘：https://www.alipan.com/s/5mM1tuheaHM 名称：无声的回响 (2026) 4K HQ 高码率 60FPS [DV&HDR] [DTS环绕声] [更新04集]
+百度网盘：https://pan.baidu.com/s/10tmzsy08ZbidCdFbu0TOAA?pwd=dg7m 名称：重生密码(2026)4K 臻彩MAX+ 60FPS 高码率 更至EP11
 
-📁 大小：NG
+夸克网盘：https://pan.quark.cn/s/70c856c23aaf 名称：重生密码(2026)4K 臻彩MAX+ 60FPS 高码率 更至EP11
 
-🏷 标签：#无声的回响 #剧集 #4K #刑侦 #罗晋 #张国强 #王锵 #quark #baidu #xunlei #guangyapan #uc
+百度网盘：https://pan.baidu.com/s/1-vW1ycv8S9kFLuX_A0Jqhg?pwd=yptv 名称：重生密码 重生密碼 -197℃ 零下一九七 永生密码一九七(2026)【4K.HDR.60fps】【内封简中】【更11集】【动作/科幻】【邱泽/陈意涵】
+
+夸克网盘：https://pan.quark.cn/s/d29bbfb390a6 名称：重生密码 重生密碼 -197℃ 零下一九七 永生密码一九七(2026)【4K.HDR.60fps】【内封简中】【更11集】【动作/科幻】【邱泽/陈意涵】
+
+迅雷网盘：https://pan.xunlei.com/s/VP6OqCx2FyBDmGwaidS0r-APA1?pwd=j2p5 名称：重生密码 重生密碼 -197℃ 零下一九七 永生密码一九七(2026)【4K.HDR.60fps】【内封简中】【更11集】【动作/科幻】【邱泽/陈意涵】
+
+夸克网盘：https://pan.quark.cn/s/17257e6e323d 名称：重生密码 4K臻彩MAX [2026][HDR][60fps][内封简繁字幕][更新至11集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP6PHKLwXMVaE5xCMbtub1A3A1?pwd=qdbi 名称：重生密码 4K臻彩MAX [2026][HDR][60fps][内封简繁字幕][更新至11集]
+
+📁 大小：单集3.5GB左右
+
+🏷 标签：#重生密码 #动作冒险
+
+
+## 多喜一家人
+[2026-11-22 01:30]
+
+名称：多喜一家人 (2026) 4K 高码率 [DV&HDR] [更新14集]
+
+描述：2008年中国经济腾飞的时代，生活在胶东半岛的赛多喜一家迎来了生活剧变，一笔不菲的拆迁款将赛家原本的沉疴旧疾放到了台面上：跋扈专制的父亲赛多喜为维护自己的家庭统治地位搅得儿女鸡飞狗跳，赛家的五对儿女又是五幅众生相，而突如其来的变故让赛多喜“一家之主”的统治地位被动摇，同时五对子女也开始审视赛家的代际关系，各自直面自己的人生困境。最终，赛家人逐渐懂得，有平等尊严的地方才是家，家人之间的相聚团圆才叫爱。
+
+夸克网盘：https://pan.quark.cn/s/d24c63ab6094
+
+百度网盘：https://pan.baidu.com/s/1rKCXuSV_PudPucyVzj0Knw?pwd=6666
+
+阿里云盘：https://www.alipan.com/s/N7NrXxhdmDB
+
+夸克网盘：https://pan.quark.cn/s/82fcea9fe212 名称：多喜一家人 (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 中字 更14集，梁冠华/蒋欣
+
+百度网盘：https://pan.baidu.com/s/1dhadNJh477pMAngx90LKIw?pwd=yptv 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更14集】【家庭】【梁冠华/蒋欣】
+
+夸克网盘：https://pan.quark.cn/s/f91b35e5f3c9 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更14集】【家庭】【梁冠华/蒋欣】
+
+迅雷网盘：https://pan.xunlei.com/s/VP6yi5b2aaIrckVpgsaF9Je9A1?pwd=m9qx 名称：多喜一家人 荷风吹(2026)【4K.HDR.60fps】【内封简中】【更14集】【家庭】【梁冠华/蒋欣】
+
+百度网盘：https://pan.baidu.com/s/14AIdwSR4fJEKDVLPCVtu7A?pwd=uxs5 名称：多喜一家人（2026）4K 60FPS S01E01 - E14
+
+夸克网盘：https://pan.quark.cn/s/ccaca4bd4fa4 名称：多喜一家人（2026）4K 60FPS S01E01 - E14
+
+夸克网盘：https://pan.quark.cn/s/9fe5bc7a9c71 名称：多喜一家人 4K臻彩MAX [2026][HDR][60fps][内封简繁字幕][更新至13集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP6yZz3qkiS5LdtfBQetBnj7A1?pwd=yt5q 名称：多喜一家人 4K臻彩MAX [2026][HDR][60fps][内封简繁字幕][更新至13集]
+
+📁 大小：单集5GB左右
+
+🏷 标签：#多喜一家人 #剧情 #家庭 #4K #高码率 #DV #HDR #quark #baidu #ali
+
+
+## 文武
+[2026-11-22 01:17]
+
+名称：文武 (2026) NF 1080P S01E01-E03 内封简中
+
+描述：一部宏大的历史剧，着重讲述了超越高句丽和百济，击败唐朝，完成三国统一的伟大胜利的历史。
+
+光鸭云盘：https://www.guangyapan.com/s/1969276496742625310_ad5KFI8EdLN_2Dyr
+
+百度网盘：https://pan.baidu.com/s/16SMSDpJE7Tu8KaYw7dAq8A?pwd=8S6p 名称：文武 (2026) S01E01-E03 1080P SDR 内封简中字幕
+
+夸克网盘：https://pan.quark.cn/s/1f4a8c740d9f 名称：文武 (2026) S01E01-E03 1080P SDR 内封简中字幕
+
+光鸭云盘：https://www.guangyapan.com/s/1971253014113640461_adyLT48EdLN_2AYh 名称：文武 (2026)
+
+📁 大小：
+
+🏷 标签：#文武 #动作冒险 #War #Politics #NF #1080P #内封简中 #guangyapan
+
+
+## 十二星座恋爱实验
+[2026-11-22 01:16]
+
+名称：十二星座恋爱实验 (2026) NF 1080P & 4K SDR S01全 内封简中
+
+描述：The Bolshoi Ballet brings to life choreographer Yuri Grigorovich's piece based on Prokofiev's evocative score for Sergei M. Eisenstein's 1944 biopic of Ivan the Terrible. This performance of the work during a U.S. visit by the famed ballet troupe stars original cast members Yuri Vladimirov, Natalia Bessmertnova and Boris Akimov and features the Bolshoi's corps de ballet. The music is performed by the orchestra of the Bolshoi Theatre.
+
+夸克网盘：https://pan.quark.cn/s/5de2921caea0
+
+光鸭云盘：https://www.guangyapan.com/s/1971288141468332114_ad5KFI8EdLN_2Dyr
+
+📁 大小：35.5G
+
+🏷 标签：#十二星座恋爱实验 #NF #1080P #4K #SDR #内封简中 #quark #guangyapan
 
 
 ## 罪蓝之路
-[2026-11-21 22:01]
+[2026-11-22 01:12]
 
-名称：罪蓝之路 (2026) 4K DV HDR 高码率 杜比全景声 中文字幕【全8集】又名：路 / 绿道
+名称：罪蓝之路 (2026)
 
-描述：某天，在东京发现一具怪异扭曲的尸体，尸体周围用鲜血书写的韩文震惊日本社会。不久之后，韩国也传出类似事件的消息，这次尸体扭曲变形并且出现了日文。韩国和日本都意识到这是连环杀人案，于是两国的刑警为揭开这起神秘案件的真相而展开联合调查。
+🖼️ 类型：韩剧
 
-该剧改编自漫画《擒凶记-青色的路》。
+🆔 TMDB ID: [300523](https://www.themoviedb.org/tv/300523)
 
-夸克网盘：https://pan.quark.cn/s/41059a9c5cdc
+📅 上映时间: 2026-11-20
 
-百度网盘：https://pan.baidu.com/s/1WjdOHgAKvWk326BOgO0xxg?pwd=8888
+⭐️ 评分: 7.8 | 💿 来源: NETFLIX
 
-UC网盘：https://drive.uc.cn/s/fecf2fd415da4
+📺 画质: 2160p | DV | HDR
 
-百度网盘：https://pan.baidu.com/s/1-T6B1Qt8NpWAY6UX1pngfA?pwd=1111 名称：罪蓝之路 푸른길 (2026) [WEB-4K] [DV&HDR] [韩英双语] [内封多国字幕] [全8集]
+🎞️ 编码: H.265 | 🔊 音频: EAC3
 
-夸克网盘：https://pan.quark.cn/s/322961dc3b7e 名称：罪蓝之路 푸른길 (2026) [WEB-4K] [DV&HDR] [韩英双语] [内封多国字幕] [全8集]
+📋 季集：共1季 | 共8集（已完结）
 
-迅雷网盘：https://pan.xunlei.com/s/VP6xBF8jakx_YsuT_1QSBnyMA1?pwd=aja3 名称：罪蓝之路 푸른길 (2026) [WEB-4K] [DV&HDR] [韩英双语] [内封多国字幕] [全8集]
+S01 E01-E08
 
-光鸭云盘：https://www.guangyapan.com/s/1971153561058881541_aeWiyJwocgzRgCVm 名称：罪蓝之路 푸른길 (2026) [WEB-4K] [DV&HDR] [韩英双语] [内封多国字幕] [全8集]
-
-📁 大小：8G/集
-
-🏷 标签：#罪蓝之路 #4K #DV #HDR #高码率 #剧情 #犯罪 #悬疑 #杜比全景声 #中文字幕 #绿道 #quark #baidu #uc
-
-
-## 罪恶拼图
-[2026-11-21 21:59]
-
-名称：罪恶拼图 (2026)
-
-🖼️ 类型：国产剧
-
-🆔 TMDB ID: [336198](https://www.themoviedb.org/tv/336198)
-
-📅 上映时间: 2026-11-18
-
-⭐️ 评分: 8 | 💿 来源: Web-DL
-
-📺 画质: 2160p | 10bit | 25fps | HDR
-
-🎞️ 编码: H265 | 🔊 音频: AAC
-
-📋 季集：共1季 | 共24集（更新中）
-
-S01 E01-E24
-
-📦 大小：15.58 GB
+📦 大小：53.46 GB
 
 📝 简介:
 
-溪州市刑警副队长秦月见拥有过目不忘的能力，凭借对细节的精准记忆屡破奇案，却也承受着反复回溯记忆带来的压力。新调任的女警梁晚成为她的搭档，两人在磨合与猜疑中逐渐建立信任，共同调查一系列离奇案件，并在追查真相的过程中面对各自隐藏的记忆与秘密。
+这部跨国犯罪惊悚剧讲述两名刑警联手追查一系列骇人听闻的跨境连环命案。每起案件的死者尸体都呈现诡异扭曲的状态，现场更留下了神秘的临终讯息
 
-光鸭云盘：https://www.guangyapan.com/s/1971236027836739650_adyLT48EdLN_2AYh
+光鸭云盘：https://www.guangyapan.com/s/1971274397619142704_adyLT48EdLN_2AYh
 
-🏷️ 标签： #罪恶拼图 #2026年 #国产剧 #悬疑
+🏷️ 标签： #罪蓝之路 #2026年 #韩剧 #犯罪 #悬疑
 
 
 ## 裙下之臣
-[2026-11-21 21:46]
+[2026-11-22 01:12]
 
 名称：裙下之臣 (2026)
 
@@ -478,6 +284,20 @@ S01 E01-E11
 光鸭云盘：https://www.guangyapan.com/s/1970518388315295780_adyLT48EdLN_2AYh?code=CHUN
 
 🏷️ 标签： #裙下之臣 #2026年 #国产剧
+
+
+## 光阴之外
+[2026-11-22 00:44]
+
+名称：光阴之外（2025）4K HQ S01E01 - E49
+
+描述：天地是万物众生的客舍，光阴是古往今来的过客。苍天残面张开诡异之眼，所视之处生灵涂炭，化为永恒的禁区。末世之中，因果随行，死地后生。
+
+夸克网盘：https://pan.quark.cn/s/c0335c85e399
+
+📁 大小：6.9GB
+
+🏷 标签：#剧情 #光阴之外
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
