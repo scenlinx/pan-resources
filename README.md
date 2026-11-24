@@ -8,15 +8,15 @@
 
 <table>
 <tr><th width="5%">#</th><th width="50%">分类</th><th width="12%">收录条目</th><th width="15%">最近更新</th><th width="18%">文档</th></tr>
-<tr><td align="center">1</td><td><b>综合</b><br>电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里/光鸭）</td><td align="center">817</td><td align="center">2026-11-24</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
-<tr><td align="center">2</td><td><b>综艺</b><br>热门综艺节目完整资源，持续更新</td><td align="center">248</td><td align="center">2026-11-24</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
-<tr><td align="center">3</td><td><b>动漫</b><br>番剧、动画电影与二次元资源</td><td align="center">390</td><td align="center">2026-11-24</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
-<tr><td align="center">4</td><td><b>软件游戏</b><br>Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">54</td><td align="center">2026-11-23</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
-<tr><td align="center">5</td><td><b>纪录片</b><br>人文、美食、历史、自然与科普纪录片</td><td align="center">42</td><td align="center">2026-11-23</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
-<tr><td align="center">6</td><td><b>音乐</b><br>无损音乐、专辑与 MV 资源</td><td align="center">47</td><td align="center">2026-11-24</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
-<tr><td align="center">7</td><td><b>教程学习</b><br>课程、教程与学习资料合集</td><td align="center">142</td><td align="center">2026-11-24</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
-<tr><td align="center">8</td><td><b>怀旧剧场</b><br>经典老剧、老电影与怀旧影视</td><td align="center">454</td><td align="center">2026-11-24</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
-<tr><td align="center">9</td><td><b>海外剧场</b><br>美剧、日韩剧等海外剧集</td><td align="center">123</td><td align="center">2026-11-24</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
+<tr><td align="center">1</td><td><b>综合</b><br>电影、剧集、游戏、软件等网盘资源（夸克/百度/迅雷/阿里/光鸭）</td><td align="center">892</td><td align="center">2026-11-24</td><td><a href="01_综合.md">01_综合.md</a></td></tr>
+<tr><td align="center">2</td><td><b>综艺</b><br>热门综艺节目完整资源，持续更新</td><td align="center">262</td><td align="center">2026-11-24</td><td><a href="02_综艺.md">02_综艺.md</a></td></tr>
+<tr><td align="center">3</td><td><b>动漫</b><br>番剧、动画电影与二次元资源</td><td align="center">441</td><td align="center">2026-11-24</td><td><a href="03_动漫.md">03_动漫.md</a></td></tr>
+<tr><td align="center">4</td><td><b>软件游戏</b><br>Windows/PC 软件、单机游戏与 Steam 资源</td><td align="center">57</td><td align="center">2026-11-24</td><td><a href="04_软件游戏.md">04_软件游戏.md</a></td></tr>
+<tr><td align="center">5</td><td><b>纪录片</b><br>人文、美食、历史、自然与科普纪录片</td><td align="center">46</td><td align="center">2026-11-24</td><td><a href="05_纪录片.md">05_纪录片.md</a></td></tr>
+<tr><td align="center">6</td><td><b>音乐</b><br>无损音乐、专辑与 MV 资源</td><td align="center">51</td><td align="center">2026-11-24</td><td><a href="06_音乐.md">06_音乐.md</a></td></tr>
+<tr><td align="center">7</td><td><b>教程学习</b><br>课程、教程与学习资料合集</td><td align="center">154</td><td align="center">2026-11-24</td><td><a href="07_教程学习.md">07_教程学习.md</a></td></tr>
+<tr><td align="center">8</td><td><b>怀旧剧场</b><br>经典老剧、老电影与怀旧影视</td><td align="center">485</td><td align="center">2026-11-24</td><td><a href="08_怀旧剧场.md">08_怀旧剧场.md</a></td></tr>
+<tr><td align="center">9</td><td><b>海外剧场</b><br>美剧、日韩剧等海外剧集</td><td align="center">129</td><td align="center">2026-11-24</td><td><a href="09_海外剧场.md">09_海外剧场.md</a></td></tr>
 </table>
 
 ## 综合分类最新收录（前 10 个 · 完整信息）
@@ -24,296 +24,352 @@
 以下内容节选自 [01_综合.md](01_综合.md) 中最新收录的资源，按标题去重取前 10 个（每个标题只保留第一条记录，含简介、网盘链接与封面图），完整列表请进入文档查看：
 
 
-## 魅影神捕
-[2026-11-24 07:29]
+## 另一个贝内特家的姐
+[2026-11-24 22:55]
 
-名称：魅影神捕 (2026) 4K HDR 全30完结
+名称：另一个贝内特家的姐 (2026) 4K HLG 全集 内封简繁英字幕
 
-描述：鸿运三十七年的大世王朝，即将迎来一场蓄谋已久的血雨腥风，傀儡秘术、长生魔罗、翅莹毒虫、镜花水月、形人之师相继现世，亡国离罗携此“五绝诡术”死灰复燃，制造出一桩桩惊骇迷案。
+描述：该剧改编自Janice Hadlow的同名小说，以低调、常被忽略的玛丽·贝内特为主角：“玛丽不是你常见到的那种年代剧女主，跟姐妹们不一样，她奇怪、焦虑、爱说教、实际……她被母亲所忽视，看起来她的舞会卡注定会一辈子空落落……直到玛丽决定：一切由自己来做主。”在这个故事中，玛丽经历了属于自己的一段史诗爱情，她从Meryton那安逸和给人幽闭恐惧的家中，去到了浮华的摄政时期伦敦，以及田园牧歌的湖区，寻找独立、爱情和接受。
 
-百度网盘：https://pan.baidu.com/s/1Lx_Ez7lAS1yHNFcvbIboKw?pwd=urfw
+夸克网盘：https://pan.quark.cn/s/5e2b31582905
 
-夸克网盘：https://pan.quark.cn/s/87e53ef6f33e
+📁 大小：36.8GB
 
-📁 大小：2G＼集
+🏷 标签：#另一个贝内特家的姐 #剧情 #喜剧 #英剧
 
-🏷 标签：#古装 #魅影神捕 #4K #HDR #全30完结 #baidu #quark
 
+## 真情入味
+[2026-11-24 22:54]
 
-## 社交清算
-[2026-11-24 07:20]
+名称：真情入味 (2026) 4K HDR 全8集 内封简繁字幕
 
-名称：社交清算 The Social Reckoning (2026) 4K SDR 内封简繁英字幕
+描述：为了拯救家族生意，雄心勃勃的厨师卢卡必须与刚加入其母亲饭店的新人丹尼斯合作。但有一个小问题：她非常讨厌这个人。
 
-描述：《社交网络》的延续作品，受真实事件启发。年轻的Facebook工程师弗朗西斯·豪根在《华尔街日报》记者杰夫·霍维茨的协助下，踏上一段危险的旅程，揭露这个社交网络最隐秘的内幕。
+夸克网盘：https://pan.quark.cn/s/9117cd0aa93d
 
-夸克网盘：https://pan.quark.cn/s/4ec085880551
+📁 大小：23.8GB
 
-百度网盘：https://pan.baidu.com/s/1nk3xy5gQNzA2EMHqRTdZ_Q?pwd=imAx
-
-📁 大小：10.00 GB
-
-🏷 标签：#社交清算 #剧情 #惊悚 #4K #SDR #内封简繁英字幕 #quark #baidu
-
-
-## 周官之制与大一统
-[2026-11-24 06:43]
-
-名称：《《周官》之制与大一统》(azw3+epub+mobi+pdf)
-
-描述：一部来历不明的古经，是西周实录，还是理想蓝图？齐义虎为《周官》正名，以"大一统"之眼重读疆域、官制与信仰，揭开两千年政制设计的荣光与隐忧。翻开它，读懂中国何以为"中国"！
-
-百度网盘：https://pan.baidu.com/s/1MFa7QlxqvNMdLf1i70BsbA?pwd=kngw
-
-夸克网盘：https://pan.quark.cn/s/93f8f268ae44
-
-阿里云盘：https://www.alipan.com/s/RZjaeetU6EG
-
-📁 大小：N
-
-🏷 标签：#经学 #周礼 #政治制度史 #大一统 #周官 #之制与大一统 #azw3 #epub #mobi #baidu #quark #ali
-
-
-## 老子与西方哲学中西哲学的对撞
-[2026-11-24 06:39]
-
-名称：《老子与西方哲学：中西哲学的对撞》（azw3+epub+mobi+pdf)
-
-描述：两千多年前的隔空对谈！老子与泰勒斯、柏拉图、亚里士多德，竟在万物本原、有无之辨上不谋而合。文聘元带你跨越山海，看中西智慧撞出怎样的火花——零哲学基础也能读懂，一场令人心颤的思想奇遇。
-
-夸克网盘：https://pan.quark.cn/s/65264daea1f3
-
-百度网盘：https://pan.baidu.com/s/1wbu-Q-k_mMvgSXqxxd3UEQ?pwd=kngw 名称：《老子与西方哲学：中西哲学的对撞》（azw3+epub+mobi+pdf)
-
-阿里云盘：https://www.alipan.com/s/JocyP6R2Npt 名称：《老子与西方哲学：中西哲学的对撞》（azw3+epub+mobi+pdf)
-
-📁 大小：N
-
-🏷 标签：#哲学 #老子 #中西比较 #思想文化
-
-
-## 人论人类文化哲学导引
-[2026-11-24 06:39]
-
-名称：《人论：人类文化哲学导引》（azw3+epub+mobi+pdf)
-
-描述：人是什么？卡西尔说：人是符号的动物。神话、语言、艺术、科学，都是人类亲手编织的意义之网。这部"在非人时代为人性所作的颂歌"，四十年后依然滚烫——翻开它，你会重新为自己是"人"而骄傲。
-
-夸克网盘：https://pan.quark.cn/s/51227d016717
-
-百度网盘：https://pan.baidu.com/s/1NBIFvUchou3jAYxv34KzHg?pwd=kngw 名称：《人论：人类文化哲学导引》（azw3+epub+mobi+pdf)
-
-阿里云盘：https://www.alipan.com/s/BccUegATsmj 名称：《人论：人类文化哲学导引》（azw3+epub+mobi+pdf)
-
-📁 大小：N
-
-🏷 标签：#哲学 #文化哲学 #人性探索 #外国经典
-
-
-## 门阀士族
-[2026-11-24 06:39]
-
-名称：《门阀士族》（azw3+epub+mobi+pdf)
-
-描述：七百年风云，十七个世家，一部华夏权力的暗线史！王、谢、萧等高门名士的悲欢里，藏着王朝更迭的真正密码。翻开《门阀士族》，看豪门如何崛起、鼎盛、凋零，在别人的兴衰中读懂世事规律与人心博弈。
-
-夸克网盘：https://pan.quark.cn/s/36ee0dda78e6
-
-百度网盘：https://pan.baidu.com/s/105GEr-Wo7J7IVnHkLZZmAA?pwd=kngw 名称：《门阀士族》（azw3+epub+mobi+pdf)
-
-阿里云盘：https://www.alipan.com/s/t8sR37P4G1z 名称：《门阀士族》（azw3+epub+mobi+pdf)
-
-📁 大小：N
-
-🏷 标签：#历史 #中国古代史 #魏晋南北朝 #门阀世家
-
-
-## 全健康百问百答
-[2026-11-24 06:39]
-
-名称：《全健康百问百答》（azw3+epub+mobi+pdf)
-
-描述：人、动物与自然，本是同一条命运之链！100个问答，揭开传染病、耐药性、食品安全背后的隐秘关联。《全健康百问百答》让你从"我健康"走向"我们健康"——翻开它，读懂生命的辽阔。
-
-夸克网盘：https://pan.quark.cn/s/1bf40df13a16
-
-百度网盘：https://pan.baidu.com/s/1z0Ko0QJGfBE9abNyTLYNgQ?pwd=kngw 名称：《全健康百问百答》（azw3+epub+mobi+pdf)
-
-阿里云盘：https://www.alipan.com/s/WTXDr4zpvib 名称：《全健康百问百答》（azw3+epub+mobi+pdf)
-
-📁 大小：N
-
-🏷 标签：#医学科普 #公共卫生 #全健康 #生态环境
-
-
-## 戈登档案
-[2026-11-24 04:39]
-
-名称：戈登档案(2026)【7集全】【4K.HDR10】【高码率】【内封简繁英】【杜比全景声】【惊悚/传记】
-
-描述：他原本只是个偷艺术品的小贼。一九七〇年代的阿根廷，空气里全是枪声和失踪名单 —— 他一路向上，先钻进国家情报系统 SIDE，再成为准军事组织 "阿根廷反共联盟"(Triple A)的头目之一，最后坐上秘密拘留中心 "Automotores Orletti" 负责人的位子。一个人究竟要怎么转身，才能从墙上摘画的手，变成批捕名单上签字的手？剧里那句画外音一直在追问：你是军警？你是激进分子？你是庇隆主义者 —— 你到底是谁？巴勃罗・特拉佩罗的镜头贴着布宜诺斯艾利斯与巴里洛切的街巷走，罗德里戈・德拉・塞尔纳把那张暧昧的脸演成一道谜。
-
-百度网盘：https://pan.baidu.com/s/1RifotIZ_-z_ZwrUcnKLTdA?pwd=Yu88
-
-迅雷网盘：https://pan.xunlei.com/s/VP78oi7DPYlqiC_QphVld-L6A1?pwd=dpwc
-
-光鸭云盘：https://www.guangyapan.com/s/1972064016594038859_aeWw8Ru726g3wcPx
-
-📁 大小：41.2GB
-
-🏷 标签：#戈登档案 #4K #高码率 #内封简繁英 #杜比全景声 #惊悚 #baidu #xunlei #guangyapan
+🏷 标签：#剧情 #喜剧 #爱情 #印度尼西亚剧 #NF
 
 
 ## 两京十五日
-[2026-11-24 04:30]
+[2026-11-24 22:52]
 
-名称：两京十五日 (2026)【更10集】【4K.HDR10】【高码率】【内嵌简中】【成毅/林更新】
+名称：两京十五日（2026）NF 1080p 内封简中 更至EP12
 
-描述：该剧改编自马伯庸的同名小说，以《明史》“夏四月，以南京地屡震，命往居守” 的记载为灵感，讲述了大明洪熙元年，太子朱瞻基在南京遭遇爆炸案后，与小捕快吴定缘、女医苏荆溪、小官于谦结伴，沿京杭大运河躲避层层追捕，在十五日内奔袭两千两百余里返回北京继承皇位的惊险历程。历经水牢危机、民众风波与幕后黑手围剿，朱瞻基在极限逃亡中完成自我觉醒与命运抗争，守护大明政局稳定的故事。
+描述：改编自马伯庸的同名小说，以《明史》“夏四月，以南京地屡震，命往居守”记载为灵感，讲述了大明洪熙元年，太子朱瞻基在南京遭遇爆炸案后，与小捕快吴定缘、女医苏荆溪、小官于谦结伴，沿京杭大运河躲避层层追捕，在十五日内奔袭两千两百余里返回北京继承皇位的惊险历程。
 
-夸克网盘：https://pan.quark.cn/s/d827d5c215d1
+百度网盘：https://pan.baidu.com/s/19TQzQRkfm9Li6HwJi2KXVQ?pwd=bvgi
 
-百度网盘：https://pan.baidu.com/s/1uUyRwuoP2DwB_bzNwpKrJQ?pwd=Yu88
+夸克网盘：https://pan.quark.cn/s/898346f7cfdc 名称：两京十五日（2026）NF 1080p 内封简中 更至EP12
 
-迅雷网盘：https://pan.xunlei.com/s/VP6toLBNU_e7GHoWZRpFMwCnA1?pwd=yqe8
+UC网盘：https://drive.uc.cn/s/17cb002aa4604 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP12】【成毅/林更新】
 
-光鸭云盘：https://www.guangyapan.com/s/1971933323926900755_aeWw8Ru726g3wcPx
+百度网盘：https://pan.baidu.com/s/1IQCMQnni6ePG6oVPsycTYA?pwd=8888 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP12】【成毅/林更新】
 
-UC网盘：https://drive.uc.cn/s/b25cb582263a4 名称：两京十五日 (2026) 更至10集 [4K][古装/剧情][成毅/林更新]
+夸克网盘：https://pan.quark.cn/s/3c14c3a2644e 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP12】【成毅/林更新】
 
-百度网盘：https://pan.baidu.com/s/1LM3xnnGLCHn8Fv1J-BigfQ?pwd=1120 名称：两京十五日 (2026) 更至10集 [4K][古装/剧情][成毅/林更新]
+百度网盘：https://pan.baidu.com/s/1HJ7cyLlU0WVr42c3xPYDNw?pwd=w3b6 名称：两京十五日 (2026) 4K内封中字至12
 
-夸克网盘：https://pan.quark.cn/s/e8b906b799f4 名称：两京十五日 (2026) 更至10集 [4K][古装/剧情][成毅/林更新]
+夸克网盘：https://pan.quark.cn/s/65f55104d945 名称：两京十五日 (2026) 4K内封中字至12
 
-迅雷网盘：https://pan.xunlei.com/s/VP78ECv6j-e9P4xqB3apcZe7A1?pwd=xxqc 名称：两京十五日 (2026) 更至10集 [4K][古装/剧情][成毅/林更新]
+迅雷网盘：https://pan.xunlei.com/s/VP7CtOXRkI6wSTWXIGu2RiHvA1?pwd=dbi6 名称：两京十五日 (2026) 4K内封中字至12
 
-光鸭云盘：https://www.guangyapan.com/s/1970842840433487878_ao--TrOR7sKiY7EK?code=1120 名称：两京十五日 (2026) 更至10集 [4K][古装/剧情][成毅/林更新]
+夸克网盘：https://pan.quark.cn/s/fd771c30ca58 名称：两京十五日 (2026) 4K HDR DV杜比视界 高码率 DDP5.1 中字 更12集，成毅/林更新/姜珮瑶
+
+夸克网盘：https://pan.quark.cn/s/cb8f7155c65d 名称：两京十五日 4K [2026][HDR][内封多国语字幕][更新至12集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP77XKcHxykw4C_rz6RUoE4hA1?pwd=b26j 名称：两京十五日 4K [2026][HDR][内封多国语字幕][更新至12集]
 
 光鸭云盘：https://www.guangyapan.com/s/1971631609931698260_aeWyYGMH80b6bD4M 名称：两京十五日 (2026）
 
-百度网盘：https://pan.baidu.com/s/1HJ7cyLlU0WVr42c3xPYDNw?pwd=w3b6 名称：两京十五日 (2026) 4K内封中字至10
+百度网盘：https://pan.baidu.com/s/1DOHgRgbuPCkl4lUGoh4TVA?pwd=6666 名称：两京十五日 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新12集]
 
-夸克网盘：https://pan.quark.cn/s/65f55104d945 名称：两京十五日 (2026) 4K内封中字至10
+夸克网盘：https://pan.quark.cn/s/efb4aae49812 名称：两京十五日 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新12集]
 
-阿里云盘：https://www.alipan.com/s/N4UBF57rZM4 名称：两京十五日(2026) 4K 更新至10集
+阿里云盘：https://www.alipan.com/s/YEYdBRmHeVE 名称：两京十五日 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新12集]
 
-夸克网盘：https://pan.quark.cn/s/a2dfa1934ba8 名称：两京十五日 更至10集 (2026) [4K][类型: 剧情/古装][主演: 成毅/林更新/姜珮瑶/吴幸键]
+阿里云盘：https://www.alipan.com/s/JqdKHBsDtPd 名称：两京十五日(2026) 4K 更新至12集
 
-UC网盘：https://drive.uc.cn/s/17cb002aa4604 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP10】【成毅/林更新】
+百度网盘：https://pan.baidu.com/s/1LM3xnnGLCHn8Fv1J-BigfQ?pwd=1120 名称：两京十五日 (2026) 更至12集 [4K][古装/剧情][成毅/林更新]
 
-百度网盘：https://pan.baidu.com/s/1IQCMQnni6ePG6oVPsycTYA?pwd=8888 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP10】【成毅/林更新】
+夸克网盘：https://pan.quark.cn/s/e8b906b799f4 名称：两京十五日 (2026) 更至12集 [4K][古装/剧情][成毅/林更新]
 
-夸克网盘：https://pan.quark.cn/s/3c14c3a2644e 名称：两京十五日 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP10】【成毅/林更新】
+迅雷网盘：https://pan.xunlei.com/s/VP78ECv6j-e9P4xqB3apcZe7A1?pwd=xxqc 名称：两京十五日 (2026) 更至12集 [4K][古装/剧情][成毅/林更新]
 
-夸克网盘：https://pan.quark.cn/s/92316a3ff96c 名称：两京十五日 4K [2026][HDR][内封多国语字幕][更新至10集]
-
-迅雷网盘：https://pan.xunlei.com/s/VP77XKcHxykw4C_rz6RUoE4hA1?pwd=b26j 名称：两京十五日 4K [2026][HDR][内封多国语字幕][更新至10集]
+光鸭云盘：https://www.guangyapan.com/s/1970842840433487878_ao--TrOR7sKiY7EK?code=1120 名称：两京十五日 (2026) 更至12集 [4K][古装/剧情][成毅/林更新]
 
 光鸭云盘：https://www.guangyapan.com/s/1970898732805865518_adyPbY8EdLN_2AZv 名称：两京十五日 (2026)
 
-百度网盘：https://pan.baidu.com/s/1grCTq9dcoPSB5zLPXaivVQ?pwd=2y5j 名称：两京十五日（2026）4K 60FPS S01E01 - E10 杜比音效
+百度网盘：https://pan.baidu.com/s/1oiGhX_gnX13z3JoR6LtKOA?pwd=1111 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至12集]
 
-夸克网盘：https://pan.quark.cn/s/be165905b03d 名称：两京十五日 (2026) 4K SDR 更至EP10
+夸克网盘：https://pan.quark.cn/s/9cc69b8ecf7b 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至12集]
 
-光鸭云盘：https://www.guangyapan.com/s/1971941631861665856_ad5KFI8EdLN_2Dyr 名称：两京十五日 (2026) 4K SDR 更至EP10
+迅雷网盘：https://pan.xunlei.com/s/VP77BvL0SJrCO8RSykDbIRhSA1?pwd=h45t 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至12集]
 
-夸克网盘：https://pan.quark.cn/s/26d9fe8afc00 名称：两京十五日（2026）4K 60FPS S01E01 - E10 杜比音效
+光鸭云盘：https://www.guangyapan.com/s/1971928002001055765_aeWiyJwocgzRgCVm 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至12集]
 
-夸克网盘：https://pan.quark.cn/s/3f1e6f3d3f46 名称：两京十五日 (2026) 4K.更新至10集
+光鸭云盘：https://www.guangyapan.com/s/1971941631861665856_ad5KFI8EdLN_2Dyr 名称：两京十五日 (2026) 4K SDR 更至EP12
 
-百度网盘：https://pan.baidu.com/s/19TQzQRkfm9Li6HwJi2KXVQ?pwd=bvgi 名称：两京十五日（2026）NF 1080p 内封简中 更至EP10
+夸克网盘：https://pan.quark.cn/s/a2dfa1934ba8 名称：两京十五日 更至12集 (2026) [4K][类型: 剧情/古装][主演: 成毅/林更新/姜珮瑶/吴幸键]
 
-夸克网盘：https://pan.quark.cn/s/898346f7cfdc 名称：两京十五日（2026）NF 1080p 内封简中 更至EP10
+夸克网盘：https://pan.quark.cn/s/0289ebaafe15 名称：两京十五日 (2026) 4K.更新至12集
 
-百度网盘：https://pan.baidu.com/s/1ailJgzlXBzC2n03qSKr3xQ?pwd=yptv 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更10集】【剧情/古装】【成毅/林更新】
+百度网盘：https://pan.baidu.com/s/17k6icwTXE_nHcCvaw7Y0MA?pwd=6666 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新12集
 
-夸克网盘：https://pan.quark.cn/s/ea0db11a5a9a 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更10集】【剧情/古装】【成毅/林更新】
+夸克网盘：https://pan.quark.cn/s/83eedfc5eb5c 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新12集
 
-迅雷网盘：https://pan.xunlei.com/s/VP77IAZtjkFHw9FAaTFDCGM1A1?pwd=bi2u 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更10集】【剧情/古装】【成毅/林更新】
+光鸭云盘：https://www.guangyapan.com/s/1971872700610297952_aeWnPia0Twth-NLu 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新12集
 
-百度网盘：https://pan.baidu.com/s/1DOHgRgbuPCkl4lUGoh4TVA?pwd=6666 名称：两京十五日 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新10集]
+百度网盘：https://pan.baidu.com/s/1grCTq9dcoPSB5zLPXaivVQ?pwd=2y5j 名称：两京十五日（2026）4K 60FPS S01E01 - E12 杜比音效
 
-夸克网盘：https://pan.quark.cn/s/efb4aae49812 名称：两京十五日 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新10集]
+夸克网盘：https://pan.quark.cn/s/fef797ab6687 名称：两京十五日（2026）4K 60FPS S01E01 - E12 杜比音效
 
-阿里云盘：https://www.alipan.com/s/YEYdBRmHeVE 名称：两京十五日 (2026) 4K 高码率 [DV&HDR] [内封中字] [更新10集]
+百度网盘：https://pan.baidu.com/s/1ailJgzlXBzC2n03qSKr3xQ?pwd=yptv 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更12集】【剧情/古装】【成毅/林更新】
 
-夸克网盘：https://pan.quark.cn/s/65d837b4199d 名称：两京十五日 (2026) 4K HDR DV杜比视界 高码率 DDP5.1 中字 更10集，成毅/林更新/姜珮瑶
+夸克网盘：https://pan.quark.cn/s/55eccb2c75b7 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更12集】【剧情/古装】【成毅/林更新】
 
-百度网盘：https://pan.baidu.com/s/1-Ts2MoYHPpLTCvdB54RUQQ?pwd=1111 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至10集]
+迅雷网盘：https://pan.xunlei.com/s/VP77IAZtjkFHw9FAaTFDCGM1A1?pwd=bi2u 名称：两京十五日(2026)【4K.HDR.60fps】【内封简中】【更12集】【剧情/古装】【成毅/林更新】
 
-夸克网盘：https://pan.quark.cn/s/25b16e5f3a09 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至10集]
+百度网盘：https://pan.baidu.com/s/1EatktpjcIGmRtdauNMqbww?pwd=689u 名称：两京十五日（2026） 更新至12集
 
-迅雷网盘：https://pan.xunlei.com/s/VP77BvL0SJrCO8RSykDbIRhSA1?pwd=h45t 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至10集]
+夸克网盘：https://pan.quark.cn/s/65d837b4199d 名称：两京十五日 (2026) 4K HDR DV杜比视界 高码率 DDP5.1 中字 更12集，成毅/林更新/姜珮瑶
 
-光鸭云盘：https://www.guangyapan.com/s/1971928002001055765_aeWiyJwocgzRgCVm 名称：两京十五日 (2026) [WEB-4K] [国语中字] [更至10集]
+百度网盘：https://pan.baidu.com/s/1NVSbOdcl2aAImcBzhY_1Nw?pwd=Qiye 名称：两京十五日(2026)4k iQIYI WEB-DL DoVi 杜比视界 简体字幕 第10集
 
-百度网盘：https://pan.baidu.com/s/17k6icwTXE_nHcCvaw7Y0MA?pwd=6666 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新10集
+夸克网盘：https://pan.quark.cn/s/02ccb7e35e9c 名称：两京十五日(2026)4k iQIYI WEB-DL DoVi 杜比视界 简体字幕 第10集
 
-夸克网盘：https://pan.quark.cn/s/210c3874129b 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新10集
+光鸭云盘：https://www.guangyapan.com/s/1970852156599242764_aeWYeSwV3ZOZlzEy 名称：两京十五日(2026)4k iQIYI WEB-DL DoVi 杜比视界 简体字幕 第10集
 
-光鸭云盘：https://www.guangyapan.com/s/1971872700610297952_aeWnPia0Twth-NLu 名称：两京十五日 (2026)剧情 古装 姜珮瑶 4KHDR 更新10集
+📁 大小：1.8G/集
 
-百度网盘：https://pan.baidu.com/s/1EatktpjcIGmRtdauNMqbww?pwd=689u 名称：两京十五日（2026） 更新至10集
-
-📁 大小：5GB/集
-
-🏷 标签：#两京十五日 #4K #高码率 #内嵌简中 #成毅 #林更新 #quark #baidu #xunlei #guangyapan
+🏷 标签：#两京十五日 #成毅 #林更新 #姜佩瑶 #剧情
 
 
-## 无声的回响
-[2026-11-24 04:02]
+## 十万狂花入梦来
+[2026-11-24 22:47]
 
-名称：无声的回响(2026)【更06集】【4K.HQ.HDR】【高码率】【内嵌简中】【剧情/犯罪】【罗晋/王锵】
+名称：十万狂花入梦来 (2026) 4K HQ SDR 60帧率 高码率 国语中字【更新EP20】【李宏毅/孙珍妮】又名：万花灼灼
 
-描述：2011年，西平市九菇湖发生一起命案。刑警马雪松与新人女警孟雯展开调查，发现案件与骆雪失踪案存在关联，并牵涉德利集团等多方人员。随着多起命案浮出水面，一个涉及毒品、洗钱及虐待的犯罪网络逐渐显现。两人在侦查过程中不断接近真相，也各自经历成长与考验。
+描述：“万恶之源”的魔头岐凤殷邂逅“唐僧肉”体质的少女鸭毛，被迫绑定的二人相互厌弃又相互救赎，历经长发枯骨、昼人夜妖、化蛟为龙、血池还魂、红妆剜心、金鱼花火六件诡案，破解幕后阴谋，终洗清彼此污名，还此间世界自由，令有情人得以相守。
 
-夸克网盘：https://pan.quark.cn/s/5c20c8f186a3
+夸克网盘：https://pan.quark.cn/s/479c7f16d06f
 
-百度网盘：https://pan.baidu.com/s/1OAPRuByIFuhIOMEuOcDMrQ?pwd=Yu88
+百度网盘：https://pan.baidu.com/s/1R7TQbywQI_rcM9QeFLh2qg?pwd=8888
 
-迅雷网盘：https://pan.xunlei.com/s/VP6xMtukwPMtycbmTZ4XAqcWA1?pwd=44jz
+UC网盘：https://drive.uc.cn/s/81e40f7c92d94
 
-光鸭云盘：https://www.guangyapan.com/s/1971670888040960017_aeWw8Ru726g3wcPx
+百度网盘：https://pan.baidu.com/s/1nPGxvlvsNYUBpLhCcO-M8g?pwd=6666 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新20集]
 
-UC网盘：https://drive.uc.cn/s/340e0adff0304 名称：无声的回响 (2026) 更至06集 [4K][刑侦][罗晋/张国强/王锵]
+夸克网盘：https://pan.quark.cn/s/f3217ac7fd74 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新20集]
 
-百度网盘：https://pan.baidu.com/s/1za8BqvxWJ32_1tku2reGpg?pwd=1120 名称：无声的回响 (2026) 更至06集 [4K][刑侦][罗晋/张国强/王锵]
+阿里云盘：https://www.alipan.com/s/29kDtLmEV4S 名称：十万狂花入梦来 (2026) 4K HQ 高码率 60FPS [更新20集]
 
-夸克网盘：https://pan.quark.cn/s/211ad3aaa8e1 名称：无声的回响 (2026) 更至06集 [4K][刑侦][罗晋/张国强/王锵]
+UC网盘：https://drive.uc.cn/s/b1d80f8474314 名称：十万狂花入梦来 (2026) 更至20集 [4K][古装/奇幻/爱情][李宏毅/孙珍妮]
 
-迅雷网盘：https://pan.xunlei.com/s/VP6sPNH6Y8LL17B9cqBXq26HA1?pwd=qbw7 名称：无声的回响 (2026) 更至06集 [4K][刑侦][罗晋/张国强/王锵]
+百度网盘：https://pan.baidu.com/s/1oey0WH-npuFu4FRr-tMs3A?pwd=1115 名称：十万狂花入梦来 (2026) 更至20集 [4K][古装/奇幻/爱情][李宏毅/孙珍妮]
 
-光鸭云盘：https://www.guangyapan.com/s/1970817506682159178_ao--TrOR7sKiY7EK?code=1120 名称：无声的回响 (2026) 更至06集 [4K][刑侦][罗晋/张国强/王锵]
+夸克网盘：https://pan.quark.cn/s/45a6906e62d0 名称：十万狂花入梦来 (2026) 更至20集 [4K][古装/奇幻/爱情][李宏毅/孙珍妮]
 
-光鸭云盘：https://www.guangyapan.com/s/1971995662680268852_aeWyYGMH80b6bD4M 名称：无声的回响（2026） 4K 更新至06集
+迅雷网盘：https://pan.xunlei.com/s/VP6taB4QTLFMB5NnI7W7Z0XWA1?pwd=xegk 名称：十万狂花入梦来 (2026) 更至20集 [4K][古装/奇幻/爱情][李宏毅/孙珍妮]
 
-夸克网盘：https://pan.quark.cn/s/f1d0f916d445 名称：无声的回响 (2026) 更至05集 [4K 60帧][类型: 剧情/犯罪][主演: 罗晋/王锵/张国强/陈雨锶]
+光鸭云盘：https://www.guangyapan.com/s/1969243917222039594_ao--TrOR7sKiY7EK?code=1116 名称：十万狂花入梦来 (2026) 更至20集 [4K][古装/奇幻/爱情][李宏毅/孙珍妮]
 
-夸克网盘：https://pan.quark.cn/s/e6fa1c861178 名称：无声的回响 4K [2026][更新至06集]
+阿里云盘：https://www.alipan.com/s/nLpyEme4LXp 名称：十万狂花入梦来(2026) 4K 更新至20集
 
-迅雷网盘：https://pan.xunlei.com/s/VP72b9MQxykw4C_rz6RQJlsPA1?pwd=w2hf 名称：无声的回响 4K [2026][更新至06集]
+百度网盘：https://pan.baidu.com/s/1bs9v2xYlTpk_kyZcxrnMHA?pwd=xdw9 名称：十万狂花入梦来（2026）4K 10bit 60FPS 内封简中 更至E20
 
-阿里云盘：https://www.alipan.com/s/u1hCX1gjZGm 名称：无声的回响(2026) 4K 更新至06集
+夸克网盘：https://pan.quark.cn/s/13c69ff144d0 名称：十万狂花入梦来（2026）4K 10bit 60FPS 内封简中 更至E20
 
-UC网盘：https://drive.uc.cn/s/202f166cc7904 名称：无声的回响 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP06】【罗晋/王锵】
+百度网盘：https://pan.baidu.com/s/1lKhcFe4a8U3GoDMDeUSjDw?pwd=Yu88 名称：十万狂花入梦来(2026)【更19集】【4K.HQ.高码率】【内嵌简中】【爱情/古装】【李宏毅/孙珍妮】
 
-百度网盘：https://pan.baidu.com/s/196KkTt1pI2xeSd3GuLoIeQ?pwd=8888 名称：无声的回响 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP06】【罗晋/王锵】
+夸克网盘：https://pan.quark.cn/s/065f580fbb6a 名称：十万狂花入梦来(2026)【更19集】【4K.HQ.高码率】【内嵌简中】【爱情/古装】【李宏毅/孙珍妮】
 
-夸克网盘：https://pan.quark.cn/s/b3336351b93c 名称：无声的回响 (2026) 4K HQ HDR 60帧率 高码率 国语中字【更新EP06】【罗晋/王锵】
+迅雷网盘：https://pan.xunlei.com/s/VP6TotJa6VWUjYcKjD4g1D_3A1?pwd=rfwh 名称：十万狂花入梦来(2026)【更19集】【4K.HQ.高码率】【内嵌简中】【爱情/古装】【李宏毅/孙珍妮】
 
-百度网盘：https://pan.baidu.com/s/12xZm3O2-JSmE1wIhCWq7xg?pwd=Qiye 名称：无声的回响 (2026)4k Youku WEB-DL DoVi DTS 杜比视界 简体字幕 第6集
+光鸭云盘：https://www.guangyapan.com/s/1969121832940249124_aeWw8Ru726g3wcPx 名称：十万狂花入梦来(2026)【更19集】【4K.HQ.高码率】【内嵌简中】【爱情/古装】【李宏毅/孙珍妮】
 
-夸克网盘：https://pan.quark.cn/s/4f6071272b92 名称：无声的回响 (2026)4k Youku WEB-DL DoVi DTS 杜比视界 简体字幕 第6集
+夸克网盘：https://pan.quark.cn/s/31fe6ae2a9c4 名称：十万狂花入梦来 (2026) 4K SDR 更至EP20
 
-光鸭云盘：https://www.guangyapan.com/s/1970806034304364612_aeWYeSwV3ZOZlzEy 名称：无声的回响 (2026)4k Youku WEB-DL DoVi DTS 杜比视界 简体字幕 第6集
+光鸭云盘：https://www.guangyapan.com/s/1968999665447628812_ad5KFI8EdLN_2Dyr 名称：十万狂花入梦来 (2026) 4K SDR 更至EP20
 
-百度网盘：https://pan.baidu.com/s/1t4SIs2XUFzefXL2m0fXJUg?pwd=6hkq 名称：无声的回响（2026）4K 60FPS S01E01 - E06 DTS音轨
+百度网盘：https://pan.baidu.com/s/1CWZvn_EnXxkZOco0xDCxFQ?pwd=284W 名称：十万狂花入梦来（2026）4K 60FPS S01E01 - E20
 
-夸克网盘：https://pan.quark.cn/s/3c3b8fde58fb 名称：无声的回响（2026）4K 60FPS S01E01 - E06 DTS音轨
+夸克网盘：https://pan.quark.cn/s/d90ee341ec0e 名称：十万狂花入梦来（2026）4K 60FPS S01E01 - E20
 
-📁 大小：4GB/集
+夸克网盘：https://pan.quark.cn/s/d1ff8db00651 名称：十万狂花入梦来 (2026) 4K SDR 高码率 AAC2.0 中字 更20集，李宏毅/孙珍妮
 
-🏷 标签：#无声的回响 #4K #HDR #高码率 #内嵌简中 #剧情 #quark #baidu #xunlei #guangyapan
+百度网盘：https://pan.baidu.com/s/1rgP2EscIj4v27-bUlKpo1g?pwd=9FF9 名称：十万狂花入梦来（2026） 4K 更新至20集
+
+百度网盘：https://pan.baidu.com/s/1gZUPM_DOyyz_FHypS6-2Sg?pwd=yptv 名称：十万狂花入梦来 万花灼灼(2026)【4K.60fps】【内封简中】【更20集】【爱情/古装】【李宏毅/孙珍妮】
+
+夸克网盘：https://pan.quark.cn/s/44db7299ecb4 名称：十万狂花入梦来 万花灼灼(2026)【4K.60fps】【内封简中】【更20集】【爱情/古装】【李宏毅/孙珍妮】
+
+迅雷网盘：https://pan.xunlei.com/s/VP6T-G0S_b20_XOAA8qdPcIMA1?pwd=g5im 名称：十万狂花入梦来 万花灼灼(2026)【4K.60fps】【内封简中】【更20集】【爱情/古装】【李宏毅/孙珍妮】
+
+百度网盘：https://pan.baidu.com/s/1H_5M_4dHWo1PrnJK98i_ng?pwd=6666 名称：十万狂花入梦来 (2026)剧情 爱情 古装 4KHQHDR60FPS 更新20集
+
+夸克网盘：https://pan.quark.cn/s/6a46ffa2e90f 名称：十万狂花入梦来 (2026)剧情 爱情 古装 4KHQHDR60FPS 更新20集
+
+光鸭云盘：https://www.guangyapan.com/s/1968891708894507062_aeWnPia0Twth-NLu 名称：十万狂花入梦来 (2026)剧情 爱情 古装 4KHQHDR60FPS 更新20集
+
+百度网盘：https://pan.baidu.com/s/1VCUFsynVZQOJM8NoNN49VQ?pwd=1111 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至20集]
+
+夸克网盘：https://pan.quark.cn/s/eba2d566c7f3 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至20集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP6TTaWO518tg-II5HwZwjceA1?pwd=2yai 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至20集]
+
+光鸭云盘：https://www.guangyapan.com/s/1968992058792099913_aeWiyJwocgzRgCVm 名称：十万狂花入梦来 (2026) [WEB-4K] [国语中字] [更至20集]
+
+📁 大小：5.5G/集
+
+🏷 标签：#十万狂花入梦来 #剧情 #爱情 #古装 #李宏毅 #孙珍妮 #4K #SDR #60帧率 #高码率 #国语中字 #quark #baidu #uc
+
+
+## 我和妈妈的长征
+[2026-11-24 22:44]
+
+名称：我和妈妈的长征 (2026) 4K HDR 高码率 60帧率 国语中字【更新EP24】【童蕾/张桐】又名：我和妈妈走长征
+
+描述：1934年，苏区红军进行战略转移前夕，去南昌探亲的水葱意外卷入一场对南昌地下党的阴谋屠杀。杀戮中，水葱被侦查员陈子明所救，而她的老公徐广轩被同志掩护，也成了这场阴谋中活下来的人。回到中央苏区，专办此案的潘秀山一口咬定徐广轩是贪生怕死的叛徒，幸亏陈子明带回铁证，从枪口下救出徐广轩，原来潘秀山才是真正的叛徒。第五次反围剿开始，红军迅速转移，徐广轩临危受命，要赶赴湘江战场，夫妻别过。掉队的水葱与陈子明决定追赶大部队。一路上，他们误入土匪窝、遭遇当地军阀、水葱女儿被抓，历经重重危险。千钧一发时刻，徐广轩带团四渡赤水，兵临城下，与军阀郭孝峰对峙，经过一番激烈较量，徐广轩救下妻女，一家团聚，最后率领部队，克服无数艰难险阻，终于到达陕北吴起。
+
+夸克网盘：https://pan.quark.cn/s/d5aaf84e9e99
+
+百度网盘：https://pan.baidu.com/s/1fPEqNTwJ9Yu_tFFgGr-LJw?pwd=8888
+
+UC网盘：https://drive.uc.cn/s/2176b148228f4
+
+百度网盘：https://pan.baidu.com/s/1DtVJqTV3KiLTbwuSK3YkEA?pwd=qmqd 名称：我和妈妈的长征 (2026) 4K HDR 至22
+
+夸克网盘：https://pan.quark.cn/s/e88549f09285 名称：我和妈妈的长征 (2026) 4K HDR 至22
+
+📁 大小：4.5G/集
+
+🏷 标签：#我和妈妈的长征 #剧情 #童蕾 #张桐 #4K #HDR #高码率 #60帧率 #国语中字 #quark #baidu #uc
+
+
+## 我的有罪之人
+[2026-11-24 22:31]
+
+名称：我的有罪之人 (2026) S01全12集 1080P 内封简繁韩字幕
+
+描述：泰刚集团的接班人尹伊俊常务被列为震惊韩国的"置物柜命案"头号嫌犯。为了查明案件真相，刑警姜在熙执行了一个大胆的计划。她隐瞒女性刑警的身分，伪装成男性随行秘书潜入泰刚集团，以便贴身监视伊俊！在这段惊险万分的同行旅程中，案情迎来新的局面，残酷的真相也开始逐渐浮出水面。随着逐步逼近案件真相，伊俊与在熙的心也开始越靠越近。不断飙升的心跳无从掩藏，那份心意总是忍不住想脱口而出。在案件与个人情感之间，伊俊与在熙持续走在危险的钢索上！隐瞒真实身分的在熙与隐藏秘密的伊俊，两人究竟能否触及彼此的真心呢？
+
+夸克网盘：https://pan.quark.cn/s/8cf5526056f7
+
+百度网盘：https://pan.baidu.com/s/1nHXqnHEEzquchJe_5BMeRQ?pwd=1314
+
+夸克网盘：https://pan.quark.cn/s/f590bd3ad53e 名称：我的有罪之人 [2026][1080p][AMZN][内封简繁字幕][更新至11集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP4KT-SM-OKqemOGK8wdxRKvA1?pwd=uc9w 名称：我的有罪之人 [2026][1080p][AMZN][内封简繁字幕][更新至11集]
+
+UC网盘：https://drive.uc.cn/s/40f3970158b54 名称：我的有罪之人 (2026) 1080P 高码率 中文字幕【更新EP11】又名：伪装恋爱 / 为什么不知道我是女人? / 你怎么不知道我是女人？ / 为什么不知道是女人?
+
+百度网盘：https://pan.baidu.com/s/1TNxd6qGo7DEZ2IF4JcOppg?pwd=8888 名称：我的有罪之人 (2026) 1080P 高码率 中文字幕【更新EP11】又名：伪装恋爱 / 为什么不知道我是女人? / 你怎么不知道我是女人？ / 为什么不知道是女人?
+
+夸克网盘：https://pan.quark.cn/s/e8e957881993 名称：我的有罪之人 (2026) 1080P 高码率 中文字幕【更新EP11】又名：伪装恋爱 / 为什么不知道我是女人? / 你怎么不知道我是女人？ / 为什么不知道是女人?
+
+百度网盘：https://pan.baidu.com/s/1YZdjtxBvJEiBkQ8qGx7aHA?pwd=Yu88 名称：我的有罪之人 (2026)【更11集】【WEB-DL.1080p】【内封简韩双语字幕】【喜剧/爱情】
+
+夸克网盘：https://pan.quark.cn/s/8ffca667c404 名称：我的有罪之人 (2026)【更11集】【WEB-DL.1080p】【内封简韩双语字幕】【喜剧/爱情】
+
+迅雷网盘：https://pan.xunlei.com/s/VP77W2iDIhKsuGtGjsPV7ZSJA1?pwd=m8ew 名称：我的有罪之人 (2026)【更11集】【WEB-DL.1080p】【内封简韩双语字幕】【喜剧/爱情】
+
+光鸭云盘：https://www.guangyapan.com/s/1972002082486157342_aeWw8Ru726g3wcPx 名称：我的有罪之人 (2026)【更11集】【WEB-DL.1080p】【内封简韩双语字幕】【喜剧/爱情】
+
+百度网盘：https://pan.baidu.com/s/19ZP94eZxI3-ZDuk5esEADA?pwd=yptv 名称：我的有罪之人 伪装恋爱 为什么不知道我是女人? 你怎么不知道我是女人？ 为什么不知道是女人?(2026)【AMZN.1080p】【内嵌简中】【更11集】【喜剧/爱情】
+
+夸克网盘：https://pan.quark.cn/s/f2f193bbabad 名称：我的有罪之人 伪装恋爱 为什么不知道我是女人? 你怎么不知道我是女人？ 为什么不知道是女人?(2026)【AMZN.1080p】【内嵌简中】【更11集】【喜剧/爱情】
+
+迅雷网盘：https://pan.xunlei.com/s/VP7AB40wF_37sbE9s5mAqIF2A1?pwd=eafj 名称：我的有罪之人 伪装恋爱 为什么不知道我是女人? 你怎么不知道我是女人？ 为什么不知道是女人?(2026)【AMZN.1080p】【内嵌简中】【更11集】【喜剧/爱情】
+
+百度网盘：https://pan.baidu.com/s/1PcnfKf4kQimLk4Srl81-hw?pwd=m82x 名称：我的有罪之人（2026）AMZN 1080p 内封简中 S01E01-E11
+
+夸克网盘：https://pan.quark.cn/s/2b0cf3b37874 名称：我的有罪之人(2026)AMZN 1080p 内封简中 S01E01-E11
+
+百度网盘：https://pan.baidu.com/s/1lnX7GZlHuwoUOcmRJsqObg?pwd=1111 名称：我的有罪之人 나의 유죄인간 (2026) [1080P] [内封多国字幕] [更至11集]
+
+夸克网盘：https://pan.quark.cn/s/800693f77ce3 名称：我的有罪之人 나의 유죄인간 (2026) [1080P] [内封多国字幕] [更至11集]
+
+迅雷网盘：https://pan.xunlei.com/s/VP6XdHozvCxIoq4dyn7UhDxEA1?pwd=4m6p 名称：我的有罪之人 나의 유죄인간 (2026) [1080P] [内封多国字幕] [更至11集]
+
+光鸭云盘：https://www.guangyapan.com/s/1969285533093740630_aeWiyJwocgzRgCVm 名称：我的有罪之人 나의 유죄인간 (2026) [1080P] [内封多国字幕] [更至11集]
+
+📁 大小：30.00 GB
+
+🏷 标签：#我的有罪之人 #喜剧 #剧情 #犯罪 #1080P #内封简繁韩字幕 #quark #baidu
+
+
+## 社交清算
+[2026-11-24 22:29]
+
+名称：社交清算 The Social Reckoning (2026) [WEB-4K] [DV&HDR] [内封简繁]
+
+描述：影片根据震惊全球的“脸书”真实事件改编。当科技巨头凌驾于政府之上，当青少年身心健康成为流量牺牲品，充斥着谎言的数字时代，谁有勇气赌上一切戳穿真相？“脸书”年轻工程师弗朗西丝·霍根(米奇·麦迪森 饰)发现了这个平台最黑暗的秘密，于是联系华尔街日报记者杰夫·霍维茨(杰瑞米·艾伦·怀特 饰)，计划揭露“脸书”内部腐败，开始了对抗这个科技巨头及其创始人马克·扎克伯格(杰瑞米·斯特朗 饰)的艰难道路。
+
+夸克网盘：https://pan.quark.cn/s/14a574b20150
+
+百度网盘：https://pan.baidu.com/s/1yW4ZSl_e9Yz5VbJkIVjVoA?pwd=1111
+
+迅雷网盘：https://pan.xunlei.com/s/VP7Cx1I3CToG268FzIGTNLN7A1?pwd=nwwy
+
+光鸭云盘：https://www.guangyapan.com/s/1972333066201018377_aeWiyJwocgzRgCVm
+
+百度网盘：https://pan.baidu.com/s/1bl2yO-MbJNiRkyL0r_2ePg?pwd=2rv9 名称：社交清算（2026） iT 4K DV&HDR 内封官中
+
+📁 大小：16GB
+
+🏷 标签：#剧情 #传记 #社交清算 #4K #DV #HDR #内封简繁 #quark #baidu #xunlei #guangyapan
+
+
+## 兰香如故
+[2026-11-24 22:25]
+
+名称：兰香如故 (2026) 【谭松韵/刘学义  /爱情/古装】4K SDR S01 47集全
+
+描述：
+
+该剧根据禾晏山小说《兰香缘》改编。
+
+大学士府长孙女沈嘉兰与吏部尚书林家的长孙林锦楼订下婚约，然而朝堂风云突变，祖父沈大学士被判谋逆之罪，沈家惨遭灭门。林家为了自保，与沈家退婚，另与御前新贵赵家结亲。沈嘉兰母亲崔氏曾接济过的林家家奴许万全夫妇用刚病亡的女儿许兰香替下嘉兰。嘉兰从此顶着许 兰香的身份，成为林府的一名三等丫鬟。在艰难的境遇中，兰香没有向命运低头，始终为自己和家人的幸福生活努力着，反抗一切不公与压迫。最终，兰香凭借自己的善良与聪慧，突破阶级身份的束缚，赢得林锦楼倾心的同时也获得了林家上下的信服与尊重，成为林家的当家人，将命运牢牢掌控在自己的手中，为沈家洗刷冤屈讨回公道。
+
+链接：
+
+百度网盘：https://pan.baidu.com/s/1lXt_YzyQqVGB1PZnxeb5Wg?pwd=ruu4
+
+📁 大小：77.41G
+
+🏷 标签：#谭松韵 #刘学义 #李梦 #郑合惠子 #郭柯宇 #更 #剧情 #爱情 #古装 #兰香如故 #4K #SDR #baidu
+
+
+## 花开锦绣
+[2026-11-24 22:24]
+
+名称：花开锦绣 (2026)  4K   SDR 36集全
+
+描述：豪爽重情的私盐贩子赵凌虽出身草莽，却心怀壮志，他结识了遭人诬陷私通的世家名媛小姐傅庭芸，被迫一起逃亡，二人历经家族与朝廷的重重考验，与命运抗争，终成传奇良缘。
+
+剧集改编自吱吱同名言情小说《花开锦绣》。
+
+百度网盘：https://pan.baidu.com/s/1_4gjB0ak73Ler2Ia1C5TGg?pwd=1ziv
+
+📁 大小：44.52G
+
+🏷 标签：#丁禹兮 #邓恩熙 #尤靖茹 #白澍 #吕晓霖 #剧情 #古装 #花开锦绣 #4K #SDR #baidu
+
+
+## 霹雳英雄
+[2026-11-24 22:11]
+
+名称：霹雳英雄 素还真
+
+描述：影片讲述了少年素还真初涉江湖，便被卷入权谋纷争，恩师蒙难。随着真相层层揭开，他执剑向前，一段江湖传奇就此展开。 
+
+夸克网盘：https://pan.quark.cn/s/f32075eb1c8b
+
+📁 大小：7G
+
+🏷 标签：#霹雳布袋戏 #霹雳英雄 #素还真 #quark
 
 
 > 使用方法：点击上表“文档”中的链接进入对应分类，找到需要的资源，复制其中的网盘链接即可转存或下载；若链接失效，可关注后续更新的新条目。
